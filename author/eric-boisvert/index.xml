@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eric Boisvert | CGI</title><link>/author/eric-boisvert/</link><atom:link href="/author/eric-boisvert/index.xml" rel="self" type="application/rss+xml"/><description>Eric Boisvert</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 11:49:33 +0100</lastBuildDate><image><url>/author/eric-boisvert/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url><title>Eric Boisvert</title><link>/author/eric-boisvert/</link></image><item><title>GeoSciML</title><link>/project/geosciml/</link><pubDate>Fri, 12 Jun 2020 11:49:33 +0100</pubDate><guid>/project/geosciml/</guid><description>&lt;ul>
+&lt;li>
+&lt;a href="#what-is-geosciml">What is GeoSciML?&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#why-do-we-need-geosciml">Why do we need GeoSciML?&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#history-of-geosciml">History of GeoSciML&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#downloads-and-other-resources">Downloads and Other Resources&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#global-use-of-geosciml">Global Use of GeoSciML&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="mailto:eric.boisvert2@canada.ca?subject=Application%20to%20join%20the%20GeoSciML%20Standards%20Working%20Group">Join the GeoSciML team&lt;/a>&lt;/p>
+&lt;h2 id="what-is-geosciml">What is GeoSciML&lt;/h2>
+&lt;p>&lt;img src="/img/map_image.jpg" alt="GeoSciML map">&lt;/p>
+&lt;p>&lt;strong>GeoSciML&lt;/strong> is an XML–based data transfer standard for the exchange of digital geoscientific information. It accommodates the representation and description of features typically found on geological maps, as well as being extensible to other geoscience data such as drilling, sampling, and analytical data.&lt;/p>
+&lt;p>GeoSciML provides a standard data structure for a suite of common geologic features (eg, geologic units, structures, earth materials) and artefacts of geological investigations (eg, boreholes, specimens, measurements). Supporting objects such as the geologic timescale and vocabularies are also provided as linked resources, so that they can be used as classifiers for the primary objects in the GeoSciML standard.&lt;/p>
+&lt;p>The GeoSciML data standard is underpinned by several established OGC and ISO standards, including Web Feature Service (WFS – ISO 19142), Geography Markup Language (GML – ISO 19136), Observations &amp;amp; Measurements (O&amp;amp;M – ISO 19156), and SWE Common.&lt;/p>
+&lt;p>A parallel data standard for simple map visualisation, &lt;strong>GeoSciML-Portrayal&lt;/strong>, has also been developed. It enables portrayal of a small simplified subset of the GeoSciML data model using Web Map Services (WMS) or simple Web Feature Services (WFS).&lt;/p>
+&lt;h2 id="why-do-we-need-geosciml">Why do we need GeoSciML&lt;/h2>
+&lt;p>Users of geoscience maps and data know that geological features have no respect for national or provincial borders. Inevitably users of geoscience data will need to source data from more than one data provider. Receiving data in a number of local data formats is recognised as a major impediment to efficient and effective use of data.&lt;/p>
+&lt;p>GeoSciML seeks to provide a single, open source, globally agreed data structure that is used to deliver digital geological data over the internet. Additionally, the use of agreed vocabularies of geoscience terminology provides consistency in the semantic language used across geological datasets. Data providers do not need to change their internal databases to match the GeoSciML structure, but instead translate their data to the GeoSciML structure at the point of delivery.&lt;/p>
+&lt;h2 id="history-of-geosciml">History of GeoSciML&lt;/h2>
+&lt;p>The GeoSciML project was initiated in 2003 under the auspices of the CGI Working Group on Data Model Collaboration. The project was incorporated into the newly formed CGI Interoperability Working Group in 2004. In 2013, development of GeoSciML was moved to the current GeoSciML Standards Working Group, a collaboration between the CGI and the Open Geospatial Consortium (OGC).&lt;/p>
+&lt;p>A number of predecessor projects from North America, Europe, Australia and Asia have had a strong influence on the development of GeoSciML. These include activities undertaken within national statutory bodies (eg, British and Japanese Geological Surveys), in multi-jurisdictional contexts (eg, the
+&lt;a href="http://ngmdb.usgs.gov/www-nadm/" target="_blank" rel="noopener">North American Data Model&lt;/a> for geological maps) or oriented to an industry sector (eg, the Australian Exploration and Mining Markup Language -
+&lt;a href="https://www.seegrid.csiro.au/wiki/bin/view/Xmml/WebHome" target="_blank" rel="noopener">XMML&lt;/a>).&lt;/p>
+&lt;p>The international GeoSciML development team meets at least annually to ensure that GeoSciML continues to address the needs of data providers and users. Most recent meetings have been held in St Petersburg (2013), Tuscon (2014), Ispra (2015), Dublin (2016) and Vienna (2017).&lt;/p>
+&lt;h2 id="downloads-and-other-resources">Downloads and Other Resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.geosciml.org" target="_blank" rel="noopener">www.geosciml.org&lt;/a> — Documentation, cookbooks, UML models, examples, and XML schemas for GeoSciML and GeoSciML-Portrayal.&lt;/li>
+&lt;li>
+&lt;a href="http://schemas.geosciml.org" target="_blank" rel="noopener">schemas.geosciml.org&lt;/a> — XML schemas for GeoSciML and GeoSciML-Portrayal.&lt;/li>
+&lt;li>
+&lt;a href="http://resource.geosciml.org" target="_blank" rel="noopener">resource.geosciml.org&lt;/a> — Geoscience vocabularies to support the GeoSciML data model, developed by the CGI Geoscience Terminology Working group and its predecessors.&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/GeoSciMLPresentations" target="_blank" rel="noopener">Publications and presentations&lt;/a> — Articles and conference abstracts, posters and presentations describing GeoSciML and related projects from 2006 to 2016. (Please respect the copyright of the authors of these publications.)&lt;/li>
+&lt;/ul>
+&lt;h2 id="geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/h2>
+&lt;ul>
+&lt;li>The
+&lt;a href="http://www.opengeospatial.org/projects/groups/geoscimlswg" target="_blank" rel="noopener">GeoSciML SWG&lt;/a> is responsible for development and governance of GeoSciML. Members of the OGC can join the OGC GeoSciML Standards Working Group (SWG) as observers through the
+&lt;a href="https://portal.opengeospatial.org/" target="_blank" rel="noopener">OGC Portal&lt;/a>, and can apply to be full SWG members after a short period.&lt;/li>
+&lt;li>A
+&lt;a href="https://lists.opengeospatial.org/mailman/listinfo/geosciml" target="_blank" rel="noopener">mailing list&lt;/a> is available for anyone interested in GeoSciML development. You do not have to be a member of OGC or the GeoSciML SWG to be on this mailing list.&lt;/li>
+&lt;li>
+&lt;a href="http://external.opengeospatial.org/twiki_public/GeoSciMLswg/WebHome" target="_blank" rel="noopener">Wiki&lt;/a> - The work of the GeoSciML SWG is recorded on its
+&lt;a href="http://external.opengeospatial.org/twiki_public/GeoSciMLswg/WebHome" target="_blank" rel="noopener">public wiki site&lt;/a>. The wiki also contains links to all previous development of the GeoSciML model which was done under the CGI Interoperability Working Group.&lt;/li>
+&lt;/ul>
+&lt;p>The SWG contains members from all over the world, including:&lt;/p>
+&lt;ul>
+&lt;li>Eric Boisvert (Chair - Geological Survey of Canada)&lt;/li>
+&lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
+&lt;li>Sylvain Grellet (BRGM, France)&lt;/li>
+&lt;li>Tim Duffy (British Geological Survey)&lt;/li>
+&lt;li>Marcus Sen (British Geological Survey)&lt;/li>
+&lt;li>James Passmore (British Geological Survey)&lt;/li>
+&lt;li>Jouni Vuollo (Geological Survey of Finland)&lt;/li>
+&lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
+&lt;li>Alistair Ritchie (Landcare Research, New Zealand)&lt;/li>
+&lt;li>Carlo Cipolloni (APAT, Italy)&lt;/li>
+&lt;li>Simon Cox (CSIRO, Australia)&lt;/li>
+&lt;/ul>
+&lt;p>as well as many observers.&lt;/p>
+&lt;h2 id="global-use-of-geosciml">Global Use of GeoSciML&lt;/h2>
+&lt;p>GeoSciML is used, or is endorsed, as the geoscientific data transfer standard by data sharing initiatives across the world. Some examples include:&lt;/p>
+&lt;ul>
+&lt;li>The
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">OneGeology project&lt;/a> is currently demonstrating the use of GeoSciML web feature services and GeoSciML-Portrayal web map services in its portal of world-wide geological map data.&lt;/li>
+&lt;li>The
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">European INSPIRE Directive&lt;/a> is using GeoSciML as its data standard for exchange of geological information between countries of the European Union.&lt;/li>
+&lt;li>The
+&lt;a href="http://usgin.org/" target="_blank" rel="noopener">US Geoscience Information Network&lt;/a> is using GeoSciML-Portrayal and GeoSciML to share geological data between government agencies, educational and private institutions.&lt;/li>
+&lt;li>The
+&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">Canadian Groundwater Information Network&lt;/a> uses an extension of GeoSciML – GroundwaterML – to integrate water well information from multiple jurisdictions.&lt;/li>
+&lt;li>The
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">Australian Geoscience Information Network&lt;/a> and
+&lt;a href="http://auscope.org.au/site/" target="_blank" rel="noopener">AuScope&lt;/a> projects are using GeoSciML to deliver borehole data from Australian state and territory agencies.&lt;/li>
+&lt;li>The
+&lt;a href="http://www.aegos-project.org/index.php" target="_blank" rel="noopener">African-European Georesources Observation System&lt;/a> is promoting GeoSciML as the standard for geoscience data exchange across Africa.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology.jpg" alt="OneGeology logo">&lt;/a>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_logo.jpg" alt="INSPIRE logo">&lt;/a>
+&lt;a href="http://usgin.org/" target="_blank" rel="noopener">&lt;img src="/img/l-logo-usgin-75.png" alt="USGIN logo">&lt;/a>
+&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">&lt;img src="/img/CanGIN.png" alt="Groundwater Information Network logo">&lt;/a>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/AUSGIN-logo.jpg" alt="AUSGIN logo">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope_2019.png" alt="AuScope logo">&lt;/a>
+&lt;a href="https://cordis.europa.eu/project/rcn/89340/factsheet/en" target="_blank" rel="noopener">&lt;img src="/img/aegos.png" alt="AEGOS logo">&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | CGI</title><link>/tag/active/</link><atom:link href="/tag/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>/images/icon_hu688069426e31b244cb1cde4af740851f_754001_512x512_fill_lanczos_center_2.png</url><title>active</title><link>/tag/active/</link></image><item><title>EarthResourceML Working Group</title><link>/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>/project/earthresourceml/</guid><description>&lt;p>
+&lt;a href="mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
+&lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
+&lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
+&lt;p>EarthResourceML makes use of the existing GeoSciML data standard for describing geological materials associated with mineral deposits. It is also underpinned by established OGC and ISO standards, including web feature service (WFS - ISO 19142), geography markup language (GML - ISO 19136), and SWE Common.&lt;/p>
+&lt;p>A parallel data standard for simple visualisation, EarthResourceML-Lite (ERML Lite), has also been developed. It enables the portrayal of a simplified set of the ERML data model using web map services (WMS) or simple web feature services (WFS).&lt;/p>
+&lt;p>Example uses:&lt;/p>
+&lt;p>
+&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
+&lt;h2 id="history-of-earthresourceml">History of EarthResourceML&lt;/h2>
+&lt;p>EarthResourceML (ERML) was born from a model developed by the Australian Government Geoscience Information Committee (GGIC) from 2004–2008. The CGI took over governance of the Australian model in 2008, and, after modifications by the CGI Interoperability Working Group, EarthResourceML version 1.1 was published in 2009. After some further revision, mainly to accommodate the needs of the European INSPIRE Directive, EarthResourceML version 2.0 was published in 2013.&lt;/p>
+&lt;p>Future development of ERML, and the simple-feature variant of ERML (ERML Lite), which supports simple portrayal requirements (e.g. WMS), will be undertaken by the EarthResourceML Working Group.&lt;/p>
+&lt;p>ERML Lite version 1.0 was published in 2016 and the current version (2.0) was accepted in 2017 and published in 2018.&lt;/p>
+&lt;p>The international ERML development team meets at least annually to ensure that ERML continues to address the needs of data providers and users. Recent meetings have been held in St Petersburg (2013), Tuscon (2014), Ispra (2015), Vienna (2017) and Vancouver (2018).&lt;/p>
+&lt;h2 id="downloads-and-other-resources">Downloads and other resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.earthresourceml.org" target="_blank" rel="noopener">www.earthresourceml.org&lt;/a>: documentation, UML models, examples, and XML schemas for ERML and ERML Lite&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://schemas.earthresourceml.org/2.0/" target="_blank" rel="noopener">version 2.0&lt;/a>&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://www.earthresourceml.org/earthresourceml/1.1/xsd/" target="_blank" rel="noopener">version 1.1&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceML" target="_blank" rel="noopener">Wiki&lt;/a> for the development of the ERML data standard&lt;/li>
+&lt;li>
+&lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">resource.geosciml.org&lt;/a>: the GeoSciML vocabulary repository contains useful vocabularies to support delivery of interoperable geological data for mineral occurrences and mines&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations" target="_blank" rel="noopener">publications and presentations&lt;/a>: conference abstracts, posters and presentations describing ERML and related projects from 2007 to 2016. (Please respect the copyright of the authors of these publications.)&lt;/li>
+&lt;/ul>
+&lt;h2 id="global-use-of-erml">Global use of ERML&lt;/h2>
+&lt;p>ERML is used or endorsed as the mineral resources data transfer standard by data-sharing initiatives across the world. Some examples include:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">European INSPIRE Directive&lt;/a>: uses ERML as its data standard for exchange of mineral resource information between countries of the European Union. The implementation projects are
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">Minerals4EU&lt;/a> and
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">EGDI&lt;/a>.&lt;/li>
+&lt;li>The Australian
+&lt;a href="http://auscope.org.au/site/" target="_blank" rel="noopener">AuScope&lt;/a> and
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">AUSGIN&lt;/a> projects use ERML Lite to deliver mineral resource data from state and territory agencies.&lt;/li>
+&lt;li>The
+&lt;a href="http://www.onegeology.org/" target="_blank" rel="noopener">OneGeology project&lt;/a> uses ERML Lite web feature services in its portal of worldwide geological map and mineral resource data.&lt;/li>
+&lt;/ul>
+&lt;h2 id="working-group">Working group&lt;/h2>
+&lt;p>The SWG contains members from all over the world, including:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="mailto:jouni.vuollo@gtk.fi">Jouni Vuollo&lt;/a> (Chair; GTK, Finland)&lt;/li>
+&lt;li>Daniel Cassard (BRGM, France)&lt;/li>
+&lt;li>Tjerk Heijboer (GEUS, Denmark)&lt;/li>
+&lt;li>James Passmore (BGS, UK)&lt;/li>
+&lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
+&lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
+&lt;li>Mickael Sexton (Geoscience Australia)&lt;/li>
+&lt;li>François Tertre (BRGM, France)&lt;/li>
+&lt;li>plus other observers&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_2019.jpg" alt="">&lt;/a>
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="/img/minerals4u_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ASGIN_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology_logo_large.png" alt="">&lt;/a>
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="/img/egdi_logo.jpg" alt="">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>GeoSciML</title><link>/project/geosciml/</link><pubDate>Fri, 12 Jun 2020 11:49:33 +0100</pubDate><guid>/project/geosciml/</guid><description>&lt;ul>
+&lt;li>
+&lt;a href="#what-is-geosciml">What is GeoSciML?&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#why-do-we-need-geosciml">Why do we need GeoSciML?&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#history-of-geosciml">History of GeoSciML&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#downloads-and-other-resources">Downloads and Other Resources&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="#global-use-of-geosciml">Global Use of GeoSciML&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="mailto:eric.boisvert2@canada.ca?subject=Application%20to%20join%20the%20GeoSciML%20Standards%20Working%20Group">Join the GeoSciML team&lt;/a>&lt;/p>
+&lt;h2 id="what-is-geosciml">What is GeoSciML&lt;/h2>
+&lt;p>&lt;img src="/img/map_image.jpg" alt="GeoSciML map">&lt;/p>
+&lt;p>&lt;strong>GeoSciML&lt;/strong> is an XML–based data transfer standard for the exchange of digital geoscientific information. It accommodates the representation and description of features typically found on geological maps, as well as being extensible to other geoscience data such as drilling, sampling, and analytical data.&lt;/p>
+&lt;p>GeoSciML provides a standard data structure for a suite of common geologic features (eg, geologic units, structures, earth materials) and artefacts of geological investigations (eg, boreholes, specimens, measurements). Supporting objects such as the geologic timescale and vocabularies are also provided as linked resources, so that they can be used as classifiers for the primary objects in the GeoSciML standard.&lt;/p>
+&lt;p>The GeoSciML data standard is underpinned by several established OGC and ISO standards, including Web Feature Service (WFS – ISO 19142), Geography Markup Language (GML – ISO 19136), Observations &amp;amp; Measurements (O&amp;amp;M – ISO 19156), and SWE Common.&lt;/p>
+&lt;p>A parallel data standard for simple map visualisation, &lt;strong>GeoSciML-Portrayal&lt;/strong>, has also been developed. It enables portrayal of a small simplified subset of the GeoSciML data model using Web Map Services (WMS) or simple Web Feature Services (WFS).&lt;/p>
+&lt;h2 id="why-do-we-need-geosciml">Why do we need GeoSciML&lt;/h2>
+&lt;p>Users of geoscience maps and data know that geological features have no respect for national or provincial borders. Inevitably users of geoscience data will need to source data from more than one data provider. Receiving data in a number of local data formats is recognised as a major impediment to efficient and effective use of data.&lt;/p>
+&lt;p>GeoSciML seeks to provide a single, open source, globally agreed data structure that is used to deliver digital geological data over the internet. Additionally, the use of agreed vocabularies of geoscience terminology provides consistency in the semantic language used across geological datasets. Data providers do not need to change their internal databases to match the GeoSciML structure, but instead translate their data to the GeoSciML structure at the point of delivery.&lt;/p>
+&lt;h2 id="history-of-geosciml">History of GeoSciML&lt;/h2>
+&lt;p>The GeoSciML project was initiated in 2003 under the auspices of the CGI Working Group on Data Model Collaboration. The project was incorporated into the newly formed CGI Interoperability Working Group in 2004. In 2013, development of GeoSciML was moved to the current GeoSciML Standards Working Group, a collaboration between the CGI and the Open Geospatial Consortium (OGC).&lt;/p>
+&lt;p>A number of predecessor projects from North America, Europe, Australia and Asia have had a strong influence on the development of GeoSciML. These include activities undertaken within national statutory bodies (eg, British and Japanese Geological Surveys), in multi-jurisdictional contexts (eg, the
+&lt;a href="http://ngmdb.usgs.gov/www-nadm/" target="_blank" rel="noopener">North American Data Model&lt;/a> for geological maps) or oriented to an industry sector (eg, the Australian Exploration and Mining Markup Language -
+&lt;a href="https://www.seegrid.csiro.au/wiki/bin/view/Xmml/WebHome" target="_blank" rel="noopener">XMML&lt;/a>).&lt;/p>
+&lt;p>The international GeoSciML development team meets at least annually to ensure that GeoSciML continues to address the needs of data providers and users. Most recent meetings have been held in St Petersburg (2013), Tuscon (2014), Ispra (2015), Dublin (2016) and Vienna (2017).&lt;/p>
+&lt;h2 id="downloads-and-other-resources">Downloads and Other Resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.geosciml.org" target="_blank" rel="noopener">www.geosciml.org&lt;/a> — Documentation, cookbooks, UML models, examples, and XML schemas for GeoSciML and GeoSciML-Portrayal.&lt;/li>
+&lt;li>
+&lt;a href="http://schemas.geosciml.org" target="_blank" rel="noopener">schemas.geosciml.org&lt;/a> — XML schemas for GeoSciML and GeoSciML-Portrayal.&lt;/li>
+&lt;li>
+&lt;a href="http://resource.geosciml.org" target="_blank" rel="noopener">resource.geosciml.org&lt;/a> — Geoscience vocabularies to support the GeoSciML data model, developed by the CGI Geoscience Terminology Working group and its predecessors.&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/GeoSciMLPresentations" target="_blank" rel="noopener">Publications and presentations&lt;/a> — Articles and conference abstracts, posters and presentations describing GeoSciML and related projects from 2006 to 2016. (Please respect the copyright of the authors of these publications.)&lt;/li>
+&lt;/ul>
+&lt;h2 id="geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/h2>
+&lt;ul>
+&lt;li>The
+&lt;a href="http://www.opengeospatial.org/projects/groups/geoscimlswg" target="_blank" rel="noopener">GeoSciML SWG&lt;/a> is responsible for development and governance of GeoSciML. Members of the OGC can join the OGC GeoSciML Standards Working Group (SWG) as observers through the
+&lt;a href="https://portal.opengeospatial.org/" target="_blank" rel="noopener">OGC Portal&lt;/a>, and can apply to be full SWG members after a short period.&lt;/li>
+&lt;li>A
+&lt;a href="https://lists.opengeospatial.org/mailman/listinfo/geosciml" target="_blank" rel="noopener">mailing list&lt;/a> is available for anyone interested in GeoSciML development. You do not have to be a member of OGC or the GeoSciML SWG to be on this mailing list.&lt;/li>
+&lt;li>
+&lt;a href="http://external.opengeospatial.org/twiki_public/GeoSciMLswg/WebHome" target="_blank" rel="noopener">Wiki&lt;/a> - The work of the GeoSciML SWG is recorded on its
+&lt;a href="http://external.opengeospatial.org/twiki_public/GeoSciMLswg/WebHome" target="_blank" rel="noopener">public wiki site&lt;/a>. The wiki also contains links to all previous development of the GeoSciML model which was done under the CGI Interoperability Working Group.&lt;/li>
+&lt;/ul>
+&lt;p>The SWG contains members from all over the world, including:&lt;/p>
+&lt;ul>
+&lt;li>Eric Boisvert (Chair - Geological Survey of Canada)&lt;/li>
+&lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
+&lt;li>Sylvain Grellet (BRGM, France)&lt;/li>
+&lt;li>Tim Duffy (British Geological Survey)&lt;/li>
+&lt;li>Marcus Sen (British Geological Survey)&lt;/li>
+&lt;li>James Passmore (British Geological Survey)&lt;/li>
+&lt;li>Jouni Vuollo (Geological Survey of Finland)&lt;/li>
+&lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
+&lt;li>Alistair Ritchie (Landcare Research, New Zealand)&lt;/li>
+&lt;li>Carlo Cipolloni (APAT, Italy)&lt;/li>
+&lt;li>Simon Cox (CSIRO, Australia)&lt;/li>
+&lt;/ul>
+&lt;p>as well as many observers.&lt;/p>
+&lt;h2 id="global-use-of-geosciml">Global Use of GeoSciML&lt;/h2>
+&lt;p>GeoSciML is used, or is endorsed, as the geoscientific data transfer standard by data sharing initiatives across the world. Some examples include:&lt;/p>
+&lt;ul>
+&lt;li>The
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">OneGeology project&lt;/a> is currently demonstrating the use of GeoSciML web feature services and GeoSciML-Portrayal web map services in its portal of world-wide geological map data.&lt;/li>
+&lt;li>The
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">European INSPIRE Directive&lt;/a> is using GeoSciML as its data standard for exchange of geological information between countries of the European Union.&lt;/li>
+&lt;li>The
+&lt;a href="http://usgin.org/" target="_blank" rel="noopener">US Geoscience Information Network&lt;/a> is using GeoSciML-Portrayal and GeoSciML to share geological data between government agencies, educational and private institutions.&lt;/li>
+&lt;li>The
+&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">Canadian Groundwater Information Network&lt;/a> uses an extension of GeoSciML – GroundwaterML – to integrate water well information from multiple jurisdictions.&lt;/li>
+&lt;li>The
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">Australian Geoscience Information Network&lt;/a> and
+&lt;a href="http://auscope.org.au/site/" target="_blank" rel="noopener">AuScope&lt;/a> projects are using GeoSciML to deliver borehole data from Australian state and territory agencies.&lt;/li>
+&lt;li>The
+&lt;a href="http://www.aegos-project.org/index.php" target="_blank" rel="noopener">African-European Georesources Observation System&lt;/a> is promoting GeoSciML as the standard for geoscience data exchange across Africa.&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology.jpg" alt="OneGeology logo">&lt;/a>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_logo.jpg" alt="INSPIRE logo">&lt;/a>
+&lt;a href="http://usgin.org/" target="_blank" rel="noopener">&lt;img src="/img/l-logo-usgin-75.png" alt="USGIN logo">&lt;/a>
+&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">&lt;img src="/img/CanGIN.png" alt="Groundwater Information Network logo">&lt;/a>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/AUSGIN-logo.jpg" alt="AUSGIN logo">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope_2019.png" alt="AuScope logo">&lt;/a>
+&lt;a href="https://cordis.europa.eu/project/rcn/89340/factsheet/en" target="_blank" rel="noopener">&lt;img src="/img/aegos.png" alt="AEGOS logo">&lt;/a>&lt;/p></description></item><item><title>Geoscience Terminology Working Group (GTWG)</title><link>/project/geoscienceterminology/</link><pubDate>Wed, 12 Jun 2019 11:50:03 +0100</pubDate><guid>/project/geoscienceterminology/</guid><description>&lt;p>
+&lt;a href="mailto:chair.gtwg@gmail.com?subject=[Application]%20to%20join%20the%20Geoscience%20%20Working%20Group">Join the Geoscience Terminology team&lt;/a>&lt;/p>
+&lt;h2 id="what-gtwg-does">What GTWG does&lt;/h2>
+&lt;p>The Geoscience Terminology Working Group develops, reviews, adopts, publishes and acts as steward for internationally accepted geoscience vocabularies under the auspices of the Commission for the Application and Management of Geoscience Information (CGI). The GTWG manages these vocabularies and their associated documentation for use in geoscience information systems, in particular for the
+&lt;a href="/project/geosciml/">GeoSciML&lt;/a> and
+&lt;a href="/project/earthresourceml/">EarthResourceML&lt;/a> data transfer standards. The group assesses proposals for new geoscience vocabularies and change requests for existing CGI vocabularies. GTWG also liaises with other semantic interoperability groups to ensure cross-domain interoperability and promotes the use of vocabularies for enhanced dataset interoperability.&lt;/p>
+&lt;h2 id="our-vocabularies">Our vocabularies&lt;/h2>
+&lt;p>More than 100 geoscience vocabularies have been identified to support the
+&lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">GeoSciML&lt;/a> and
+&lt;a href="http://www.earthresourceml.org/" target="_blank" rel="noopener">EarthResourceML&lt;/a> data models and over 50 of these have now been compiled and adopted. These are available through the
+&lt;a href="http://resource.geosciml.org/def/voc/" target="_blank" rel="noopener">CGI vocabularies register&lt;/a>. These vocabularies include key lists such as:&lt;/p>
+&lt;p>
+&lt;a href="http://resource.geosciml.org/classifier/cgi/lithology" target="_blank" rel="noopener">lithology&lt;/a>&lt;/p>
+&lt;p>265 lithological rock names, hierarchically organised around up to six levels e.g. tholeiitic basalt, basalt, basic igneous rock, basic igneous material, igneous material, compound material&lt;/p>
+&lt;p>
+&lt;a href="http://resource.geosciml.org/classifier/cgi/commodity-code" target="_blank" rel="noopener">resource commodity types&lt;/a>&lt;/p>
+&lt;p>293 types of earth-sourced commodity, hierarchically organised around up to six levels e.g. anthracite, coal, carbonaceous material, organic material, industrial material, direct use commodity&lt;/p>
+&lt;p>
+&lt;a href="http://resource.geosciml.org/classifier/cgi/contacttype" target="_blank" rel="noopener">nature of rock unit contacts&lt;/a>&lt;/p>
+&lt;p>36 types of geological contacts, hierarchically organised around up to five levels, e.g. angular unconformable contact, unconformable contact, depositional contact, lithogenetic contact, contact&lt;/p>
+&lt;p>
+&lt;a href="http://resource.geosciml.org/classifier/cgi/boreholedrillingmethod" target="_blank" rel="noopener">borehole drilling method&lt;/a>&lt;/p>
+&lt;p>30 types of drilling technology, hierarchically organised around up to three levels e.g. gravity core, direct push, core drilling&lt;/p>
+&lt;p>The important
+&lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">CGI geological time vocabulary service&lt;/a> will be merged into the main CGI vocabularies register in the near future. The geological time vocabulary draws on age definitions established by the
+&lt;a href="http://www.stratigraphy.org/" target="_blank" rel="noopener">International Commission on Stratigraphy&lt;/a> and was the first CGI vocabulary to provide multi-lingual terms, currently in 19 languages.&lt;/p>
+&lt;p>The CGI vocabulary service is hosted by the
+&lt;a href="http://www.ands.org.au/" target="_blank" rel="noopener">Australian National Data Service&lt;/a> and is administered through
+&lt;a href="http://www.ga.gov.au/" target="_blank" rel="noopener">Geoscience Australia&lt;/a>. Additional resources are available from the
+&lt;a href="https://vocabs.ands.org.au/search#!/?q=&amp;amp;p=1&amp;amp;publisher=CGI%20Geoscience%20Terminology%20Working%20Group" target="_blank" rel="noopener">Research Vocabularies Australia website&lt;/a>, including downloadable code-lists in Resource Description Framework (RDF) formats (e.g. RDF/XML, JSON, Turtle) and Linked Data APIs.&lt;/p>
+&lt;h2 id="background">Background&lt;/h2>
+&lt;p>The CGI has had two previous workgroups involved in vocabulary production. The Multi-lingual Thesaurus Working Group was formed in 2003 to continue work of the Multhes working group of the 1990s. The Concept Definition Task Group was formed by the CGI Interoperability Working Group in 2007 to develop concept vocabularies for populating GeoSciML interchange documents. Because of the overlapping interests the CGI council has determined that it will be more efficient and effective to merge the efforts. The Geoscience Terminology Working Group was established early in 2013 to undertake this combined role.&lt;/p>
+&lt;h2 id="why-are-vocabularies-needed">Why are vocabularies needed?&lt;/h2>
+&lt;p>&lt;img src="/img/granite_lithology.jpg" alt="Granite lithology">&lt;/p>
+&lt;p>Vocabularies are restricted lists of agreed terms that describe features contained in database fields. By limiting database values to the contents of common agreed vocabularies the interoperability and interchange of the information is enhanced. The list contents are also multi-lingual where translations of the originating list language are made available in other languages. Vocabularies also organise their terms hierarchically so that terms can be parts of a group that is a valid term itself. For example &amp;ldquo;basalt&amp;rdquo; and &amp;ldquo;gabbroic rock&amp;rdquo; are narrower adopted CGI terms for the broader level &amp;ldquo;basic igneous rock&amp;rdquo;. and this enables database searching or map portrayal based on either the broader or the narrower term.&lt;/p>
+&lt;h2 id="how-vocabularies-are-adopted">How vocabularies are adopted&lt;/h2>
+&lt;p>Proposals for new geoscience vocabularies or change requests for existing CGI vocabularies, are lodged with the GTWG, usually instigated from within the group but can be initiated from outside for a specific requirement. Each proposal is assessed by the group to establish whether the changes are minor and do not require the GTWG&amp;rsquo;s formal consultation, review and adoption process or whether the proposed changes are significant and need input from the group. Each new or changed vocabulary proposal is assigned a &amp;lsquo;shepherd&amp;rsquo; responsible for developing a draft vocabulary if new, or modifying a version of an existing vocabulary. The vocabulary proposal is then reviewed by the GTWG and through them colleagues and the wider community. After consultation and response to comments, the shepherd recommends voting for its adoption to the GTWG. Upon adoption, the vocabulary is registered in the CGI vocabulary repository.&lt;/p>
+&lt;p>Initial vocabulary development typically begins with a spreadsheet compilation of candidate terms using Excel and Google Sheets shared spreadsheets on the GTWG Google Drive facility. When a vocabulary has been completed, reviewed and adopted, it is migrated into
+&lt;a href="http://www.w3.org/2004/02/skos/" target="_blank" rel="noopener">SKOS&lt;/a>, an
+&lt;a href="https://www.w3.org/2001/sw/wiki/RDF" target="_blank" rel="noopener">RDF&lt;/a> application for encoding concepts with identifiers, definitions, source information, standard thesaurus type relationships, and language-localized labels. The RDF-encoded file is then migrated on to the vocabulary server, for example the
+&lt;a href="http://resource.geosciml.org/classifier/cgi/commodity-code/" target="_blank" rel="noopener">commodity code vocabulary&lt;/a>.&lt;/p>
+&lt;h2 id="how-to-lodge-a-request-for-change">How to lodge a Request for Change&lt;/h2>
+&lt;p>A Request for Change refers to a proposal to modify an adopted existing CGI vocabulary or to propose a new geoscience vocabulary. The GTWG recognise that the adopted vocabularies will not always suit all user requirements and that needs of the wider geoscience community will evolve. Adopted vocabularies should be regarded as live working versions rather than irrevocably finalised. The GTWG will consider a Request for Change from groups or individuals outside of the working group. These Requests for Change can be sent to the working group via an email request to &lt;a href="mailto:chair.gtwg@gmailcom">chair.gtwg@gmailcom&lt;/a>. Alternatively a Request for Change can be sent to a GTWG member directly.&lt;/p>
+&lt;h2 id="membership">Membership&lt;/h2>
+&lt;p>The GTWG contains members from all over the world. The current membership of 27 includes representatives from geological surveys of Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Great Britain, Italy, New Zealand, Russia, Slovenia, Sweden and USA.&lt;/p>
+&lt;p>The GTWG needs active participation in the construction of geoscience vocabularies. Participants with expertise in specialist geoscience domains, information science and data models are particularly welcomed. For those who would like to contribute to the GTWG should contact the Chair, outlining their areas of expertise and their capacity to assist.&lt;/p></description></item><item><title>Regional Working Groups</title><link>/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
+&lt;h2 id="the-role-of-regional-working-groups">The Role of Regional Working Groups&lt;/h2>
+&lt;p>The CGI’s broad aim is to enable the global exchange of geoscience information and systems. Recognising that the CGI council member will be able only to provide continental scale regional representation, the CGI council recognises the potential need to institute working groups that will address the specialised technical or scientific needs of regions defined by culture, geography or politics and encourages the establishment of CGI Regional Working Groups (RWG).&lt;/p>
+&lt;h2 id="rgw-activities">RGW Activities&lt;/h2>
+&lt;p>RWGs will be required to respect the aims and policies of the CGI as outlined in the CGI Statutes and organise their own activities. In the interests of maintaining a consistent approach across all CGI activities and regions, RGWs must seek CGI Council approval before endorsing as a CGI product or standard, any locally developed standard, tool, or system. Where appropriate, RWGs can play an important role representing and promoting CGI aims and policies at relevant regional conferences, workshops and meetings but must inform CGI council if doing so.&lt;/p>
+&lt;h2 id="funding">Funding&lt;/h2>
+&lt;p>The CGI is unfortunately unable to provide funding support to RGWs but will work to facilitate their operations wherever possible.&lt;/p>
+&lt;h2 id="liaison-with-cgi-council">Liaison with CGI Council&lt;/h2>
+&lt;p>CGI council will identify a council member to act as a liaison with the chairman of the RGW. The designated CGI council member will represent the RWG at CGI council meeting and be responsible for keeping their RWG(s) informed of CGI developments. Where appropriate, RGW chairmen may be requested to attend all or part of CGI council meetings.&lt;/p>
+&lt;h2 id="application">Application&lt;/h2>
+&lt;p>Individuals wishing to form a RGW should make a written proposal to the CGI Council including:-&lt;/p>
+&lt;ol>
+&lt;li>Identification of the region they propose to represent;&lt;/li>
+&lt;li>Their specific regional issues;&lt;/li>
+&lt;li>Their proposed activities;&lt;/li>
+&lt;li>Identification of a chairman and list of interested individuals and their affiliations;&lt;/li>
+&lt;li>Full contact information for the proposed chairman (phone, address, email, fax).&lt;/li>
+&lt;/ol>
+&lt;p>Where possible, RGWs are encouraged to include as members, individuals from different institutions such as universities, geological surveys and industry. The CGI Council will evaluate proposals to establish RWGs and respond to the designated chairman within three weeks.&lt;/p></description></item></channel></rss>

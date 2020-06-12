@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | CGI</title><link>/category/active/</link><atom:link href="/category/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>/images/icon_hu688069426e31b244cb1cde4af740851f_754001_512x512_fill_lanczos_center_2.png</url><title>active</title><link>/category/active/</link></image><item><title>EarthResourceML Working Group</title><link>/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>/project/earthresourceml/</guid><description>&lt;p>
+&lt;a href="mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
+&lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
+&lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
+&lt;p>EarthResourceML makes use of the existing GeoSciML data standard for describing geological materials associated with mineral deposits. It is also underpinned by established OGC and ISO standards, including web feature service (WFS - ISO 19142), geography markup language (GML - ISO 19136), and SWE Common.&lt;/p>
+&lt;p>A parallel data standard for simple visualisation, EarthResourceML-Lite (ERML Lite), has also been developed. It enables the portrayal of a simplified set of the ERML data model using web map services (WMS) or simple web feature services (WFS).&lt;/p>
+&lt;p>Example uses:&lt;/p>
+&lt;p>
+&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
+&lt;h2 id="history-of-earthresourceml">History of EarthResourceML&lt;/h2>
+&lt;p>EarthResourceML (ERML) was born from a model developed by the Australian Government Geoscience Information Committee (GGIC) from 2004–2008. The CGI took over governance of the Australian model in 2008, and, after modifications by the CGI Interoperability Working Group, EarthResourceML version 1.1 was published in 2009. After some further revision, mainly to accommodate the needs of the European INSPIRE Directive, EarthResourceML version 2.0 was published in 2013.&lt;/p>
+&lt;p>Future development of ERML, and the simple-feature variant of ERML (ERML Lite), which supports simple portrayal requirements (e.g. WMS), will be undertaken by the EarthResourceML Working Group.&lt;/p>
+&lt;p>ERML Lite version 1.0 was published in 2016 and the current version (2.0) was accepted in 2017 and published in 2018.&lt;/p>
+&lt;p>The international ERML development team meets at least annually to ensure that ERML continues to address the needs of data providers and users. Recent meetings have been held in St Petersburg (2013), Tuscon (2014), Ispra (2015), Vienna (2017) and Vancouver (2018).&lt;/p>
+&lt;h2 id="downloads-and-other-resources">Downloads and other resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.earthresourceml.org" target="_blank" rel="noopener">www.earthresourceml.org&lt;/a>: documentation, UML models, examples, and XML schemas for ERML and ERML Lite&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://schemas.earthresourceml.org/2.0/" target="_blank" rel="noopener">version 2.0&lt;/a>&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://www.earthresourceml.org/earthresourceml/1.1/xsd/" target="_blank" rel="noopener">version 1.1&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceML" target="_blank" rel="noopener">Wiki&lt;/a> for the development of the ERML data standard&lt;/li>
+&lt;li>
+&lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">resource.geosciml.org&lt;/a>: the GeoSciML vocabulary repository contains useful vocabularies to support delivery of interoperable geological data for mineral occurrences and mines&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations" target="_blank" rel="noopener">publications and presentations&lt;/a>: conference abstracts, posters and presentations describing ERML and related projects from 2007 to 2016. (Please respect the copyright of the authors of these publications.)&lt;/li>
+&lt;/ul>
+&lt;h2 id="global-use-of-erml">Global use of ERML&lt;/h2>
+&lt;p>ERML is used or endorsed as the mineral resources data transfer standard by data-sharing initiatives across the world. Some examples include:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">European INSPIRE Directive&lt;/a>: uses ERML as its data standard for exchange of mineral resource information between countries of the European Union. The implementation projects are
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">Minerals4EU&lt;/a> and
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">EGDI&lt;/a>.&lt;/li>
+&lt;li>The Australian
+&lt;a href="http://auscope.org.au/site/" target="_blank" rel="noopener">AuScope&lt;/a> and
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">AUSGIN&lt;/a> projects use ERML Lite to deliver mineral resource data from state and territory agencies.&lt;/li>
+&lt;li>The
+&lt;a href="http://www.onegeology.org/" target="_blank" rel="noopener">OneGeology project&lt;/a> uses ERML Lite web feature services in its portal of worldwide geological map and mineral resource data.&lt;/li>
+&lt;/ul>
+&lt;h2 id="working-group">Working group&lt;/h2>
+&lt;p>The SWG contains members from all over the world, including:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="mailto:jouni.vuollo@gtk.fi">Jouni Vuollo&lt;/a> (Chair; GTK, Finland)&lt;/li>
+&lt;li>Daniel Cassard (BRGM, France)&lt;/li>
+&lt;li>Tjerk Heijboer (GEUS, Denmark)&lt;/li>
+&lt;li>James Passmore (BGS, UK)&lt;/li>
+&lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
+&lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
+&lt;li>Mickael Sexton (Geoscience Australia)&lt;/li>
+&lt;li>François Tertre (BRGM, France)&lt;/li>
+&lt;li>plus other observers&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_2019.jpg" alt="">&lt;/a>
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="/img/minerals4u_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ASGIN_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology_logo_large.png" alt="">&lt;/a>
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="/img/egdi_logo.jpg" alt="">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>Regional Working Groups</title><link>/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
+&lt;h2 id="the-role-of-regional-working-groups">The Role of Regional Working Groups&lt;/h2>
+&lt;p>The CGI’s broad aim is to enable the global exchange of geoscience information and systems. Recognising that the CGI council member will be able only to provide continental scale regional representation, the CGI council recognises the potential need to institute working groups that will address the specialised technical or scientific needs of regions defined by culture, geography or politics and encourages the establishment of CGI Regional Working Groups (RWG).&lt;/p>
+&lt;h2 id="rgw-activities">RGW Activities&lt;/h2>
+&lt;p>RWGs will be required to respect the aims and policies of the CGI as outlined in the CGI Statutes and organise their own activities. In the interests of maintaining a consistent approach across all CGI activities and regions, RGWs must seek CGI Council approval before endorsing as a CGI product or standard, any locally developed standard, tool, or system. Where appropriate, RWGs can play an important role representing and promoting CGI aims and policies at relevant regional conferences, workshops and meetings but must inform CGI council if doing so.&lt;/p>
+&lt;h2 id="funding">Funding&lt;/h2>
+&lt;p>The CGI is unfortunately unable to provide funding support to RGWs but will work to facilitate their operations wherever possible.&lt;/p>
+&lt;h2 id="liaison-with-cgi-council">Liaison with CGI Council&lt;/h2>
+&lt;p>CGI council will identify a council member to act as a liaison with the chairman of the RGW. The designated CGI council member will represent the RWG at CGI council meeting and be responsible for keeping their RWG(s) informed of CGI developments. Where appropriate, RGW chairmen may be requested to attend all or part of CGI council meetings.&lt;/p>
+&lt;h2 id="application">Application&lt;/h2>
+&lt;p>Individuals wishing to form a RGW should make a written proposal to the CGI Council including:-&lt;/p>
+&lt;ol>
+&lt;li>Identification of the region they propose to represent;&lt;/li>
+&lt;li>Their specific regional issues;&lt;/li>
+&lt;li>Their proposed activities;&lt;/li>
+&lt;li>Identification of a chairman and list of interested individuals and their affiliations;&lt;/li>
+&lt;li>Full contact information for the proposed chairman (phone, address, email, fax).&lt;/li>
+&lt;/ol>
+&lt;p>Where possible, RGWs are encouraged to include as members, individuals from different institutions such as universities, geological surveys and industry. The CGI Council will evaluate proposals to establish RWGs and respond to the designated chairman within three weeks.&lt;/p></description></item></channel></rss>
