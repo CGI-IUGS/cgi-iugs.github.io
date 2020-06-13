@@ -2,8 +2,8 @@
   "name": "CGI",
   "short_name": "CGI",
   "lang": "en-us",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu688069426e31b244cb1cde4af740851f_754001_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
