@@ -84,12 +84,77 @@
 &lt;ul>
 &lt;li>
 &lt;a href="/members/home.cfm">Please login&lt;/a> to view council minutes&lt;/li>
-&lt;/ul></description></item><item><title>Useful Links</title><link>/misc/links/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>/misc/links/</guid><description>&lt;h1 id="publications">Publications&lt;/h1>
+&lt;/ul></description></item><item><title>Useful Links</title><link>/misc/links/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>/misc/links/</guid><description>&lt;h1 id="standards">Standards&lt;/h1>
+&lt;p>CGI-developed data standards&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/GeoSciMLPresentations" target="_blank" rel="noopener">GeoSciML publications&lt;/a>&lt;/li>
+&lt;a href="http://geosciml.org/" target="_blank" rel="noopener">GeoSciML&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations" target="_blank" rel="noopener">EarthResourceML publications&lt;/a>&lt;/li>
+&lt;a href="http://earthresourceml.org/" target="_blank" rel="noopener">EarthResourceML&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>OGC data standards&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards" target="_blank" rel="noopener">Full list of OGC standards&lt;/a>&lt;/li>
+&lt;li>XML encoding standards that support GeoSciML and EarthResourceML
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/gml" target="_blank" rel="noopener">Geography Markup Language&lt;/a> (GML) - also published as ISO 19136&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/om" target="_blank" rel="noopener">Observations &amp;amp; Measurements (O&amp;amp;M)&lt;/a> - also published as ISO 19156&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/swecommon" target="_blank" rel="noopener">SWE Common Data Model&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Web service interface specifications
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/wms" target="_blank" rel="noopener">Web Map Service&lt;/a> (WMS)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/wmc" target="_blank" rel="noopener">Web Map Context&lt;/a> (WMC)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/sld" target="_blank" rel="noopener">Styled Layer Descriptor&lt;/a> (SLD)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/wfs" target="_blank" rel="noopener">Web Feature Service&lt;/a> (WFS)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/filter" target="_blank" rel="noopener">Filter Encoding&lt;/a> (FES)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/wcs" target="_blank" rel="noopener">Web Coverage Service&lt;/a> (WCS)&lt;/li>
+&lt;li>
+&lt;a href="http://www.opengeospatial.org/standards/cat" target="_blank" rel="noopener">Catalogue Services Specification&lt;/a> (CSW)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>ISO data standards for Geographic Information/Geomatics (TC211)&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.isotc211.org/Outreach/Overview/Overview.htm" target="_blank" rel="noopener">Overview and introduction&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=54904" target="_blank" rel="noopener">Published standards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Ontologies, vocabularies, semantic web principles and technologies&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>
+&lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">CGI geoscience vocabularies&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>
+&lt;a href="http://www.w3.org/standards/semanticweb/" target="_blank" rel="noopener">The Semantic Web&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>
+&lt;a href="http://en.wikipedia.org/wiki/Resource_Description_Framework" target="_blank" rel="noopener">RDF - Resource Description Framework&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>
+&lt;a href="http://www.w3.org/2004/02/skos/" target="_blank" rel="noopener">SKOS - Simple Knowledge Organization System&lt;/a>
+&lt;a href="http://en.wikipedia.org/wiki/Web_Ontology_Language" target="_blank" rel="noopener">&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>
+&lt;a href="http://www.w3.org/TR/owl-features/" target="_blank" rel="noopener">OWL - Web Ontology Language&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h1 id="useful-geoscience-information-links">Useful geoscience information links&lt;/h1>
 &lt;table>

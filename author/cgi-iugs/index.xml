@@ -243,7 +243,44 @@
 &lt;p>
 &lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/img/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
 &lt;p>We invite all CGI members to join our
-&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p></description></item><item><title>Newsletter Issue 3</title><link>/post/newsletter-issue-3/</link><pubDate>Wed, 14 Jan 2015 23:46:16 +0100</pubDate><guid>/post/newsletter-issue-3/</guid><description>&lt;h1 id="newsletter--issue-3--january-2015">Newsletter | Issue 3 | January 2015&lt;/h1>
+&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p></description></item><item><title>2016 IUGS Science Excellence Award in Geoscience Information</title><link>/post/award2016/</link><pubDate>Fri, 17 Jun 2016 20:18:37 +0100</pubDate><guid>/post/award2016/</guid><description>&lt;p>&lt;img src="/img/steve_richard.jpg" alt="Dr Stephen Richard">&lt;/p>
+&lt;p>&lt;strong>Dr Stephen Richard&lt;/strong>&lt;br>
+Interdisciplinary Earth Data Alliance&lt;br>
+Lamont-Doherty Earth Observatory, Columbia University, New York, USA&lt;br>
+(previously Senior Geologist and Head of Geoinformatics, Arizona Geological Survey, Tucson, USA)&lt;/p>
+&lt;h3 id="award-citation">Award Citation&lt;/h3>
+&lt;p>Steve Richard has been a global leader in the field of geological informatics for many years, and is well known and respected by the entire community. It is the CGI Council&amp;rsquo;s pleasure to nominate him for the outstanding scientist award.&lt;/p>
+&lt;p>Steve was a research geologist and Head of Geoinformatics at the Arizona Geological Survey from 1992 until 2016, but his influence on North American and international geoinformatics extends way beyond the borders of Arizona.&lt;/p>
+&lt;p>Steve was a leading member of the North American Geological Map Data Model (NADM) Steering Committee from 2000 to 2007. He worked with this consortium of American and Canadian geoscientists, database designers, and developers of geologic map information to develop a comprehensive geological data model that would form one of the foundations for global standards development through the IUGS Commission for the Management and Application of Geoscience Information (CGI).&lt;/p>
+&lt;p>Steve was a founding member of the IUGS CGI Interoperability Working Group in 2004. As part of this group, Steve was a leading force for over 10 years in the development of the GeoSciML standard for geoscience data transfer. In 2016, GeoSciML is now recognised as the data transfer standard for geoscience data sharing projects around the world, including OneGeology, INSPIRE, USGIN, AuScope and others.&lt;/p>
+&lt;p>Steve has also been deeply involved in development of international geoscience vocabularies through the IUGS CGI Controlled Vocabularies Working Group, and was the founding Chair of the successor CGI Geoscience Terminology Working Group. Over 30 internationally-agreed vocabularies were published under Steve&amp;rsquo;s leadership.&lt;/p>
+&lt;p>Steve has been a leader in technical development of the US Geoscience Information Network (USGIN) - especially as chief architect of the US National Geothermal Data System - to deploy web services for geoscience information exchange. His advocacy of OGC and CGI standards in US geological surveys has led to these global standards being embedded in North American data delivery best practice.&lt;/p>
+&lt;p>Steve has also recently worked with the International Organization for Standardization as the editor of the ISO19115-3 geospatial metadata standard, and is an active participant in the Earth Cube geoscience community in the USA.&lt;/p>
+&lt;p>&amp;ldquo;I am deeply honoured to have received the Science Excellence Award 2016 In Geoscience Information. Thank you for the nomination!&amp;rdquo; said Steve.&lt;/p></description></item><item><title>Metadata</title><link>/project/metadata/</link><pubDate>Fri, 17 Jun 2016 19:59:03 +0100</pubDate><guid>/project/metadata/</guid><description>&lt;h1 id="metadata">Metadata&lt;/h1>
+&lt;p>The rapid growth of the internet as a means of searching for, disseminating and receiving data has given rise to a corresponding increase in interest in metadata. As a result of this there has been a considerable amount of effort put into developing metadata standards which, for spatial data, has resulted in the recent ratification of ISO19115. Many organisations in the geoscience community are working to implement this and related standards, but often as separate and uncoordinated activities.&lt;/p>
+&lt;p>Although the CGI does not have any formal working group concerned with geoscience metadata it was felt that it could help geoscience organisations develop their metadata implementations by providing a forum for posting work and discussions. Hopefully this will enable organisations to learn from one another and thus save development time.&lt;/p>
+&lt;p>The ISO19115 standard recognises that different organisations or user communities may wish to specify their own implementations of the standard, for example by making specific restrictions on the values that can be entered to particular fields or adding extensions to meet their specific needs. These can be defined, and registered, as ISO community profiles. There may be advantages in developing such a profile for the geoscience community, and if so this forum could be the first step in this direction. If there is sufficient interest from the community in developing a geoscience profile then a formal CGI working group might be needed.&lt;/p>
+&lt;h2 id="metadata-posted-document-list">Metadata Posted Document List&lt;/h2>
+&lt;p>The following documents concerned with geoscience metadata have been submitted. To post a document please contact us. (Unfortunately for security reasons we are not able to allow direct posting of documents to the web site.)&lt;/p>
+&lt;p>All documents are in PDF format. The name of the contributor and the date the document was posted appear in brackets.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="/docs/Explanations_KAH_ECol.pdf">Explanations of the metadata elements implemented by BGS&lt;/a> &lt;em>(John Laxton, 28/01/2005)&lt;/em>&lt;/li>
+&lt;li>
+&lt;a href="/docs/tabledesign.pdf">An Entity Relationship Diagram (ERD)&lt;/a> showing the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>Documentation describing the
+&lt;a href="/docs/tabledesigndocumentation.pdf">BGS Oracle implementation&lt;/a> of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>
+&lt;a href="/docs/namingconventions.pdf">Naming conventions&lt;/a> used in the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>
+&lt;a href="/docs/diagramconventions.pdf">Conventions used in the ERD diagrams&lt;/a> &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>An ERD showing the
+&lt;a href="/docs/Visio-ISO19115DEVPart.pdf">full BGS metadata implementation&lt;/a>, including those non-core ISO19115 elements used, and extensions &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>A spreadsheet showing the
+&lt;a href="/docs/BGSDGSMProfile.pdf">ISO19115 elements implemented by BGS&lt;/a> and their relationship with legacy BGS metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;li>The
+&lt;a href="/docs/BusinessRules.pdf">Business Rules&lt;/a> used by BGS in implementing ISO19115 &lt;em>(John Laxton, 04/10/2004)&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>Newsletter Issue 3</title><link>/post/newsletter-issue-3/</link><pubDate>Wed, 14 Jan 2015 23:46:16 +0100</pubDate><guid>/post/newsletter-issue-3/</guid><description>&lt;h1 id="newsletter--issue-3--january-2015">Newsletter | Issue 3 | January 2015&lt;/h1>
 &lt;p>»
 &lt;a href="/docs/CGI_newsletter_jan15.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
 &lt;p>Welcome to Edition #3 of the CGI Newsletter. In this edition we particularly highlight the achievements of CGI members honoured with international awards in 2014.&lt;/p>
