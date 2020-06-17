@@ -10,12 +10,10 @@
 &lt;a href="http://www.geology.cz/gic" target="_blank" rel="noopener">34th Geoscience Information Consortium&lt;/a> (GIC) conference at the Spanish Geological Survey, IGME. Progress was made towards publishing several new geoscience vocabularies. Progress was also made towards publication of a new version of EarthResourceML (version 3.0), to address some issues identified by current users of the EarthResourceML v2.0 data transfer standard.&lt;/p></description></item><item><title>Newsletter Issue 5</title><link>/post/newsletter-issue-5/</link><pubDate>Fri, 14 Jul 2017 23:46:24 +0100</pubDate><guid>/post/newsletter-issue-5/</guid><description>&lt;h1 id="newsletter--issue-5--july-2017">Newsletter | Issue 5 | July 2017&lt;/h1>
 &lt;p>»
 &lt;a href="/docs/CGI_newsletter_july17.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/earthPeopleComputers.jpg" alt="Earth People Computers">&lt;/p>
 &lt;p>Welcome to Edition #5 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members.&lt;/p>
 &lt;h2>Table of Contents&lt;/h2>
 &lt;nav id="TableOfContents">
 &lt;ul>
-&lt;li>&lt;a href="#in-this-issue">In This Issue&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#a-busy-time-for-cgi">A Busy Time for CGI&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#towards-a-new-version-of-erml">Towards a New Version of ERML&lt;/a>&lt;/li>
@@ -44,57 +42,28 @@
 &lt;li>&lt;a href="#join-us-on-linkedin">Join Us on LinkedIn&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/nav>
-&lt;h2 id="in-this-issue">In This Issue&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="#busyTime">A Busy Time for CGI&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#GeoSciML">GeoSciML Standards Working Group&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#ERML">Towards a New Version of ERML&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Vocabularies">Geoscience Vocabularies&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Asia">News from Asia&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#SouthAmerica">News from South America&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#NewZealand">CGI Standards in New Zealand&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Council">CGI Council News&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#GIC">32nd Annual GIC Conference&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Events">Upcoming Events&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Councillors">Meet Your CGI Councillors&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Featured">Featured Project&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#linkedIn">Join Us on LinkedIn&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h2 id="a-busy-time-for-cgi">A Busy Time for CGI&lt;/h2>
 &lt;p>May and June was a busy time for many CGI members. Three of CGI&amp;rsquo;s standards working groups, the CGI Council, the OneGeology Technical Implementation Group, and the 32nd annual Geoscience Information Consortium (GIC) conference all met over a period of two weeks in Vienna, Austria and Orleans, France.&lt;/p>
 &lt;h2 id="geosciml-standards-working-group">GeoSciML Standards Working Group&lt;/h2>
-&lt;p>&lt;img src="/images/GeoSciML.jpg" alt="GeoSciML logo">&lt;br>
-&lt;img src="/images/geosciml/ogc_logo.jpg" alt="OGC logo">&lt;/p>
+&lt;p>&lt;img src="/img/GeoSciML.jpg" alt="GeoSciML logo">&lt;br>
+&lt;img src="/img/geosciml/ogc_logo.jpg" alt="OGC logo">&lt;/p>
 &lt;p>The OGC/CGI GeoSciML Standards Working Group (SWG) held its
 &lt;a href="http://external.opengeospatial.org/twiki_public/GeoSciMLswg/ViennaFace2FaceJune2017" target="_blank" rel="noopener">annual face-to-face meeting&lt;/a> at Geologische Bundesanstalt (Geological Survey of Austria) in Vienna in May. This was the first meeting since the GeoSciML v4.1 data standard was ratified and
 &lt;a href="http://www.opengeospatial.org/pressroom/pressreleases/2563" target="_blank" rel="noopener">published by OGC&lt;/a> in March. All current documentation and schemas are now hosted on the
 &lt;a href="http://www.opengeospatial.org/standards/geosciml" target="_blank" rel="noopener">OGC website&lt;/a>. The original
 &lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">CGI website&lt;/a> still maintains access to all historic versions of GeoSciML and links to other supporting resources like UML models and
 &lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">vocabularies&lt;/a>.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/Eric_boisvert.jpg" alt="Eric Boisvert">&lt;/p>
+&lt;p>&lt;img src="/img/Eric_boisvert.jpg" alt="Eric Boisvert">&lt;/p>
 &lt;p>After 8 years as Chair of the Working Group, Ollie Raymond stepped down and Eric Boisvert (pictured) from the Geological Survey of Canada has taken on the role. We wish Eric and the team every success as the SWG enters a new phase in GeoSciML development. The working group discussed minor corrections to the version 4.1 standard, considered a GML version 3.2 profile of GeoSciML-Lite, and reviewed the best practice of delivering data using the GeoSciML-Lite data standard.&lt;/p>
 &lt;p>Members also considered the future direction of the SWG, in particular towards potential new standard encodings of the GeoSciML data model, such as RDF and JSON.&lt;/p>
 &lt;h2 id="towards-a-new-version-of-erml">Towards a New Version of ERML&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/working_group_BRGM_cropped.jpg" alt="EarthResourceML (ERML) Working Group">&lt;/p>
+&lt;p>&lt;img src="/img/working_group_BRGM_cropped.jpg" alt="EarthResourceML (ERML) Working Group">&lt;/p>
 &lt;p>The annual EarthResourceML (ERML) Working Group meeting was held in June in Orleans, France, hosted by BRGM. CGI members from France, Finland, Australia and New Zealand attended the one day meeting.&lt;/p>
 &lt;p>The working group discussed a proposal from Geoscience Australia for a modification to way that the ERML-Lite data standard delivers commodity resource and reserve amounts. This request was based on the Australian and New Zealand experience of recently establishing the world&amp;rsquo;s first
 &lt;a href="http://services.ga.gov.au/earthresource/ows?service=wfs&amp;amp;version=1.1.0&amp;amp;request=GetCapabilities" target="_blank" rel="noopener">ERML-Lite WFS services&lt;/a>.&lt;/p>
 &lt;p>The EU-funded
 &lt;a href="http://www.prosumproject.eu/" target="_blank" rel="noopener">ProSum project&lt;/a> also presented a proposal to extend the ERML full model. The proposal will add Processing Activity and Processing Plant to the model. Other technical changes, including links to GeoSciML v4 and implementing recent GeoSciML modelling patterns, will be added to the EarthResourceML and after a review and voting period, a new version ERML v 3.0 will be published later in 2017.&lt;/p>
-&lt;p>&lt;img src="/images/erml-logo.jpg" alt="ERML logo">&lt;/p>
+&lt;p>&lt;img src="/img/erml-logo.jpg" alt="ERML logo">&lt;/p>
 &lt;p>CGI intends to have a strong presence at the
 &lt;a href="http://rfg2018.org/" target="_blank" rel="noopener">RFG2018 conference&lt;/a> in Vancouver in June 2018, in particular to promote ERML and ERML-Lite to North America. New ERML and ERML-Lite implementations and use cases will be demonstrated there. Documentation and schemas for EarthResourceML v2.0 and EarthResourceML-Lite v1.0 are available on the
 &lt;a href="http://www.earthresourceml.org" target="_blank" rel="noopener">www.earthresourceml.org&lt;/a> website.&lt;/p>
@@ -102,29 +71,29 @@
 &lt;p>The CGI Geoscience Terminology Working Group (GTWG) met for its fourth face-to-face meeting at the Geological Survey of Austria in Vienna on May 26. Twenty-two people participated in person or remotely. Several key vocabularies that are in advanced stages of preparation have been prioritised for completion, notably the Natural Geomorphologic Feature, Mineral Deposit Type and Regional Lithological Unit Synthesis vocabularies.&lt;/p>
 &lt;p>A presentation by Chris Schubert from the Austrian Climate Change Centre outlined development on federated registries of vocabularies in Europe, and has helped confirm that GTWG’s role in providing globally-relevant geoscience terms that can work in parallel with geological surveys’ more local vocabulary requirements.&lt;/p>
 &lt;p>
-&lt;a href="/images/newsletters/wordmap.jpg" title="Wordmap">&lt;img src="/images/newsletters/wordmap.jpg" alt="Word map">&lt;/a>&lt;/p>
+&lt;a href="/img/wordmap.jpg" title="Wordmap">&lt;img src="/img/wordmap.jpg" alt="Word map">&lt;/a>&lt;/p>
 &lt;p>The
 &lt;a href="http://def.seegrid.csiro.au/sissvoc/cgi201211/collection" target="_blank" rel="noopener">CGI Vocabulary Service&lt;/a>, hosted by Australia’s CSIRO for around a decade, is in the process of being moved to its new hosting organisation, Geoscience Australia. As part of the move to new hosting arrangements, all 2016 editions of CGI&amp;rsquo;s vocabularies are also incorporated in the
 &lt;a href="https://vocabs.ands.org.au/search/#!/?q=&amp;amp;p=1&amp;amp;publisher=CGI%20Geoscience%20Terminology%20Working%20Group" target="_blank" rel="noopener">Research Vocabularies Australia vocabulary service&lt;/a>, a broader science vocabularies service that is available online globally.&lt;/p>
 &lt;h2 id="news-from-asia">News from Asia&lt;/h2>
 &lt;h3 id="ccop-workshop-on-igdp-and-compilation-technology">CCOP Workshop on IGDP and Compilation Technology&lt;/h3>
 &lt;p>A cooperation project between China and the Southeast Asia Geoscience Program Coordinating Committee (CCOP) on Integrated Geological Data Processing (IGDP) was kicked off at a workshop hosted by the China Geological Survey (CGS) on 22–24 May in Beijing.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/CCOP_workshop_2017.jpg" alt="CCOP Workshop on IGDP and Compilation Technology">&lt;/p>
+&lt;p>&lt;img src="/img/CCOP_workshop_2017.jpg" alt="CCOP Workshop on IGDP and Compilation Technology">&lt;/p>
 &lt;p>The workshop included training for CCOP member countries on data processing techniques for geological, geophysical and geochemical data. Twenty participants from Cambodia, China, Indonesia, Japan, Korea, Malaysia, Vietnam and the CCOP Technical Secretariat joined a discussion on OneGeology geological map data delivery technologies, and regional geoscience map compilation techniques. A work plan for the next two years was prepared.&lt;/p>
 &lt;h3 id="information-sharing-for-the-belt-and-route-region">Information Sharing for the &amp;lsquo;Belt and Route Region&amp;rsquo;&lt;/h3>
 &lt;p>A seminar was held at the China Geological Survey in Beijing on 16–20 May, 2017, aimed at geoscience information sharing amongst the vast region of the so-called the &amp;lsquo;Belt and Route Region&amp;rsquo;. The region, coined by the Chinese government, covers part or all of Oceania, Asia, Europe, Arab and Africa. More than 50 officials and experts from different geological organisations exchanged views and shared current technology for data exchange and information sharing. CGI-IUGS standards and the CCOP metadata standard will be used for data transfer once the cooperation project application is approved by the Chinese government.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/Belt_and_Route_workshop_2017.jpg" alt="&amp;lsquo;Belt and Route Region&amp;rsquo; workshop">&lt;/p>
+&lt;p>&lt;img src="/img/Belt_and_Route_workshop_2017.jpg" alt="&amp;lsquo;Belt and Route Region&amp;rsquo; workshop">&lt;/p>
 &lt;h2 id="news-from-south-america">News from South America&lt;/h2>
 &lt;h3 id="ibero-american-open-science-meeting-in-buenos-aires">Ibero-American Open Science Meeting in Buenos Aires&lt;/h3>
 &lt;p>An international
 &lt;a href="http://www.mincyt.gob.ar/agenda/seminario-internacional-practicas-experiencias-y-estrategias-en-ciencia-abierta-en-iberoamerica-12885" target="_blank" rel="noopener">Seminar on Open Science&lt;/a> was held in Buenos Aires, Argentina from May 31 to June 2. The seminar was organised under the auspices of the Ibero-American States Organizations, Portugal, Uruguay, and the Argentina Ministry of Science and Technology. Science, technology and innovation agencies from Spain, Brasil and Colombia also participated.&lt;/p>
 &lt;p>The seminar discussed &amp;lsquo;Open Science&amp;rsquo; to enable collaborative research and knowledge distribution by digital means. In particular, the regional science community see it as a way to improve science and technology development and performance in South America.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/Sth_America_news_2017.jpg" alt="Ibero-American Open Science Meeting in Buenos Aires">&lt;/p>
+&lt;p>&lt;img src="/img/Sth_America_news_2017.jpg" alt="Ibero-American Open Science Meeting in Buenos Aires">&lt;/p>
 &lt;p>The meeting was focused mainly on open digital repositories. In this context, not only will written publications be reviewed, but also their supporting data and results. It is hoped that in the future this initial step by Latin American countries will facilitate the access to and development of interoperable data and methods for any kind of scientific data. The regional science community intends to facilitiate the development of initiatives currently occurring at different levels and domains in international organisations like IUGS CGI,
 &lt;a href="https://www.icsu-wds.org/" target="_blank" rel="noopener">ICSU&lt;/a>, and the
 &lt;a href="https://www.rd-alliance.org/" target="_blank" rel="noopener">Research Data Alliance&lt;/a>.&lt;/p>
 &lt;h2 id="cgi-standards-in-new-zealand">CGI Standards in New Zealand&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/NZ_map.jpg" alt="Geological map of New Zealand">&lt;/p>
+&lt;p>&lt;img src="/img/NZ_map.jpg" alt="Geological map of New Zealand">&lt;/p>
 &lt;p>GNS Science, the New Zealand government geoscience agency, is just one example of a data provider embracing CGI data standards.&lt;/p>
 &lt;p>As mentioned in the EarthResourceML news above, an EarthResourceML-Lite-compliant web service of New Zealand&amp;rsquo;s mineral occurrences is available (see
 &lt;a href="http://maps.gns.cri.nz/geoserver/web" target="_blank" rel="noopener">gns:GERM_ERML_VIEW&lt;/a>). Two New Zealand geological map datasets — the 1:1M Geological map of New Zealand and the 1:250k Geological Map of Southern Victoria Land (Antarctica) — are now available as GeoSciML Lite-compliant web services, have been accredited with 4-star OneGeology status, and can be accessed from the
@@ -133,7 +102,7 @@
 &lt;a href="https://www.gns.cri.nz/Home/Our-Science/Earth-Science/Regional-Geology/Geological-Maps/1-250-000-Geological-Map-of-New-Zealand-QMAP" target="_blank" rel="noopener">QMAP 1:250 000 Geological Map&lt;/a> of New Zealand seamless GIS dataset contains links to CGI code-lists for age terms, unit types, representative lithology and metadata records amongst others. New Zealand’s Petlab Geoanalytical Database of rock and mineral properties has also incorporated CGI vocabulary terms for rock names and geological age.&lt;/p>
 &lt;h2 id="cgi-council-news">CGI Council News&lt;/h2>
 &lt;p>The CGI Council held its 2017 annual meeting in Vienna in June.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/CGI_Council_cropped.jpg" alt="CGI Council">&lt;/p>
+&lt;p>&lt;img src="/img/CGI_Council_cropped.jpg" alt="CGI Council">&lt;/p>
 &lt;p>The councillors addressed:&lt;/p>
 &lt;ul>
 &lt;li>activities for CGI funding in 2017–18&lt;/li>
@@ -143,7 +112,7 @@
 &lt;li>better promotion of CGI activities and standards&lt;/li>
 &lt;/ul>
 &lt;h2 id="32nd-annual-gic-conference">32nd Annual GIC Conference&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/32_GIC_1.jpg" alt="32nd Annual GIC Conference">&lt;/p>
+&lt;p>&lt;img src="/img/32_GIC_1.jpg" alt="32nd Annual GIC Conference">&lt;/p>
 &lt;p>The
 &lt;a href="http://www.g-i-c.org/" target="_blank" rel="noopener">Geoscience Information Consortium&lt;/a> (GIC) is an annual gathering of information managers from international government Geological Survey agencies. The 32nd GIC Conference was held from May 29 to June 3 at the Geological Survey of Austria (GBA) in Vienna. Many CGI members attended, and shared their work with Geological Survey representatives from 35 countries from every continent.&lt;/p>
 &lt;p>The conference heard a wide range of presentations on current best practice in data management and data delivery from many individual Geological Surveys, as well as collaborative data sharing initiatives from around the world. Panel discussion sessions also shared the experiences and requirements of the Geological Surveys in managing and delivering 3D geological models, future data management strategies, and emerging technologies.&lt;/p>
@@ -151,32 +120,30 @@
 &lt;p>Government Geological Survey information managers are encouraged to join the 33rd annual GIC conference which will be hosted by Geoscience Australia in Canberra, Australia in mid 2018.&lt;/p>
 &lt;h2 id="upcoming-events">Upcoming Events&lt;/h2>
 &lt;h3 id="resources-for-future-generations--vancouver-june-2018">Resources for Future Generations — Vancouver, June 2018&lt;/h3>
-&lt;p>&lt;img src="/images/newsletters/RFG_2018.jpg" alt="RFG 2018">&lt;/p>
+&lt;p>&lt;img src="/img/RFG_2018.jpg" alt="RFG 2018">&lt;/p>
 &lt;p>CGI cordially invites its members to the
 &lt;a href="http://rfg2018.org/" target="_blank" rel="noopener">RFG 2018&lt;/a> conference in Vancouver, Canada, 16–21 June 2018. IUGS is a partner organisation at this conference and CGI encourages all its members to at the conference to demonstrate how CGI&amp;rsquo;s standards and best practice in data delivery and analysis supports and enables sustainable resource discovery and exploitation. It is anticipated that the use of web service data delivery, in particular using the EarthResourceML and EarthResourceML-Lite data transfer standards, will be a feature. The conference will be a forum for industry stakeholders to discuss their research initiatives and activities as well as the key issues and trends shaping the future of energy, minerals and water resources.&lt;/p>
 &lt;h2 id="meet-your-cgi-councillors">Meet Your CGI Councillors&lt;/h2>
-&lt;p>&lt;img src="/images/council/Minghua_Zhang.jpg" alt="Dr Zhang Minghua">&lt;/p>
+&lt;p>&lt;img src="/img/Minghua_Zhang.jpg" alt="Dr Zhang Minghua">&lt;/p>
 &lt;p>Dr Zhang Minghua is co-Secretary General of CGI and Director of Geoinformation and Engineering at the Development Research Center of the China Geological Survey. Zhang has a MSc and PhD from the China University of Geosciences, Beijing and has conducted post-doctoral research in GIS in geological exploration at the Beijing University of Science and Technology. Zhang also previously worked at the Institute of Geophysical Exploration, Ministry of Metallurgy, and the Chinese Academy of Geoexploration. Zhang has been project leader and a key researcher of Chinese national geoinformation projects since 2000, including geophysical and geochemical exploration software development, CCOP geoinformation metadata standards, CCOP/ASEAN geodata processing, and is currently the leader of China’s participation in OneGeology.&lt;/p>
 &lt;p>Zhang is also a senior member of several Chinese professional organisations, including council member of the Chinese Geophysical Society, Deputy Secretary General of Exploration Geophysics Committee of the Geological Society of China, Geoinformation coordinator of China to CCOP, and council member of the Geophysical and Geochemical Standard Committee of the Chinese Ministry of Land and Resources. Contact
 &lt;a href="mailto:zminghua@mail.cgs.gov.cn">Zhang&lt;/a>.&lt;/p>
 &lt;h2 id="featured-project">Featured Project&lt;/h2>
 &lt;p>The
 &lt;a href="https://www.epos-ip.org/" target="_blank" rel="noopener">European Plate Observing System&lt;/a> (EPOS) is a long-term plan to facilitate integrated use of data and facilities from distributed research infrastructures for solid Earth science. It aims to establish a comprehensive multidisciplinary research platform for the Earth sciences in Europe. EPOS aims to facilitiate the integration of a wide range of heterogeneous data and services, including seismology, volcanology, geology and surface dynamics, geodesy, geomagnetism, analytical and experimental laboratory research, rock physics and petrology, and satellite information.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/epos.jpg" alt="EPOS">&lt;/p>
+&lt;p>&lt;img src="/img/epos.jpg" alt="EPOS">&lt;/p>
 &lt;p>European CGI members are engaged in EPOS workshops and hackathons with a view to having an operational infrastructure by 2020. IUGS and CGI data standards will no doubt play a large role in enabling data transfer to and from EPOS researchers.&lt;/p>
 &lt;h2 id="join-us-on-linkedin">Join Us on LinkedIn&lt;/h2>
 &lt;p>
-&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/images/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
+&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/img/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
 &lt;p>We invite all CGI members to join our
 &lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p></description></item><item><title>Newsletter Issue 4</title><link>/post/newsletter-issue-4/</link><pubDate>Wed, 14 Dec 2016 23:46:20 +0100</pubDate><guid>/post/newsletter-issue-4/</guid><description>&lt;h1 id="newsletter--issue-4--december-2016">Newsletter | Issue 4 | December 2016&lt;/h1>
 &lt;p>»
 &lt;a href="/docs/CGI_newsletter_dec16.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/earthPeopleComputers.jpg" alt="Earth People Computers">&lt;/p>
 &lt;p>Welcome to Edition #4 of the CGI Newsletter. In this edition we provide a look back at 2016 and a taste of what is to come in 2017.&lt;/p>
 &lt;h2>Table of Contents&lt;/h2>
 &lt;nav id="TableOfContents">
 &lt;ul>
-&lt;li>&lt;a href="#in-this-issue">In This Issue&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#geosciml---ogc-accreditation">GeoSciML - OGC Accreditation&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#earthresourceml-lite">EarthResourceML-Lite&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#2016-iugs-science-excellence-award">2016 IUGS Science Excellence Award&lt;/a>&lt;/li>
@@ -196,48 +163,21 @@
 &lt;li>&lt;a href="#join-us-on-linkedin">Join Us on LinkedIn&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/nav>
-&lt;h2 id="in-this-issue">In This Issue&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="#GeoSciML">GeoSciML - OGC Accreditation&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#EarthResourceML-Lite">EarthResourceML Lite&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#award">IUGS Award - Steve Richard&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#vocabularies">Geoscience Vocabularies&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#IGC">A Successful 35th IGC&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Africa">News from Africa&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#China">News from China&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#councilNews">CGI Council News&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#events">Upcoming Events&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#meetCouncillor">Meet Your CGI Councillors&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#featuredProject">Featured Project&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#linkedIn">Join Us on LinkedIn&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h2 id="geosciml---ogc-accreditation">GeoSciML - OGC Accreditation&lt;/h2>
 &lt;p>
-&lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">&lt;img src="/images/GeoSciML.jpg" alt="GeoSciML logo">&lt;/a>&lt;/p>
+&lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">&lt;img src="/img/GeoSciML.jpg" alt="GeoSciML logo">&lt;/a>&lt;/p>
 &lt;p>The
 &lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">GeoSciML&lt;/a> data transfer standard was recently accepted by a unanimous vote of the Open Geospatial Consortium (OGC) Technical Committee. This significant milestone cements GeoSciML&amp;rsquo;s place as the international geological data transfer standard.&lt;/p>
 &lt;p>Documentation and schemas for GeoSciML version 4.1 will be available on the OGC and &lt;a href="http://www.geosciml.org">www.geosciml.org&lt;/a> websites early in 2017. Due to some changes required by the OGC review process, GeoSciML will move from version 4.0 to version 4.1. The most significant change in version 4.1 is the renaming of &lt;strong>GeoSciML-Portrayal&lt;/strong> to &lt;strong>GeoSciML-Lite&lt;/strong> to avoid confusion with use of the word &amp;lsquo;portrayal&amp;rsquo; in other standards domains. The only other changes from version 4.0 to 4.1 are minor bug fixes and improvements to documentation.&lt;/p>
-&lt;p>&lt;img src="/images/geosciml/ogc_logo.jpg" alt="OGC logo">&lt;/p>
+&lt;p>&lt;img src="/img/ogc_logo.jpg" alt="OGC logo">&lt;/p>
 &lt;p>The considerable documentation required for OGC accreditation was compiled by Eric Boisvert of the Geological Survey of Canada, with assistance from Ollie Raymond (Geoscience Australia) and Marcus Sen (British Geological Survey). Many thanks for a great effort!&lt;/p>
 &lt;h2 id="earthresourceml-lite">EarthResourceML-Lite&lt;/h2>
 &lt;p>A new abridged, simple feature (WFS SF-0) version of the
 &lt;a href="http://www.earthresourceml.org/" target="_blank" rel="noopener">EarthResourceML&lt;/a> data model was released by CGI in August 2016. EarthResourceML-Lite (or ERML-Lite) can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.&lt;/p>
-&lt;p>&lt;img src="/images/erml-logo.jpg" alt="ERML logo">&lt;/p>
+&lt;p>&lt;img src="/img/erml-logo.jpg" alt="ERML logo">&lt;/p>
 &lt;p>ERML-Lite has a similar purpose to GeoSciML-Lite, in that it enables delivery of a simplified view of the full EarthResourceML model which can be used for exchange of data in simple formats that can be easily rendered in GIS applications and web mapping portals (e.g., WMS, simple WFS, shapefiles, CSV tables).&lt;/p>
 &lt;h2 id="2016-iugs-science-excellence-award">2016 IUGS Science Excellence Award&lt;/h2>
-&lt;p>&lt;img src="/images/steve_richard_home_page.jpg" alt="Dr Stephen Richard">&lt;/p>
+&lt;p>&lt;img src="/img/steve_richard_home_page.jpg" alt="Dr Stephen Richard">&lt;/p>
 &lt;p>Dr Stephen Richard, recently of the Arizona Geological Survey and now at Columbia University, USA, was awarded the 2016 IUGS Science Excellence Award in Geoscience Information at the 35th Intern-ational Geological Congress.&lt;/p>
 &lt;p>Steve was a research geologist and Head of Geoinformatics at the Arizona Geological Survey from 1992 until 2016, but his influence on North American and international geoinformatics extends way beyond the borders of Arizona. Steve was a leading member of the North American Geological Map Data Model (NADM) Steering Committee from 2000 to 2007. He worked with this consortium of American and Canadian geoscientists, database designers, and developers of geologic map information to develop a comprehensive geological data model that would form one of the foundations for global standards development.&lt;/p>
 &lt;p>Steve was a founding member of the CGI Interoperability Working Group in 2004. As part of this group, Steve was a leading force for over 10 years in the development of the GeoSciML standard for geoscience data transfer.&lt;/p>
@@ -249,11 +189,11 @@
 &lt;p>The important
 &lt;a href="http://resource.geosciml.org/static/vocabulary/earthresourceml/2016/" target="_blank" rel="noopener">Commodity Code vocabulary&lt;/a> was compiled and adopted in 2015; a highly hierarchically organised vocabulary of 291 terms describing natural and processed earth resource commodities. This vocabulary is showcased in the
 &lt;a href="http://minerals4eu.brgm-rec.fr/minerals4EU/" target="_blank" rel="noopener">Minerals4EU Map Viewer&lt;/a> web application for mineral commodities around Europe.&lt;/p>
-&lt;p>&lt;img src="/images/minerals4EU.jpg" alt="Minerals4EU Map Viewer">&lt;/p>
+&lt;p>&lt;img src="/img/minerals4EU.jpg" alt="Minerals4EU Map Viewer">&lt;/p>
 &lt;p>The EarthResourceML vocabularies have been translated into 22 other European languages through the INSPIRE directive and these multi-lingual vocabularies will be adapted for delivery through the CGI vocabulary service. Many more vocabularies are still required, particularly for the Extension schema of the GeoSciML model.&lt;/p>
 &lt;p>The Working Group is always looking for more active members to contribute to compilation of geoscience vocabularies, particularly in languages other than English. Contact the group&amp;rsquo;s chair, compose(&amp;lsquo;M.Rattenbury&amp;rsquo;, &amp;lsquo;gns&amp;rsquo;, &amp;lsquo;cri.nz&amp;rsquo;, &amp;lsquo;Mark Rattenbury&amp;rsquo;);, if you would like to contribute to the work.&lt;/p>
 &lt;h2 id="a-successful-35th-igc">A Successful 35th IGC&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/igc2016.jpg" alt="IGC logo">&lt;/p>
+&lt;p>&lt;img src="/img/igc2016.jpg" alt="IGC logo">&lt;/p>
 &lt;p>A successful &amp;ldquo;Geoscience Data &amp;amp; Information Systems&amp;rdquo; symposium was held at the 35th International Geological Congress in Cape Town in August. Over 40 presentations were given on a wide range of digital geological data management, data analysis, and data delivery topics.&lt;/p>
 &lt;p>More than 20 people attended the CGI workshop on geoscience web services. Presentations were given by the leaders of all the CGI working groups, and experts from the OneGeology and INSPIRE projects.&lt;/p>
 &lt;h2 id="news-from-africa">News from Africa&lt;/h2>
@@ -263,19 +203,18 @@
 &lt;p>&amp;ldquo;Knowledge-based geoscience information is more important than ever, especially in Africa&amp;rdquo;&lt;/p>
 &lt;/blockquote>
 &lt;p>said Kristine.&lt;/p>
-&lt;p>&lt;img src="/images/giraf2016.jpg" alt="26th Colloquium of African Geology (CAG26)">&lt;/p>
+&lt;p>&lt;img src="/img/giraf2016.jpg" alt="26th Colloquium of African Geology (CAG26)">&lt;/p>
 &lt;p>GIRAF was founded in 2009 as a platform for African geoscience information experts to share information and experience to understand the needs and issues in geoscience information management, delivery and technology in Africa. Its aim is to improve the environmental conditions and economic circumstances of Africa though the application of information technology based on geoscience data and information.&lt;/p>
 &lt;p>Since its inauguration, the network has been primarily supported by the German Federal Ministry for Economic Cooperation and Development (BMZ), BGR, UNESCO Nairobi, the Geological Society of Africa, AusAid (Australia), the United Nations Development Programme, the IUGS Commission for Geoscience Information (CGI) and many more organizations. GIRAF has more than 400 members from more than 30 African and 12 non-African countries.&lt;/p>
 &lt;h2 id="news-from-china">News from China&lt;/h2>
-&lt;p>&lt;img src="/images/ollieKristineZhang.jpg" alt="Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.">&lt;/p>
+&lt;p>&lt;img src="/img/ollieKristineZhang.jpg" alt="Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.">&lt;/p>
 &lt;p>GeoSciML Standards Work-ing Group chair Ollie Raymond, and recent CGI Councillor Dr Kristine Asch visited the China Geological Survey (CGS) in Beijing in November to present a
 &lt;a href="http://www.cgs.gov.cn/xwl/gjhz/201611/t20161116_416640.html" target="_blank" rel="noopener">series of talks on geoscience information standards&lt;/a>. Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.&lt;/p>
-&lt;p>&lt;img src="/images/beijingTalk.jpg" alt="The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.">&lt;/p>
+&lt;p>&lt;img src="/img/beijingTalk.jpg" alt="The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.">&lt;/p>
 &lt;p>The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.&lt;/p>
 &lt;h2 id="cgi-council-news">CGI Council News&lt;/h2>
-&lt;p>A new
-&lt;a href="/participation/council.html">CGI Council for 2016–2020&lt;/a> was sworn in at the 35th International Geological Congress in Cape Town in September 2016. Founding CGI member and CGI Secretary-General, Kristine Asch, left the Council to take up a role as a Vice-President of IUGS. Thank you Kristine for your many years of commitment to CGI.&lt;/p>
-&lt;p>&lt;img src="/images/council/CGI_Council.jpg" alt="CGI council 2016">&lt;/p>
+&lt;p>A new CGI Council for 2016–2020 was sworn in at the 35th International Geological Congress in Cape Town in September 2016. Founding CGI member and CGI Secretary-General, Kristine Asch, left the Council to take up a role as a Vice-President of IUGS. Thank you Kristine for your many years of commitment to CGI.&lt;/p>
+&lt;p>&lt;img src="/img/CGI_Council.jpg" alt="CGI council 2016">&lt;/p>
 &lt;p>Kombada Mhopjeni (Namibia) and Zhang Minghua (China) were elected as joint Secretary-General, and Francois Robida (France) remains as CGI Council Chair. The Council also welcomed two new members, Tomasz Nałęcz (Poland) and Harvey Thorleifson (USA).&lt;/p>
 &lt;p>The CGI 2012–2016 four-year report was also submitted to the IUGS council at the 35th IGC in Cape Town. Read about all
 &lt;a href="/docs/CGI_four_year_report_2012-2016.pdf">CGI&amp;rsquo;s activities and achievements over the past four years&lt;/a>.&lt;/p>
@@ -283,31 +222,30 @@
 &lt;h3 id="geoscience-information-consortium--vienna-may-2017">Geoscience Information Consortium — Vienna, May 2017&lt;/h3>
 &lt;p>CGI will hold its annual Standards Working Groups and Council meetings in conjunction with the 32nd annual
 &lt;a href="http://www.g-i-c.org/" target="_blank" rel="noopener">Geoscience Information Consortium&lt;/a> (GIC) conference in Vienna, Austria, 29 May – 2 June, 2017.&lt;/p>
-&lt;p>&lt;img src="/images/building-in-Vienna.jpg" alt="A building in Vienna">&lt;/p>
+&lt;p>&lt;img src="/img/building-in-Vienna.jpg" alt="A building in Vienna">&lt;/p>
 &lt;p>GIC is an international forum to exchange information among Geological Surveys Organisations (GSOs) related to the use and management of geoscience information systems in support of the earth sciences.&lt;/p>
 &lt;h3 id="resources-for-future-generations--vancouver-june-2018">Resources for Future Generations — Vancouver, June 2018&lt;/h3>
-&lt;p>&lt;img src="/images/rfg2018.jpg" alt="RFG 2018 logo">&lt;/p>
+&lt;p>&lt;img src="/img/rfg2018.jpg" alt="RFG 2018 logo">&lt;/p>
 &lt;p>CGI has begun planning to have a substantial presence at the
 &lt;a href="http://rfg2018.org/" target="_blank" rel="noopener">RFG 2018&lt;/a> conference in Vancouver, Canada, 16–21 June 2018. IUGS is a partner organisation at this conference. The conference will be a forum for industry stakeholders to discuss their research initiatives and activities as well as the key issues and trends shaping the future of energy, minerals and water resources including the science of the earth that underpins their sustainable discovery and extraction.&lt;/p>
 &lt;h2 id="meet-your-cgi-councillors">Meet Your CGI Councillors&lt;/h2>
-&lt;p>&lt;img src="/images/council/Kombada_Mhopjeni.JPG" alt="Kombada Mhopjeni">&lt;/p>
+&lt;p>&lt;img src="/img/Kombada_Mhopjeni.JPG" alt="Kombada Mhopjeni">&lt;/p>
 &lt;p>Kombada Mhopjeni is joint Secretary General of CGI, and is Chief Geologist in the Regional Geoscience Division in the Geological Survey of Namibia (GSN). At GSN, Kombada has been involved in several mapping projects including detailed geological mapping in the northern and central parts of Namibia. She has also assisted in the maintenance and standardisation of geoscience data at the Survey. Her research interests are in the geological application of remote sensing and geoscience data management. Kombada has an MSc (Geology) from the University of Western Australia. Since 2008, Kombada has served as a committee member of the Geological Society of Namibia and has been involved in the organisation of conferences and workshops, including GIC-26 held in Windhoek in 2011. Kombada has keen interest in geoscience outreach and has partaken in several outreach activities including the International Year of Planet Earth (IYPE). Contact compose(&amp;lsquo;kkmhopjeni&amp;rsquo;, &amp;lsquo;mme&amp;rsquo;, &amp;lsquo;gov.na&amp;rsquo;, &amp;lsquo;Kombada&amp;rsquo;); .&lt;/p>
 &lt;h2 id="featured-project">Featured Project&lt;/h2>
 &lt;p>The Australian Geoscience Information Network (AusGIN) is a collaboration between the State, Territory and Commonwealth geological surveys of Australia. Its flagship is the
 &lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">AusGIN Geoscience Portal&lt;/a> which delivers geoscience maps and data using OGC and CGI standards-based web services from all Australian governments through a single web mapping application.&lt;/p>
-&lt;p>&lt;img src="/images/ausginPortal.JPG" alt="AusGIN Portal">&lt;/p>
+&lt;p>&lt;img src="/img/ausginPortal.JPG" alt="AusGIN Portal">&lt;/p>
 &lt;p>Datasets available through the Portal include mines and mineral occurrences, boreholes, mineral exploration tenements, geological maps, and supporting infrastructure data layers. The Portal also enables users to search for further data and publications from the metadata catalogs of six Australian geoscience agencies using ISO and OGC catalog web service standards (CSW).&lt;/p>
 &lt;p>The Portal provides access to the National Virtual Core Library, a repository of high resolution photographic imagery and scanned hyperspectral data from borehole core. Users can view and analyse the hyperspectral data within the Portal interface or download the data for further analysis.&lt;/p>
-&lt;p>&lt;img src="/images/National-Virtual-Core-Library.JPG" alt="National Virtual Core Library">&lt;/p>
+&lt;p>&lt;img src="/img/National-Virtual-Core-Library.JPG" alt="National Virtual Core Library">&lt;/p>
 &lt;p>AusGIN is an enthusiastic supporter of the CGI data transfer standards, GeoSciML and EarthResourceML. AusGIN plans to be using the new EarthResourceML-Lite data standard for mineral resources web services, and GeoSciML v4.1 for borehole web services in 2017.&lt;/p>
 &lt;h2 id="join-us-on-linkedin">Join Us on LinkedIn&lt;/h2>
 &lt;p>
-&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/images/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
+&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/img/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
 &lt;p>We invite all CGI members to join our
 &lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p></description></item><item><title>Newsletter Issue 3</title><link>/post/newsletter-issue-3/</link><pubDate>Wed, 14 Jan 2015 23:46:16 +0100</pubDate><guid>/post/newsletter-issue-3/</guid><description>&lt;h1 id="newsletter--issue-3--january-2015">Newsletter | Issue 3 | January 2015&lt;/h1>
 &lt;p>»
 &lt;a href="/docs/CGI_newsletter_jan15.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/earthPeopleComputers.jpg" alt="Earth People Computers">&lt;/p>
 &lt;p>Welcome to Edition #3 of the CGI Newsletter. In this edition we particularly highlight the achievements of CGI members honoured with international awards in 2014.&lt;/p>
 &lt;h2>Table of Contents&lt;/h2>
 &lt;nav id="TableOfContents">
@@ -329,57 +267,34 @@
 &lt;li>&lt;a href="#join-us-on-linkedin">Join Us on LinkedIn&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/nav>
-&lt;p>In This Issue&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="#honours">CGI Members Honoured&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#newWGchair">New Working Group Chair&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#vocabularies">New Geoscience Vocabularies&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#events">Upcoming Events&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#southAmerica">News from South America&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#annualReport">CGI 2014 Annual Report&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#GIRAF">GIRAF at CAG 25 in Dar es Salaam&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#councillors">Meet Your CGI Councillors&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#projects">Featured Project&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#linkedIn">Join Us on LinkedIn&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h2 id="cgi-members-honoured">CGI Members Honoured&lt;/h2>
 &lt;p>Three members of CGI have recently been honoured with awards from international information management and data standards organisations.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/XiaogangMa.jpg" alt="Dr Xiaogang (Marshall) Ma">&lt;/p>
+&lt;p>&lt;img src="/img/XiaogangMa.jpg" alt="Dr Xiaogang (Marshall) Ma">&lt;/p>
 &lt;p>&lt;strong>Dr Xiaogang (Marshall) Ma&lt;/strong> was awarded the
 &lt;a href="https://www.icsu-wds.org/news/news-archive/wds-stewardship-award-201320132014" target="_blank" rel="noopener">World Data System (WDS-ICSU) Data Stewardship Award&lt;/a> for 2014 at the SciDataCon 2014 Conference in New Delhi. The award highlights exceptional contributions to the improvement of scientific data stewardship by early career researchers through their engagement with the community, academic achievements, and innovations.&lt;/p>
 &lt;p>Marshall is a geoinformatics and data science researcher with extensive research in geoscience ontologies, and has worked recently on the capture and representation of data provenance in scientific workflows. Marshall is a member of the CGI Geoscience Terminology Working Group, the International Association for Mathematical Geosciences (IAMG; founder and first president of IAMG&amp;rsquo;s student chapter in 2010), the American Geophysical Union, and the Federation of Earth Science Information Partners. Marshall was coordinator for the GeoData 2014 workshop (highlighting inter-agency data networks in the US), and the 2014 Deep Carbon Observatory Data Science Day symposium, and organizer of a data provenance session for the Association of American Geographers 2014 Annual Meeting.
 &lt;a href="http://www.slideshare.net/MarshallXMa/why-data-science-matters" target="_blank" rel="noopener">See slides of Marshall&amp;rsquo;s award lecture &amp;ldquo;Why Data Science Matters&amp;rdquo;&lt;/a>.&lt;/p>
-&lt;p>&lt;img src="/images/council/peterBaumann.jpg" alt="Dr Peter Baumann">&lt;/p>
+&lt;p>&lt;img src="/img/peterBaumann.jpg" alt="Dr Peter Baumann">&lt;/p>
 &lt;p>&lt;strong>Dr Peter Baumann&lt;/strong>, Professor of Computer Science at Jacobs University and a current CGI council member, was awarded the
 &lt;a href="http://www.opengeospatial.org/ogc/awards/gardels" target="_blank" rel="noopener">Kenneth D. Gardels Award by the Open Geospatial Consortium (OGC)&lt;/a> for 2014. The award is in recognition of his &amp;ldquo;significant contribution to the OGC&amp;rsquo;s essential role and mission in the global Information Technology community&amp;rdquo;.&lt;/p>
 &lt;p>Jeffrey K. Harris, Chairman of the OGC Board of Directors, said: &amp;ldquo;We wish to express our deep appreciation for the extraordinary contribution you have made to the OGC community and to people around the world who are the ultimate beneficiaries of improvements in the development, management and use of geoscientific data. Devoting your time and bringing your dedication, expertise, critical thinking and leadership to OGC working groups has resulted in significant and enduring advances in technical standards. The value you&amp;rsquo;ve createdhas been leveraged, and the OGC&amp;rsquo;s work overall has been leveraged, through your active participation in other standards bodies, expert groups, councils and commissions. We thank you for this collaborative work, for it benefits us all.&amp;rdquo;&lt;/p>
 &lt;p>Peter is editor of twelve adopted standards related to the OGC Web Coverage Service (WCS) suite of Big Geo Data standards. Recently he has been instrumental in establishing a new Big Data Domain Working Group within the OGC which he also co-chairs. Peter&amp;rsquo;s research focuses on large-scale scientific information services, in particular: massive multi-dimensional data cubes. He has architected the
 &lt;a href="http://www.rasdaman.com/" target="_blank" rel="noopener">rasdaman&lt;/a> (&amp;ldquo;raster data manager&amp;rdquo;) technology which has pioneered a new research field, Array Databases.&lt;/p>
-&lt;p>&lt;img src="/images/newsletters/ianJackson.jpg" alt="Ian Jackson">&lt;/p>
+&lt;p>&lt;img src="/img/ianJackson.jpg" alt="Ian Jackson">&lt;/p>
 &lt;p>The Geological Society of America honoured &lt;strong>Ian Jackson&lt;/strong> with their
 &lt;a href="http://www.geosociety.org/awards/14speeches/geoinfo.htm" target="_blank" rel="noopener">Outstanding Contributions in Geoinformatics award&lt;/a> for 2014. The award recognises an individual who has contributed in an outstanding manner to geology through the application of the principles of geoinformatics.&lt;/p>
 &lt;p>Ian was a councillor of CGI from 2004 to 2012. Ian understood the importance of standards to achieve the opening of geoscientific data for diverse uses, and took a decisive part in the recreation of the IUGS-CGI.&lt;/p>
 &lt;p>The award citation notes Ian&amp;rsquo;s long and superb service to advance the field of geoinformatics through his pioneering work at the British Geological Survey, to the establishment and unprecedented success of the OneGeology initiative. A dominant theme throughout Ian&amp;rsquo;s career has been the wide application of geoscience data for societal benefit, a goal he continues to promote as a consultant on the international stage. Ian has been one of the first in geological survey organizations worldwide to understand, and more importantly, to change the organization of the survey to fulfill its role of &amp;ldquo;information agency.&amp;rdquo;&lt;/p>
 &lt;p>Among his many accomplishments, Ian is perhaps best known as the primary instigator of OneGeology - a global initiative to make digital geological map data accessible throughout the world. Ian&amp;rsquo;s colleagues uniformly refer to his ability to inspire others on the OneGeology concept and build a strong team with the skills to create OneGeology, his keen awareness of how to get things done, and his ability to find constructive ways around obstacles as key to the success of the initiative.&lt;/p>
 &lt;h2 id="new-working-group-chair">New Working Group Chair&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/markRattenbury.jpg" alt="Mark Rattenbury">&lt;/p>
+&lt;p>&lt;img src="/img/markRattenbury.jpg" alt="Mark Rattenbury">&lt;/p>
 &lt;p>Mark Rattenbury from GNS-New Zealand is the new chair of the CGI Geoscience Terminology Working Group. Mark took over from Steve Richard who handed over the reins after many years of inspirational leadership of CGI&amp;rsquo;s vocabulary development team. Mark has extensive experience in geological mapping, particularly of complexly deformed and metamorphosed basement terranes of Australia, Antarctica, and New Zealand. He led the 1:250 000 scale Geological Map of New Zealand programme to its conclusion in 2010 and is a specialist in geological map data management and dissemination using GIS software and web services. Mark is also a participant in the OGC/CGI GeoSciML Standards Working Group, as well as being the New Zealand representative on the OneGeology Technical Implementation Group.&lt;/p>
 &lt;h2 id="new-geoscience-vocabularies">New Geoscience Vocabularies&lt;/h2>
-&lt;p>&lt;img src="/images/mine.jpg" alt="Mine">&lt;/p>
+&lt;p>&lt;img src="/img/mine.jpg" alt="Mine">&lt;/p>
 &lt;p>The CGI Geoscience Terminology Working Group (GTWG) recently published 18 new geoscience vocabularies at the
 &lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">CGI&amp;rsquo;s vocabulary resources website&lt;/a>. The vocabularies describe features of mineral resources such as resource shape and form, exploration and mining activities, and resource and reserve classifications. The GTWG worked in collaboration with the EarthResourceML Working Group to compile the new vocabularies to support the EarthResourceML data transfer standard, most importantly as the standard for mineral resource data transfer for the EU INSPIRE initiative.&lt;/p>
 &lt;h2 id="upcoming-events">Upcoming Events&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/IGC2016.jpg" alt="35th International Geological Congress logo">&lt;/p>
+&lt;p>&lt;img src="/img/IGC2016.jpg" alt="35th International Geological Congress logo">&lt;/p>
 &lt;p>
 &lt;a href="http://www.35igc.org/" target="_blank" rel="noopener">&lt;strong>35th International Geological Congress&lt;/strong>&lt;/a>, Cape Town&lt;/p>
 &lt;p>Preliminary planning has begun within CGI Council for the Geoinformatics Symposium at the 2016 International Geological Congress in Cape Town, South Africa. If you would like to volunteer to help organise the symposium, please contact
@@ -387,34 +302,34 @@
 &lt;h2 id="news-from-south-america">News from South America&lt;/h2>
 &lt;h3 id="cgi-and-onegeology">CGI and OneGeology&lt;/h3>
 &lt;p>
-&lt;a href="/images/newsletters/1GsouthAmerica.jpg" title="CGI members presented at the South American OneGeology workshop in October in Rio de Janeiro, Brazil">&lt;img src="/images/newsletters/1GsouthAmerica.jpg" alt="CGI members presented at the South American OneGeology workshop in October in Rio de Janeiro, Brazil">&lt;/a>&lt;/p>
+&lt;a href="/img/1GsouthAmerica.jpg" title="CGI members presented at the South American OneGeology workshop in October in Rio de Janeiro, Brazil">&lt;img src="/img/1GsouthAmerica.jpg" alt="CGI members presented at the South American OneGeology workshop in October in Rio de Janeiro, Brazil">&lt;/a>&lt;/p>
 &lt;p>Several CGI members presented at the South American OneGeology workshop in October in Rio de Janeiro, Brazil. Tim Duffy and Steve Richard outlined how CGI standards such as GeoSciML-Portrayal and CGI&amp;rsquo;s geoscience vocabularies can be used to publish digital map data through the OneGeology Portal. The value of OneGeology as a vehicle to promote data sharing and data standards was emphasised, and Santiago Muñoz Tapia, president of the Ibero-American Geological and Mining Surveys Association (ASGMI), offered to host a future OneGeology/GeoSciML-Portrayal training course in the Dominican Republic.&lt;/p>
 &lt;h3 id="cgi-in-argentina">CGI in Argentina&lt;/h3>
 &lt;p>
-&lt;a href="/images/newsletters/cgiArgentina.jpg" title="Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).">&lt;img src="/images/newsletters/cgiArgentina.jpg" alt="Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).">&lt;/a> Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).&lt;/p>
+&lt;a href="/img/cgiArgentina.jpg" title="Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).">&lt;img src="/img/cgiArgentina.jpg" alt="Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).">&lt;/a> Left to right: CGI councillor Gabriel Asato, Dr Ruben Matheos (UnderSecretariat), Dr Cecatto (Secretariat Joint Science Technological, Ministry of Science, Technology and Production Innovation).&lt;/p>
 &lt;p>Argentina recently enacted ministerial decisions concerning the development of national science digital repositories. An interview was conducted during 2014 with the Joint Science and Technology Secretariat. Then a meeting with the Secretariat, Dr Alejandro Ceccatto was arranged where the aims and activities of CGI-IUGS were presented to him by CGI councillor Gabriel Asato. Dr Ceccatto was very pleased to know about CGI-IUGS activities and expressed that it could be important to have a geoscience digital information chapter in the national science repositories project.&lt;/p>
 &lt;h2 id="cgi-2014-annual-report">CGI 2014 Annual Report&lt;/h2>
 &lt;p>The 2014 annual report of CGI to the IUGS is now available from the
-&lt;a href="/misc/documents.html">CGI website&lt;/a>. The report describes the broad range of activities undertaken by CGI technical working groups and regional groups in 2014.&lt;/p>
+&lt;a href="/docs/CGI_annual_report_2014.pdf">CGI website&lt;/a>. The report describes the broad range of activities undertaken by CGI technical working groups and regional groups in 2014.&lt;/p>
 &lt;h2 id="giraf-at-cag-25-in-dar-es-salaam">GIRAF at CAG 25 in Dar es Salaam&lt;/h2>
-&lt;p>&lt;img src="/images/newsletters/GIRAF_CAG25.jpg" alt="GIRAF at CAG 25 in Dar es Salaam">&lt;/p>
+&lt;p>&lt;img src="/img/GIRAF_CAG25.jpg" alt="GIRAF at CAG 25 in Dar es Salaam">&lt;/p>
 &lt;p>Since its foundation in 2009, the
 &lt;a href="http://www.giraf-network.org/GIRAF2009/EN/Home/home_node.html" target="_blank" rel="noopener">GIRAF network&lt;/a> has been present at each Colloquium of African Geology (CAG) with a workshop or a session. A GIRAF workshop was held during 2014 &amp;ldquo;CAG 25&amp;rdquo; and the 3rd YES Network Congress in Dar es Salaam, Tanzania. The workshop was opened by the IUGS president Professor Roland Oberhänsli and supported by GSAf president Aberra Mogessie. The workshop was convened by Kristine Asch (CGI, BGR), Mesfin Gebremichael (SEAMIC), Terence Ngole (Geological Survey of Tansania) and Salvatore Mondlane Junior (Eduardo Mondlane University, Maputo). It encompassed seven presentations and additional contributions on geoscience information projects and initiatives in Africa, the African Mining Vision, and the role of GIRAF at universities, followed by discussions and the start of preparation for the next GIRAF workshop in Maputo, Mozambique in 2015. The event was concluded successfully and attended by 49 participants, mostly from Africa, and 20 new members joined GIRAF network. The GIRAF network was kindly mentioned at the final CAG 25 assembly by one of the main organizers, Nelson Boniface, in his concluding remarks as a positive and driving factor for geoscience information issues in Africa.&lt;/p>
 &lt;h2 id="meet-your-cgi-councillors">Meet Your CGI Councillors&lt;/h2>
-&lt;p>&lt;img src="/images/council/ollieRaymond.jpg" alt="Ollie Raymond">&lt;/p>
+&lt;p>&lt;img src="/img/ollieRaymond.jpg" alt="Ollie Raymond">&lt;/p>
 &lt;p>Ollie Raymond has been involved in compiling and managing digital geological maps and databases at Geoscience Australia for over 20 years. He is currently the data management leader for national geological maps and databases, including the Australian 1:1M scale surface geology dataset, and the national geological provinces and stratigraphy databases. Ollie has extensive experience of regional geological mapping in Paleozoic and Proterozoic terranes, and pior to joining Geoscience Australia, Ollie was a mine and exploration geologist at the Mt Isa mine in Queensland. He is a graduate of the Australian National University (BSc) and the University of Tasmania (MSc) in economic geology.&lt;/p>
 &lt;p>Ollie has been involved in geoscience standards and data modelling since 1994, initially as coordinator of the first GIS data dictionary at Geoscience Australia, and more recently of databases and vocabularies for geological maps, stratigraphy, mineral deposits, geomorphology, and rock properties. Since 2006, Ollie has been a member of, and is currently chair of, the GeoSciML Standards Working Group. He is also an active member of the CGI Geoscience Terminology Working Group. Ollie was part of the Australian team which designed the mineral deposit data transfer standard which is now developed internationally as EarthResourceML. Ollie is a representative on the Australia/NZ Government Geoscience Information Committee, and is the Australian representative on the OneGeology Technical Implementation Group.
 &lt;a href="mailto:oliver.raymond@ga.gov.au">Contact Ollie&lt;/a>.&lt;/p>
 &lt;h2 id="featured-project">Featured Project&lt;/h2>
 &lt;p>
-&lt;a href="/images/newsletters/ngds.jpg" title="NGDS Data Explorer">&lt;img src="/images/newsletters/ngds.jpg" alt="NGDS Data Explorer">&lt;/a>&lt;/p>
+&lt;a href="/img/ngds.jpg" title="NGDS Data Explorer">&lt;img src="/img/ngds.jpg" alt="NGDS Data Explorer">&lt;/a>&lt;/p>
 &lt;p>The
 &lt;a href="http://data.geothermaldatasystem.org/" target="_blank" rel="noopener">NGDS Data Explorer&lt;/a> is a web application designed to load and display WFS data from the US
 &lt;a href="http://geothermaldata.org/" target="_blank" rel="noopener">National Geothermal Data System&lt;/a>, a project of the
 &lt;a href="http://usgin.org/page/usgin-action-ngds" target="_blank" rel="noopener">US Geoscience Information Network (USGIN)&lt;/a>. NGDS provides access to over 30 types of data representing more than 9 million data points and over 17,000 reports and documents. Users can find geothermal-related data from a text or location search. When a WFS has been loaded, a user can then export attributes (standardized data) from this service as an HTML table, CSV file, or Microsoft Excel workbook.&lt;/p>
 &lt;h2 id="join-us-on-linkedin">Join Us on LinkedIn&lt;/h2>
 &lt;p>
-&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/images/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
+&lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">&lt;img src="/img/linkedin.jpg" alt="LinkedIn logo">&lt;/a>&lt;/p>
 &lt;p>We invite all CGI members to join our
 &lt;a href="https://www.linkedin.com/groups/6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p></description></item><item><title>Newsletter Issue 2</title><link>/post/newsletter-issue-2/</link><pubDate>Sat, 14 Jun 2014 22:30:35 +0100</pubDate><guid>/post/newsletter-issue-2/</guid><description>&lt;h1 id="newsletter--issue-2--june-2014">Newsletter | Issue 2 | June 2014&lt;/h1>
 &lt;p>»
