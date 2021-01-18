@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | The Commission for the Management and Application of Geoscience Information</title><link>http://www.cgi-iugs.org/category/active/</link><atom:link href="http://www.cgi-iugs.org/category/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>http://www.cgi-iugs.org/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>active</title><link>http://www.cgi-iugs.org/category/active/</link></image><item><title>EarthResourceML</title><link>http://www.cgi-iugs.org/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>http://www.cgi-iugs.org/project/earthresourceml/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | The Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/category/active/</link><atom:link href="https://cgi-iugs.github.io/category/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>https://cgi-iugs.github.io/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>active</title><link>https://cgi-iugs.github.io/category/active/</link></image><item><title>EarthResourceML</title><link>https://cgi-iugs.github.io/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>https://cgi-iugs.github.io/project/earthresourceml/</guid><description>&lt;p>
 &lt;a href="mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
 &lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
 &lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
@@ -6,11 +6,11 @@
 &lt;p>A parallel data standard for simple visualisation, EarthResourceML-Lite (ERML Lite), has also been developed. It enables the portrayal of a simplified set of the ERML data model using web map services (WMS) or simple web feature services (WFS).&lt;/p>
 &lt;p>Example uses:&lt;/p>
 &lt;p>
-&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
+&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
 &lt;p>
-&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
 &lt;p>
-&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
+&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
 &lt;h2 id="history-of-earthresourceml">History of EarthResourceML&lt;/h2>
 &lt;p>EarthResourceML (ERML) was born from a model developed by the Australian Government Geoscience Information Committee (GGIC) from 2004–2008. The CGI took over governance of the Australian model in 2008, and, after modifications by the CGI Interoperability Working Group, EarthResourceML version 1.1 was published in 2009. After some further revision, mainly to accommodate the needs of the European INSPIRE Directive, EarthResourceML version 2.0 was published in 2013.&lt;/p>
 &lt;p>Future development of ERML, and the simple-feature variant of ERML (ERML Lite), which supports simple portrayal requirements (e.g. WMS), will be undertaken by the EarthResourceML Working Group.&lt;/p>
@@ -58,12 +58,12 @@
 &lt;li>plus other observers&lt;/li>
 &lt;/ul>
 &lt;p>
-&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/inspire_2019.jpg" alt="">&lt;/a>
-&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/minerals4u_logo.jpg" alt="">&lt;/a>
-&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ASGIN_logo.jpg" alt="">&lt;/a>
-&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/onegeology_logo_large.png" alt="">&lt;/a>
-&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_logo.jpg" alt="">&lt;/a>
-&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>Metadata</title><link>http://www.cgi-iugs.org/project/metadata/</link><pubDate>Fri, 17 Jun 2016 19:59:03 +0100</pubDate><guid>http://www.cgi-iugs.org/project/metadata/</guid><description>&lt;h1 id="metadata">Metadata&lt;/h1>
+&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/inspire_2019.jpg" alt="">&lt;/a>
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/minerals4u_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/ASGIN_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/onegeology_logo_large.png" alt="">&lt;/a>
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/egdi_logo.jpg" alt="">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="https://cgi-iugs.github.io/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>Metadata</title><link>https://cgi-iugs.github.io/project/metadata/</link><pubDate>Fri, 17 Jun 2016 19:59:03 +0100</pubDate><guid>https://cgi-iugs.github.io/project/metadata/</guid><description>&lt;h1 id="metadata">Metadata&lt;/h1>
 &lt;p>The rapid growth of the internet as a means of searching for, disseminating and receiving data has given rise to a corresponding increase in interest in metadata. As a result of this there has been a considerable amount of effort put into developing metadata standards which, for spatial data, has resulted in the recent ratification of ISO19115. Many organisations in the geoscience community are working to implement this and related standards, but often as separate and uncoordinated activities.&lt;/p>
 &lt;p>Although the CGI does not have any formal working group concerned with geoscience metadata it was felt that it could help geoscience organisations develop their metadata implementations by providing a forum for posting work and discussions. Hopefully this will enable organisations to learn from one another and thus save development time.&lt;/p>
 &lt;p>The ISO19115 standard recognises that different organisations or user communities may wish to specify their own implementations of the standard, for example by making specific restrictions on the values that can be entered to particular fields or adding extensions to meet their specific needs. These can be defined, and registered, as ISO community profiles. There may be advantages in developing such a profile for the geoscience community, and if so this forum could be the first step in this direction. If there is sufficient interest from the community in developing a geoscience profile then a formal CGI working group might be needed.&lt;/p>
@@ -72,22 +72,22 @@
 &lt;p>All documents are in PDF format. The name of the contributor and the date the document was posted appear in brackets.&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="http://www.cgi-iugs.org/docs/Explanations_KAH_ECol.pdf">Explanations of the metadata elements implemented by BGS&lt;/a> &lt;em>(John Laxton, 28/01/2005)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/Explanations_KAH_ECol.pdf">Explanations of the metadata elements implemented by BGS&lt;/a> &lt;em>(John Laxton, 28/01/2005)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="http://www.cgi-iugs.org/docs/tabledesign.pdf">An Entity Relationship Diagram (ERD)&lt;/a> showing the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/tabledesign.pdf">An Entity Relationship Diagram (ERD)&lt;/a> showing the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>Documentation describing the
-&lt;a href="http://www.cgi-iugs.org/docs/tabledesigndocumentation.pdf">BGS Oracle implementation&lt;/a> of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/tabledesigndocumentation.pdf">BGS Oracle implementation&lt;/a> of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="http://www.cgi-iugs.org/docs/namingconventions.pdf">Naming conventions&lt;/a> used in the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/namingconventions.pdf">Naming conventions&lt;/a> used in the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="http://www.cgi-iugs.org/docs/diagramconventions.pdf">Conventions used in the ERD diagrams&lt;/a> &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/diagramconventions.pdf">Conventions used in the ERD diagrams&lt;/a> &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>An ERD showing the
-&lt;a href="http://www.cgi-iugs.org/docs/Visio-ISO19115DEVPart.pdf">full BGS metadata implementation&lt;/a>, including those non-core ISO19115 elements used, and extensions &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/Visio-ISO19115DEVPart.pdf">full BGS metadata implementation&lt;/a>, including those non-core ISO19115 elements used, and extensions &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>A spreadsheet showing the
-&lt;a href="http://www.cgi-iugs.org/docs/BGSDGSMProfile.pdf">ISO19115 elements implemented by BGS&lt;/a> and their relationship with legacy BGS metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="https://cgi-iugs.github.io/docs/BGSDGSMProfile.pdf">ISO19115 elements implemented by BGS&lt;/a> and their relationship with legacy BGS metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>The
-&lt;a href="http://www.cgi-iugs.org/docs/BusinessRules.pdf">Business Rules&lt;/a> used by BGS in implementing ISO19115 &lt;em>(John Laxton, 04/10/2004)&lt;/em>&lt;/li>
-&lt;/ul></description></item><item><title>Regional Working Groups</title><link>http://www.cgi-iugs.org/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>http://www.cgi-iugs.org/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
+&lt;a href="https://cgi-iugs.github.io/docs/BusinessRules.pdf">Business Rules&lt;/a> used by BGS in implementing ISO19115 &lt;em>(John Laxton, 04/10/2004)&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>Regional Working Groups</title><link>https://cgi-iugs.github.io/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>https://cgi-iugs.github.io/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
 &lt;h2 id="the-role-of-regional-working-groups">The Role of Regional Working Groups&lt;/h2>
 &lt;p>The CGI’s broad aim is to enable the global exchange of geoscience information and systems. Recognising that the CGI council member will be able only to provide continental scale regional representation, the CGI council recognises the potential need to institute working groups that will address the specialised technical or scientific needs of regions defined by culture, geography or politics and encourages the establishment of CGI Regional Working Groups (RWG).&lt;/p>
 &lt;h2 id="rgw-activities">RGW Activities&lt;/h2>
