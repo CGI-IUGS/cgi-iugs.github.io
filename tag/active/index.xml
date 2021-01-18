@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | The Commission for the Management and Application of Geoscience Information</title><link>/tag/active/</link><atom:link href="/tag/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>active</title><link>/tag/active/</link></image><item><title>EarthResourceML</title><link>/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>/project/earthresourceml/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>active | The Commission for the Management and Application of Geoscience Information</title><link>http://www.cgi-iugs.org/tag/active/</link><atom:link href="http://www.cgi-iugs.org/tag/active/index.xml" rel="self" type="application/rss+xml"/><description>active</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>http://www.cgi-iugs.org/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>active</title><link>http://www.cgi-iugs.org/tag/active/</link></image><item><title>EarthResourceML</title><link>http://www.cgi-iugs.org/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>http://www.cgi-iugs.org/project/earthresourceml/</guid><description>&lt;p>
 &lt;a href="mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
 &lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
 &lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
@@ -6,11 +6,11 @@
 &lt;p>A parallel data standard for simple visualisation, EarthResourceML-Lite (ERML Lite), has also been developed. It enables the portrayal of a simplified set of the ERML data model using web map services (WMS) or simple web feature services (WFS).&lt;/p>
 &lt;p>Example uses:&lt;/p>
 &lt;p>
-&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
+&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
 &lt;p>
-&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
 &lt;p>
-&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
+&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
 &lt;h2 id="history-of-earthresourceml">History of EarthResourceML&lt;/h2>
 &lt;p>EarthResourceML (ERML) was born from a model developed by the Australian Government Geoscience Information Committee (GGIC) from 2004–2008. The CGI took over governance of the Australian model in 2008, and, after modifications by the CGI Interoperability Working Group, EarthResourceML version 1.1 was published in 2009. After some further revision, mainly to accommodate the needs of the European INSPIRE Directive, EarthResourceML version 2.0 was published in 2013.&lt;/p>
 &lt;p>Future development of ERML, and the simple-feature variant of ERML (ERML Lite), which supports simple portrayal requirements (e.g. WMS), will be undertaken by the EarthResourceML Working Group.&lt;/p>
@@ -48,23 +48,22 @@
 &lt;p>The SWG contains members from all over the world, including:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="mailto:jouni.vuollo@gtk.fi">Jouni Vuollo&lt;/a> (Chair; GTK, Finland)&lt;/li>
+&lt;a href="mailto:michael.sexton@ga.gov.au">Michael Sexton&lt;/a> (Chair; GA, Australia)&lt;/li>
 &lt;li>Daniel Cassard (BRGM, France)&lt;/li>
 &lt;li>Tjerk Heijboer (GEUS, Denmark)&lt;/li>
 &lt;li>James Passmore (BGS, UK)&lt;/li>
 &lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
 &lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
-&lt;li>Mickael Sexton (Geoscience Australia)&lt;/li>
 &lt;li>François Tertre (BRGM, France)&lt;/li>
 &lt;li>plus other observers&lt;/li>
 &lt;/ul>
 &lt;p>
-&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_2019.jpg" alt="">&lt;/a>
-&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="/img/minerals4u_logo.jpg" alt="">&lt;/a>
-&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/ASGIN_logo.jpg" alt="">&lt;/a>
-&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology_logo_large.png" alt="">&lt;/a>
-&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="/img/egdi_logo.jpg" alt="">&lt;/a>
-&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>GeoSciML</title><link>/project/geosciml/</link><pubDate>Fri, 12 Jun 2020 11:49:33 +0100</pubDate><guid>/project/geosciml/</guid><description>&lt;ul>
+&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/inspire_2019.jpg" alt="">&lt;/a>
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/minerals4u_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ASGIN_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/onegeology_logo_large.png" alt="">&lt;/a>
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_logo.jpg" alt="">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item><item><title>GeoSciML</title><link>http://www.cgi-iugs.org/project/geosciml/</link><pubDate>Fri, 12 Jun 2020 11:49:33 +0100</pubDate><guid>http://www.cgi-iugs.org/project/geosciml/</guid><description>&lt;ul>
 &lt;li>
 &lt;a href="#what-is-geosciml">What is GeoSciML?&lt;/a>&lt;/li>
 &lt;li>
@@ -81,7 +80,7 @@
 &lt;p>
 &lt;a href="mailto:eric.boisvert2@canada.ca?subject=Application%20to%20join%20the%20GeoSciML%20Standards%20Working%20Group">Join the GeoSciML team&lt;/a>&lt;/p>
 &lt;h2 id="what-is-geosciml">What is GeoSciML&lt;/h2>
-&lt;p>&lt;img src="/img/map_image.jpg" alt="GeoSciML map">&lt;/p>
+&lt;p>&lt;img src="http://www.cgi-iugs.org/img/map_image.jpg" alt="GeoSciML map">&lt;/p>
 &lt;p>&lt;strong>GeoSciML&lt;/strong> is an XML–based data transfer standard for the exchange of digital geoscientific information. It accommodates the representation and description of features typically found on geological maps, as well as being extensible to other geoscience data such as drilling, sampling, and analytical data.&lt;/p>
 &lt;p>GeoSciML provides a standard data structure for a suite of common geologic features (eg, geologic units, structures, earth materials) and artefacts of geological investigations (eg, boreholes, specimens, measurements). Supporting objects such as the geologic timescale and vocabularies are also provided as linked resources, so that they can be used as classifiers for the primary objects in the GeoSciML standard.&lt;/p>
 &lt;p>The GeoSciML data standard is underpinned by several established OGC and ISO standards, including Web Feature Service (WFS – ISO 19142), Geography Markup Language (GML – ISO 19136), Observations &amp;amp; Measurements (O&amp;amp;M – ISO 19156), and SWE Common.&lt;/p>
@@ -150,18 +149,18 @@
 &lt;a href="http://www.aegos-project.org/index.php" target="_blank" rel="noopener">African-European Georesources Observation System&lt;/a> is promoting GeoSciML as the standard for geoscience data exchange across Africa.&lt;/li>
 &lt;/ul>
 &lt;p>
-&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="/img/onegeology.jpg" alt="OneGeology logo">&lt;/a>
-&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="/img/inspire_logo.jpg" alt="INSPIRE logo">&lt;/a>
-&lt;a href="http://usgin.org/" target="_blank" rel="noopener">&lt;img src="/img/l-logo-usgin-75.png" alt="USGIN logo">&lt;/a>
-&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">&lt;img src="/img/CanGIN.png" alt="Groundwater Information Network logo">&lt;/a>
-&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="/img/AUSGIN-logo.jpg" alt="AUSGIN logo">&lt;/a>
-&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="/img/auscope_2019.png" alt="AuScope logo">&lt;/a>
-&lt;a href="https://cordis.europa.eu/project/rcn/89340/factsheet/en" target="_blank" rel="noopener">&lt;img src="/img/aegos.png" alt="AEGOS logo">&lt;/a>&lt;/p></description></item><item><title>Geoscience Terminology Working Group (GTWG)</title><link>/project/geoscienceterminology/</link><pubDate>Wed, 12 Jun 2019 11:50:03 +0100</pubDate><guid>/project/geoscienceterminology/</guid><description>&lt;p>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/onegeology.jpg" alt="OneGeology logo">&lt;/a>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/inspire_logo.jpg" alt="INSPIRE logo">&lt;/a>
+&lt;a href="http://usgin.org/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/l-logo-usgin-75.png" alt="USGIN logo">&lt;/a>
+&lt;a href="http://ngwd-bdnes.cits.nrcan.gc.ca/service/api_ngwds/en/wmc/aquifermap.html" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/CanGIN.png" alt="Groundwater Information Network logo">&lt;/a>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/AUSGIN-logo.jpg" alt="AUSGIN logo">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/auscope_2019.png" alt="AuScope logo">&lt;/a>
+&lt;a href="https://cordis.europa.eu/project/rcn/89340/factsheet/en" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/aegos.png" alt="AEGOS logo">&lt;/a>&lt;/p></description></item><item><title>Geoscience Terminology Working Group (GTWG)</title><link>http://www.cgi-iugs.org/project/geoscienceterminology/</link><pubDate>Wed, 12 Jun 2019 11:50:03 +0100</pubDate><guid>http://www.cgi-iugs.org/project/geoscienceterminology/</guid><description>&lt;p>
 &lt;a href="mailto:chair.gtwg@gmail.com?subject=[Application]%20to%20join%20the%20Geoscience%20%20Working%20Group">Join the Geoscience Terminology team&lt;/a>&lt;/p>
 &lt;h2 id="what-gtwg-does">What GTWG does&lt;/h2>
 &lt;p>The Geoscience Terminology Working Group develops, reviews, adopts, publishes and acts as steward for internationally accepted geoscience vocabularies under the auspices of the Commission for the Application and Management of Geoscience Information (CGI). The GTWG manages these vocabularies and their associated documentation for use in geoscience information systems, in particular for the
-&lt;a href="/project/geosciml/">GeoSciML&lt;/a> and
-&lt;a href="/project/earthresourceml/">EarthResourceML&lt;/a> data transfer standards. The group assesses proposals for new geoscience vocabularies and change requests for existing CGI vocabularies. GTWG also liaises with other semantic interoperability groups to ensure cross-domain interoperability and promotes the use of vocabularies for enhanced dataset interoperability.&lt;/p>
+&lt;a href="http://www.cgi-iugs.org/project/geosciml/">GeoSciML&lt;/a> and
+&lt;a href="http://www.cgi-iugs.org/project/earthresourceml/">EarthResourceML&lt;/a> data transfer standards. The group assesses proposals for new geoscience vocabularies and change requests for existing CGI vocabularies. GTWG also liaises with other semantic interoperability groups to ensure cross-domain interoperability and promotes the use of vocabularies for enhanced dataset interoperability.&lt;/p>
 &lt;h2 id="our-vocabularies">Our vocabularies&lt;/h2>
 &lt;p>More than 100 geoscience vocabularies have been identified to support the
 &lt;a href="http://www.geosciml.org/" target="_blank" rel="noopener">GeoSciML&lt;/a> and
@@ -189,7 +188,7 @@
 &lt;h2 id="background">Background&lt;/h2>
 &lt;p>The CGI has had two previous workgroups involved in vocabulary production. The Multi-lingual Thesaurus Working Group was formed in 2003 to continue work of the Multhes working group of the 1990s. The Concept Definition Task Group was formed by the CGI Interoperability Working Group in 2007 to develop concept vocabularies for populating GeoSciML interchange documents. Because of the overlapping interests the CGI council has determined that it will be more efficient and effective to merge the efforts. The Geoscience Terminology Working Group was established early in 2013 to undertake this combined role.&lt;/p>
 &lt;h2 id="why-are-vocabularies-needed">Why are vocabularies needed?&lt;/h2>
-&lt;p>&lt;img src="/img/granite_lithology.jpg" alt="Granite lithology">&lt;/p>
+&lt;p>&lt;img src="http://www.cgi-iugs.org/img/granite_lithology.jpg" alt="Granite lithology">&lt;/p>
 &lt;p>Vocabularies are restricted lists of agreed terms that describe features contained in database fields. By limiting database values to the contents of common agreed vocabularies the interoperability and interchange of the information is enhanced. The list contents are also multi-lingual where translations of the originating list language are made available in other languages. Vocabularies also organise their terms hierarchically so that terms can be parts of a group that is a valid term itself. For example &amp;ldquo;basalt&amp;rdquo; and &amp;ldquo;gabbroic rock&amp;rdquo; are narrower adopted CGI terms for the broader level &amp;ldquo;basic igneous rock&amp;rdquo;. and this enables database searching or map portrayal based on either the broader or the narrower term.&lt;/p>
 &lt;h2 id="how-vocabularies-are-adopted">How vocabularies are adopted&lt;/h2>
 &lt;p>Proposals for new geoscience vocabularies or change requests for existing CGI vocabularies, are lodged with the GTWG, usually instigated from within the group but can be initiated from outside for a specific requirement. Each proposal is assessed by the group to establish whether the changes are minor and do not require the GTWG&amp;rsquo;s formal consultation, review and adoption process or whether the proposed changes are significant and need input from the group. Each new or changed vocabulary proposal is assigned a &amp;lsquo;shepherd&amp;rsquo; responsible for developing a draft vocabulary if new, or modifying a version of an existing vocabulary. The vocabulary proposal is then reviewed by the GTWG and through them colleagues and the wider community. After consultation and response to comments, the shepherd recommends voting for its adoption to the GTWG. Upon adoption, the vocabulary is registered in the CGI vocabulary repository.&lt;/p>
@@ -201,7 +200,7 @@
 &lt;p>A Request for Change refers to a proposal to modify an adopted existing CGI vocabulary or to propose a new geoscience vocabulary. The GTWG recognise that the adopted vocabularies will not always suit all user requirements and that needs of the wider geoscience community will evolve. Adopted vocabularies should be regarded as live working versions rather than irrevocably finalised. The GTWG will consider a Request for Change from groups or individuals outside of the working group. These Requests for Change can be sent to the working group via an email request to &lt;a href="mailto:chair.gtwg@gmailcom">chair.gtwg@gmailcom&lt;/a>. Alternatively a Request for Change can be sent to a GTWG member directly.&lt;/p>
 &lt;h2 id="membership">Membership&lt;/h2>
 &lt;p>The GTWG contains members from all over the world. The current membership of 27 includes representatives from geological surveys of Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Great Britain, Italy, New Zealand, Russia, Slovenia, Sweden and USA.&lt;/p>
-&lt;p>The GTWG needs active participation in the construction of geoscience vocabularies. Participants with expertise in specialist geoscience domains, information science and data models are particularly welcomed. For those who would like to contribute to the GTWG should contact the Chair, outlining their areas of expertise and their capacity to assist.&lt;/p></description></item><item><title>Metadata</title><link>/project/metadata/</link><pubDate>Fri, 17 Jun 2016 19:59:03 +0100</pubDate><guid>/project/metadata/</guid><description>&lt;h1 id="metadata">Metadata&lt;/h1>
+&lt;p>The GTWG needs active participation in the construction of geoscience vocabularies. Participants with expertise in specialist geoscience domains, information science and data models are particularly welcomed. For those who would like to contribute to the GTWG should contact the Chair, outlining their areas of expertise and their capacity to assist.&lt;/p></description></item><item><title>Metadata</title><link>http://www.cgi-iugs.org/project/metadata/</link><pubDate>Fri, 17 Jun 2016 19:59:03 +0100</pubDate><guid>http://www.cgi-iugs.org/project/metadata/</guid><description>&lt;h1 id="metadata">Metadata&lt;/h1>
 &lt;p>The rapid growth of the internet as a means of searching for, disseminating and receiving data has given rise to a corresponding increase in interest in metadata. As a result of this there has been a considerable amount of effort put into developing metadata standards which, for spatial data, has resulted in the recent ratification of ISO19115. Many organisations in the geoscience community are working to implement this and related standards, but often as separate and uncoordinated activities.&lt;/p>
 &lt;p>Although the CGI does not have any formal working group concerned with geoscience metadata it was felt that it could help geoscience organisations develop their metadata implementations by providing a forum for posting work and discussions. Hopefully this will enable organisations to learn from one another and thus save development time.&lt;/p>
 &lt;p>The ISO19115 standard recognises that different organisations or user communities may wish to specify their own implementations of the standard, for example by making specific restrictions on the values that can be entered to particular fields or adding extensions to meet their specific needs. These can be defined, and registered, as ISO community profiles. There may be advantages in developing such a profile for the geoscience community, and if so this forum could be the first step in this direction. If there is sufficient interest from the community in developing a geoscience profile then a formal CGI working group might be needed.&lt;/p>
@@ -210,22 +209,22 @@
 &lt;p>All documents are in PDF format. The name of the contributor and the date the document was posted appear in brackets.&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="/docs/Explanations_KAH_ECol.pdf">Explanations of the metadata elements implemented by BGS&lt;/a> &lt;em>(John Laxton, 28/01/2005)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/Explanations_KAH_ECol.pdf">Explanations of the metadata elements implemented by BGS&lt;/a> &lt;em>(John Laxton, 28/01/2005)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="/docs/tabledesign.pdf">An Entity Relationship Diagram (ERD)&lt;/a> showing the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/tabledesign.pdf">An Entity Relationship Diagram (ERD)&lt;/a> showing the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>Documentation describing the
-&lt;a href="/docs/tabledesigndocumentation.pdf">BGS Oracle implementation&lt;/a> of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/tabledesigndocumentation.pdf">BGS Oracle implementation&lt;/a> of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="/docs/namingconventions.pdf">Naming conventions&lt;/a> used in the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/namingconventions.pdf">Naming conventions&lt;/a> used in the BGS implementation of the ISO19115 core metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>
-&lt;a href="/docs/diagramconventions.pdf">Conventions used in the ERD diagrams&lt;/a> &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/diagramconventions.pdf">Conventions used in the ERD diagrams&lt;/a> &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>An ERD showing the
-&lt;a href="/docs/Visio-ISO19115DEVPart.pdf">full BGS metadata implementation&lt;/a>, including those non-core ISO19115 elements used, and extensions &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/Visio-ISO19115DEVPart.pdf">full BGS metadata implementation&lt;/a>, including those non-core ISO19115 elements used, and extensions &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>A spreadsheet showing the
-&lt;a href="/docs/BGSDGSMProfile.pdf">ISO19115 elements implemented by BGS&lt;/a> and their relationship with legacy BGS metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
+&lt;a href="http://www.cgi-iugs.org/docs/BGSDGSMProfile.pdf">ISO19115 elements implemented by BGS&lt;/a> and their relationship with legacy BGS metadata &lt;em>(John Laxton, 29/06/2004)&lt;/em>&lt;/li>
 &lt;li>The
-&lt;a href="/docs/BusinessRules.pdf">Business Rules&lt;/a> used by BGS in implementing ISO19115 &lt;em>(John Laxton, 04/10/2004)&lt;/em>&lt;/li>
-&lt;/ul></description></item><item><title>Regional Working Groups</title><link>/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
+&lt;a href="http://www.cgi-iugs.org/docs/BusinessRules.pdf">Business Rules&lt;/a> used by BGS in implementing ISO19115 &lt;em>(John Laxton, 04/10/2004)&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title>Regional Working Groups</title><link>http://www.cgi-iugs.org/project/regionalwg/</link><pubDate>Thu, 12 Jun 2014 11:50:48 +0100</pubDate><guid>http://www.cgi-iugs.org/project/regionalwg/</guid><description>&lt;h1 id="cgi-regional-working-groups">CGI Regional Working Groups&lt;/h1>
 &lt;h2 id="the-role-of-regional-working-groups">The Role of Regional Working Groups&lt;/h2>
 &lt;p>The CGI’s broad aim is to enable the global exchange of geoscience information and systems. Recognising that the CGI council member will be able only to provide continental scale regional representation, the CGI council recognises the potential need to institute working groups that will address the specialised technical or scientific needs of regions defined by culture, geography or politics and encourages the establishment of CGI Regional Working Groups (RWG).&lt;/p>
 &lt;h2 id="rgw-activities">RGW Activities&lt;/h2>

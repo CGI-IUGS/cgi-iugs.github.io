@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Sexton | The Commission for the Management and Application of Geoscience Information</title><link>http://www.cgi-iugs.org/author/michael-sexton/</link><atom:link href="http://www.cgi-iugs.org/author/michael-sexton/index.xml" rel="self" type="application/rss+xml"/><description>Michael Sexton</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 12 Jun 2020 11:49:44 +0100</lastBuildDate><image><url>http://www.cgi-iugs.org/author/michael-sexton/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url><title>Michael Sexton</title><link>http://www.cgi-iugs.org/author/michael-sexton/</link></image><item><title>EarthResourceML</title><link>http://www.cgi-iugs.org/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>http://www.cgi-iugs.org/project/earthresourceml/</guid><description>&lt;p>
+&lt;a href="mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
+&lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
+&lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
+&lt;p>EarthResourceML makes use of the existing GeoSciML data standard for describing geological materials associated with mineral deposits. It is also underpinned by established OGC and ISO standards, including web feature service (WFS - ISO 19142), geography markup language (GML - ISO 19136), and SWE Common.&lt;/p>
+&lt;p>A parallel data standard for simple visualisation, EarthResourceML-Lite (ERML Lite), has also been developed. It enables the portrayal of a simplified set of the ERML data model using web map services (WMS) or simple web feature services (WFS).&lt;/p>
+&lt;p>Example uses:&lt;/p>
+&lt;p>
+&lt;a href="http://www.europe-geology.eu/mineral-resources/mineral-resources-map/critical-raw-materials-map/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_2019.jpg" alt="EGDI">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ausgin_2019.jpg" alt="AUSGIN portal">&lt;/a>&lt;/p>
+&lt;p>
+&lt;a href="http://portal.onegeology.org/OnegeologyGlobal/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/oneGeology_2019.jpg" alt="OneGeology">&lt;/a>&lt;/p>
+&lt;h2 id="history-of-earthresourceml">History of EarthResourceML&lt;/h2>
+&lt;p>EarthResourceML (ERML) was born from a model developed by the Australian Government Geoscience Information Committee (GGIC) from 2004–2008. The CGI took over governance of the Australian model in 2008, and, after modifications by the CGI Interoperability Working Group, EarthResourceML version 1.1 was published in 2009. After some further revision, mainly to accommodate the needs of the European INSPIRE Directive, EarthResourceML version 2.0 was published in 2013.&lt;/p>
+&lt;p>Future development of ERML, and the simple-feature variant of ERML (ERML Lite), which supports simple portrayal requirements (e.g. WMS), will be undertaken by the EarthResourceML Working Group.&lt;/p>
+&lt;p>ERML Lite version 1.0 was published in 2016 and the current version (2.0) was accepted in 2017 and published in 2018.&lt;/p>
+&lt;p>The international ERML development team meets at least annually to ensure that ERML continues to address the needs of data providers and users. Recent meetings have been held in St Petersburg (2013), Tuscon (2014), Ispra (2015), Vienna (2017) and Vancouver (2018).&lt;/p>
+&lt;h2 id="downloads-and-other-resources">Downloads and other resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="http://www.earthresourceml.org" target="_blank" rel="noopener">www.earthresourceml.org&lt;/a>: documentation, UML models, examples, and XML schemas for ERML and ERML Lite&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://schemas.earthresourceml.org/2.0/" target="_blank" rel="noopener">version 2.0&lt;/a>&lt;/li>
+&lt;li>XSD schemas for
+&lt;a href="http://www.earthresourceml.org/earthresourceml/1.1/xsd/" target="_blank" rel="noopener">version 1.1&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceML" target="_blank" rel="noopener">Wiki&lt;/a> for the development of the ERML data standard&lt;/li>
+&lt;li>
+&lt;a href="http://resource.geosciml.org/" target="_blank" rel="noopener">resource.geosciml.org&lt;/a>: the GeoSciML vocabulary repository contains useful vocabularies to support delivery of interoperable geological data for mineral occurrences and mines&lt;/li>
+&lt;li>
+&lt;a href="https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations" target="_blank" rel="noopener">publications and presentations&lt;/a>: conference abstracts, posters and presentations describing ERML and related projects from 2007 to 2016. (Please respect the copyright of the authors of these publications.)&lt;/li>
+&lt;/ul>
+&lt;h2 id="global-use-of-erml">Global use of ERML&lt;/h2>
+&lt;p>ERML is used or endorsed as the mineral resources data transfer standard by data-sharing initiatives across the world. Some examples include:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="http://inspire.ec.europa.eu/" target="_blank" rel="noopener">European INSPIRE Directive&lt;/a>: uses ERML as its data standard for exchange of mineral resource information between countries of the European Union. The implementation projects are
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">Minerals4EU&lt;/a> and
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">EGDI&lt;/a>.&lt;/li>
+&lt;li>The Australian
+&lt;a href="http://auscope.org.au/site/" target="_blank" rel="noopener">AuScope&lt;/a> and
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">AUSGIN&lt;/a> projects use ERML Lite to deliver mineral resource data from state and territory agencies.&lt;/li>
+&lt;li>The
+&lt;a href="http://www.onegeology.org/" target="_blank" rel="noopener">OneGeology project&lt;/a> uses ERML Lite web feature services in its portal of worldwide geological map and mineral resource data.&lt;/li>
+&lt;/ul>
+&lt;h2 id="working-group">Working group&lt;/h2>
+&lt;p>The SWG contains members from all over the world, including:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="mailto:michael.sexton@ga.gov.au">Michael Sexton&lt;/a> (Chair; GA, Australia)&lt;/li>
+&lt;li>Daniel Cassard (BRGM, France)&lt;/li>
+&lt;li>Tjerk Heijboer (GEUS, Denmark)&lt;/li>
+&lt;li>James Passmore (BGS, UK)&lt;/li>
+&lt;li>Mark Rattenbury (GNS, New Zealand)&lt;/li>
+&lt;li>Oliver Raymond (Geoscience Australia)&lt;/li>
+&lt;li>François Tertre (BRGM, France)&lt;/li>
+&lt;li>plus other observers&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;a href="https://inspire.ec.europa.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/inspire_2019.jpg" alt="">&lt;/a>
+&lt;a href="http://www.minerals4eu.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/minerals4u_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.geoscience.gov.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/ASGIN_logo.jpg" alt="">&lt;/a>
+&lt;a href="http://www.onegeology.org" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/onegeology_logo_large.png" alt="">&lt;/a>
+&lt;a href="http://www.europe-geology.eu/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/egdi_logo.jpg" alt="">&lt;/a>
+&lt;a href="https://www.auscope.org.au/" target="_blank" rel="noopener">&lt;img src="http://www.cgi-iugs.org/img/auscope.jpg" alt="">&lt;/a>&lt;/p></description></item></channel></rss>
