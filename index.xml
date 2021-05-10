@@ -21,20 +21,13 @@
 &lt;/nav>
 &lt;p>»
 &lt;a href="https://cgi-iugs.github.io/docs/CGI_newsletter_May_2021.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
-&lt;h1 id="cgi-supports-interoperabity-projects">CGI Supports Interoperabity projects**&lt;/h1>
+&lt;h1 id="cgi-supports-interoperabity-projects">CGI Supports Interoperabity projects&lt;/h1>
 &lt;p>In 2021 the CGI grant was awarded to two data interoperability projects of high relevance to CGI work:&lt;/p>
 &lt;h2 id="docker-packages-geological-survey-of-canada">Docker Packages  (Geological Survey of Canada)&lt;/h2>
 &lt;p>The project will package ERML and GeoSciML service inside docker images. Containerisation, technology that allows to deploy self contained services and GeoSciML alternate encoding has been kick started with first assessment of issues.    Discussion material is published on OGC GitHub &lt;a href="https://github.com/opengeospatial/GeoSciML/blob/master/geojson/REAME.MD">https://github.com/opengeospatial/GeoSciML/blob/master/geojson/REAME.MD&lt;/a>&lt;/p>
 &lt;p>A new publication will be released soon on Geology ontology (Brodaric and Richard) developed under the project LOOP3D&amp;rsquo;s Geoscience Knowledge manager.  The ontology (knowledge representation) is built on top on several initiatives, including GeoSciML model and GeoSciML vocabularies.  (&lt;a href="https://github.com/Loop3D/GKM">https://github.com/Loop3D/GKM&lt;/a>) . &lt;/p>
 &lt;h2 id="vocabulary-improvement-acceleration-british-geological-survey">Vocabulary Improvement Acceleration (British Geological Survey)&lt;/h2>
-&lt;blockquote>
-&lt;p>The project will update and then publish SKOS-RDF files for all
-vocabularies with translated Multi-Lingual Thesaurus of Geosciences
-terms and links added to related INSPIRE vocabularies. Github
-architecture will be streamlined for vocabulary hosting, customised
-vocprez instance and deployment to
-&lt;a href="http://cgi.vocabs.ga.gov.au/vocab/">http://cgi.vocabs.ga.gov.au/vocab/&lt;/a>&lt;/p>
-&lt;/blockquote>
+&lt;p>The project will update and then publish SKOS-RDF files for all vocabularies with translated Multi-Lingual Thesaurus of Geosciences terms and links added to related INSPIRE vocabularies. Github architecture will be streamlined for vocabulary hosting, customised vocprez instance and deployment to &lt;a href="http://cgi.vocabs.ga.gov.au/vocab/">http://cgi.vocabs.ga.gov.au/vocab/&lt;/a>&lt;/p>
 &lt;h1 id="upcoming-events">Upcoming Events&lt;/h1>
 &lt;p>CGI webinar on 23 June 2021 featuring the working groups:&lt;/p>
 &lt;ul>
