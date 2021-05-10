@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>newsletter | IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/tag/newsletter/</link><atom:link href="https://cgi-iugs.github.io/tag/newsletter/index.xml" rel="self" type="application/rss+xml"/><description>newsletter</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 14 Jul 2017 23:46:24 +0100</lastBuildDate><image><url>https://cgi-iugs.github.io/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>newsletter</title><link>https://cgi-iugs.github.io/tag/newsletter/</link></image><item><title>Newsletter Issue 5</title><link>https://cgi-iugs.github.io/post/newsletter-issue-5/</link><pubDate>Fri, 14 Jul 2017 23:46:24 +0100</pubDate><guid>https://cgi-iugs.github.io/post/newsletter-issue-5/</guid><description>&lt;h1 id="newsletter--issue-5--july-2017">Newsletter | Issue 5 | July 2017&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>newsletter | IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/tag/newsletter/</link><atom:link href="https://cgi-iugs.github.io/tag/newsletter/index.xml" rel="self" type="application/rss+xml"/><description>newsletter</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sun, 09 May 2021 23:46:24 +0100</lastBuildDate><image><url>https://cgi-iugs.github.io/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>newsletter</title><link>https://cgi-iugs.github.io/tag/newsletter/</link></image><item><title>Newsletter Issue 6</title><link>https://cgi-iugs.github.io/post/newsletter-issue-6/</link><pubDate>Sun, 09 May 2021 23:46:24 +0100</pubDate><guid>https://cgi-iugs.github.io/post/newsletter-issue-6/</guid><description>&lt;h1 id="newsletter--issue-6--may-2021">Newsletter | Issue 6 | May 2021&lt;/h1>
+&lt;p>»
+&lt;a href="https://cgi-iugs.github.io/docs/CGI_newsletter_May_2021.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
+&lt;p>Welcome to Edition #6 of the CGI Newsletter. We report on the progress of the CGI Working Groups and recent meetings of CGI members.&lt;/p>
+&lt;h2>Table of Contents&lt;/h2>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#cgi-supports-interoperabity-projects">CGI Supports Interoperabity projects**&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#docker-packages-geological-survey-of-canada">Docker Packages  (Geological Survey of Canada)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#vocabulary-improvement-acceleration-british-geological-survey">Vocabulary Improvement Acceleration (British Geological Survey)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#upcoming-events">Upcoming Events&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#cgi-council-news">CGI Council News&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#meet-your-cgi-councillors">Meet Your CGI Councillors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#cgi-hosting-dde-standards-task-group">CGI hosting DDE Standards Task Group&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#dde">DDE&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#6th-dde-working-group-meeting-at-suzhou">6th DDE Working Group Meeting at Suzhou&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#dde-standards-working-group-meeting-at-the-dde-suzhou-center">DDE Standards working group meeting at the DDE Suzhou center.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#cgi-website">CGI Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#join-us-on-linkedin">Join Us on LinkedIn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;h2 id="cgi-supports-interoperabity-projects">CGI Supports Interoperabity projects**&lt;/h2>
+&lt;p>In 2021 the CGI grant was awarded to two data interoperability projects of high relevance to CGI work:&lt;/p>
+&lt;h3 id="docker-packages-geological-survey-of-canada">Docker Packages  (Geological Survey of Canada)&lt;/h3>
+&lt;p>The project will package ERML and GeoSciML service inside docker images. Containerisation, technology that allows to deploy self contained services and GeoSciML alternate encoding has been kick started with first assessment of issues.    Discussion material is published on OGC GitHub &lt;a href="https://github.com/opengeospatial/GeoSciML/blob/master/geojson/REAME.MD">https://github.com/opengeospatial/GeoSciML/blob/master/geojson/REAME.MD&lt;/a>&lt;/p>
+&lt;p>A new publication will be released soon on Geology ontology (Brodaric and Richard) developed under the project LOOP3D&amp;rsquo;s Geoscience Knowledge manager.  The ontology (knowledge representation) is built on top on several initiatives, including GeoSciML model and GeoSciML vocabularies.  (&lt;a href="https://github.com/Loop3D/GKM">https://github.com/Loop3D/GKM&lt;/a>) . &lt;/p>
+&lt;h3 id="vocabulary-improvement-acceleration-british-geological-survey">Vocabulary Improvement Acceleration (British Geological Survey)&lt;/h3>
+&lt;blockquote>
+&lt;p>The project will update and then publish SKOS-RDF files for all
+vocabularies with translated Multi-Lingual Thesaurus of Geosciences
+terms and links added to related INSPIRE vocabularies. Github
+architecture will be streamlined for vocabulary hosting, customised
+vocprez instance and deployment to
+&lt;a href="http://cgi.vocabs.ga.gov.au/vocab/">http://cgi.vocabs.ga.gov.au/vocab/&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="upcoming-events">Upcoming Events&lt;/h2>
+&lt;p>CGI webinar on 23 June 2021 featuring the working groups:&lt;/p>
+&lt;ul>
+&lt;li>GeoSciML Standards&lt;/li>
+&lt;li>EarthResourceML&lt;/li>
+&lt;li>Geoscience Terminology&lt;/li>
+&lt;li>CGI/OGC Geoscience Domain&lt;/li>
+&lt;li>Deep-time Digital Earth (DDE) Standards Task Group&lt;/li>
+&lt;/ul>
+&lt;h2 id="cgi-council-news">CGI Council News&lt;/h2>
+&lt;p>The CGI Council held its 2020 annual meeting via zoom in October. The councillors discussed council membership, activities for CGI funding in 2021 and the need to recruit and rejuvenate active membership.&lt;/p>
+&lt;ul>
+&lt;li>better promotion of CGI activities and standards&lt;/li>
+&lt;/ul>
+&lt;p>New councillors joined CGI. The current council members are:&lt;/p>
+&lt;ul>
+&lt;li>Harvey Thorleifson - Chair&lt;/li>
+&lt;li>Kombada Mhopjeni - Co-Secretary&lt;/li>
+&lt;li>Zhang Minghua - Co-Secretary&lt;/li>
+&lt;li>Mark Rattenbury &amp;ndash; Treasurer&lt;/li>
+&lt;li>Kazu Miyazaki&lt;/li>
+&lt;li>Christelle Loiselet&lt;/li>
+&lt;li>Eric Boisvert&lt;/li>
+&lt;li>Edd Lewis&lt;/li>
+&lt;/ul>
+&lt;p>Past chair, François Robida and councillors - Ollie Raymond and David Percy remain as observers.&lt;/p>
+&lt;p>Since then the council held three business meetings addressing review of CGI grant proposals, status of CGI activities, increasing CGI visibility and membership in CGI working groups.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image3.png" alt="CGI council business meeting in April 2021">&lt;/p>
+&lt;p>CGI council business meeting in April 2021.&lt;/p>
+&lt;h3 id="meet-your-cgi-councillors">Meet Your CGI Councillors&lt;/h3>
+&lt;h4 id="harvey-thorleifson">Harvey Thorleifson&lt;/h4>
+&lt;p>The new Chair of CGI. Since 2003, Harvey has been Director of the Minnesota Geological Survey in the USA, State Geologist of Minnesota, and Professor in the Department of Earth and Environmental Sciences at the University of Minnesota. His undergrad and Masters were completed in Canada, his PhD is from the University of Colorado in Boulder, and from 1986 to 2003, he was a Geological Survey of Canada research scientist.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image4.jpeg" alt="Harvey Thorleifson">&lt;/p>
+&lt;p>He is Information Committee Chair for the Association of American State Geologists (AASG), and he completed two terms with the US National Geospatial Advisory Committee. He was a member of a National Academy panel that prepared a report on the international role of the US Geological Survey, and he was a member of the team that launched OneGeology. Harvey was 2003-2004 President of the Geological Association of Canada, 2004-2006 President of the Canadian Geoscience Council, and 2012-2013 President of AASG.&lt;/p>
+&lt;p>Harvey was excited to have joined CGI leadership in 2016, and is now pleased and humbled to follow Past CGI Chair François Robida, whose superb leadership will be a model for Harvey to aspire to. In his work, Harvey&amp;rsquo;s focus has been on accelerating static-publication-based geological mapping, enhanced development of and adherence to standards, and accelerated provision of regularly-updated, seamless geological mapping databases assembled from many published geological maps. Contact
+&lt;a href="mailto:thorleif@umn.edu">Harvey&lt;/a>.&lt;/p>
+&lt;h4 id="christelle-loiselet">Christelle Loiselet&lt;/h4>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image5.jpeg" alt="Christelle Loiselet">&lt;/p>
+&lt;p>Has a PhD in Earth Sciences from the University of Rennes. She is a geologist modeller with experience in 3D geodynamics modelling and basin modelling applied to georesources. Within BRGM, she works on 3D geological modelling and she manages a research project on 3D Geo Information Systems. For the past four years, she has lead the IT team working on developing IT systems to deliver geological and mineral resources information using standards such as O&amp;amp;M, GeoSciML and EarthRessourceML in national (RGF, BSS, Gaia Data, etc) and international projects (EPOS, GeoERA, Mineral4EU, etc). She is a member of the Form@Ter executive board and she joined the CGI council in 2020. Contact
+&lt;a href="mailto:C.Loiselet@bgrm.fr">Christelle&lt;/a>.&lt;/p>
+&lt;h4 id="edd-lewis">Edd Lewis&lt;/h4>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image6.jpeg" alt="Edd Lewis">&lt;/p>
+&lt;p>The Standards Lead at the British Geological Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (&amp;amp; hopefully driving economic growth through improved data accessibility&amp;hellip;).&lt;/p>
+&lt;p>He is a member of the British Standard Institute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee, MEDIN data standard committee and contributor to ISO/TC 211 &amp;amp; OGC standards. Edd join the CGI council in 2020. Contact
+&lt;a href="mailto:edlew@bgs.ac.uk">Edd&lt;/a>.&lt;/p>
+&lt;h3 id="cgi-hosting-dde-standards-task-group">CGI hosting DDE Standards Task Group&lt;/h3>
+&lt;p>CGI leads the work of the IUGS Deep-time Digital Earth (DDE) Standards Task Group (DDE-STG) on implementing the use of CGI standards and vocabularies by DDE and metadata for DDE. The CGI chair, Harvey Thorleifson, was appointed as the Principal Investigator (PI) for the DDE-STG with co-PIs Zhang Minghua, Alena Rybkina, François Robida, and Tim Duffy.&lt;/p>
+&lt;p>Several CGI council members attended the DDE-STG meeting in January 2020 in Beijing. Currently, Francois Robida is sustaining his role in DDE-STG supported by Zhang Minghua and Alena Rybkina (CODATA form Russia) as co-chairs.&lt;/p>
+&lt;h2 id="dde">DDE&lt;/h2>
+&lt;h3 id="6th-dde-working-group-meeting-at-suzhou">6th DDE Working Group Meeting at Suzhou&lt;/h3>
+&lt;p>On 23-24 March 2021, co-leader of the DDE -STG Prof Zhang Minghua accompanied by STG members Dr Liu Rongmei, Dr Ren Wei and Dr Zhang Sheng attended the 6th DDE working group meeting at Kunshan, Suzhou center of DDE with a parallel meetings on DDE Standards and Knowledge.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image7.jpeg" alt="">&lt;/p>
+&lt;h3 id="dde-standards-working-group-meeting-at-the-dde-suzhou-center">DDE Standards working group meeting at the DDE Suzhou center.&lt;/h3>
+&lt;p>Prof Zhang presented the DDE-STG work, achievements and 2021 work plan based on the DDE-STG annual proposal, submitted in November 2020, on behalf of the of DDE-STG. Four main activities for 2021 are:&lt;/p>
+&lt;ul>
+&lt;li>DDE knowledge system review report;&lt;/li>
+&lt;li>Standards training courses;&lt;/li>
+&lt;li>DDE metadata standard (draft version);&lt;/li>
+&lt;li>Working Teams for DDE geosciences data standards.&lt;/li>
+&lt;/ul>
+&lt;p>The discussions included coverage of a variety of issues/topics such as the DDE data and knowledge groups, geological timeline, global 1:5million map, Eurasian margin sea and DDE-China and CODATA roles on open science facilities. Standards including metadata standards, DDE standards architecture, and disciplinary specified standards, etc were requested. These requests are critical and helpful, and will direct the work of the DDE-STG.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image8.jpeg" alt="Prof Zhang">&lt;/p>
+&lt;p>&lt;em>Prof Zhang at the DDE knowledge system group meeting.&lt;/em>&lt;/p>
+&lt;p>At the parallel meeting of the DDE Knowledge Group, Prof Zhang replied
+on some common concerns about knowledge system/graph review procedure
+from DDE working groups, like sedimentology, paleogeography and
+petroleum geology working group, based on the first product of DDE-STG
+&amp;ldquo;Formal Review Procedures for the Geoscience Knowledge System of IUGS
+Deep-time Digital Earth Program (version of Aug 28,2020)&amp;quot;. Zhang asked
+these working groups to submit their comparison results of vocabulary
+difference with CGI Geoscience Terminology to DDE-STG for a review.&lt;/p>
+&lt;p>The meeting was attened by 43 scientists, 23 on site and 20 virtually.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image9.png" alt="">&lt;/p>
+&lt;h2 id="cgi-website">CGI Website&lt;/h2>
+&lt;p>The CGI website received a fresh make-over from new councillor Edd
+Lewis. &lt;a href="https://cgi-iugs.org/">https://cgi-iugs.org/&lt;/a>&lt;/p>
+&lt;h2 id="join-us-on-linkedin">Join Us on LinkedIn&lt;/h2>
+&lt;p>We invite all CGI members to join our
+&lt;a href="http://www.linkedin.com/groups?gid=6539642" target="_blank" rel="noopener">LinkedIn group&lt;/a>. The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.&lt;/p>
+&lt;p>&lt;img src="https://cgi-iugs.github.io/img/newsletter6/image10.png" alt="LinkedIn">{width=&amp;quot;1.15625in&amp;rdquo; height=&amp;quot;1.15625in&amp;rdquo;}&lt;/p></description></item><item><title>Newsletter Issue 5</title><link>https://cgi-iugs.github.io/post/newsletter-issue-5/</link><pubDate>Fri, 14 Jul 2017 23:46:24 +0100</pubDate><guid>https://cgi-iugs.github.io/post/newsletter-issue-5/</guid><description>&lt;h1 id="newsletter--issue-5--july-2017">Newsletter | Issue 5 | July 2017&lt;/h1>
 &lt;p>»
 &lt;a href="https://cgi-iugs.github.io/docs/CGI_newsletter_july17.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
 &lt;p>Welcome to Edition #5 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members.&lt;/p>
