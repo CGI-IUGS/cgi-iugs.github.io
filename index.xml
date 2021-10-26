@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/</link><atom:link href="https://cgi-iugs.github.io/index.xml" rel="self" type="application/rss+xml"/><description>IUGS Commission for the Management and Application of Geoscience Information</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 13 Aug 2021 14:19:00 +0000</lastBuildDate><image><url>https://cgi-iugs.github.io/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/</link></image><item><title>Newsletter Issue 7</title><link>https://cgi-iugs.github.io/post/newsletter-issue-7/</link><pubDate>Fri, 13 Aug 2021 14:19:00 +0000</pubDate><guid>https://cgi-iugs.github.io/post/newsletter-issue-7/</guid><description>&lt;h2>Table of Contents&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/</link><atom:link href="https://cgi-iugs.github.io/index.xml" rel="self" type="application/rss+xml"/><description>IUGS Commission for the Management and Application of Geoscience Information</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Mon, 25 Oct 2021 23:01:29 +0100</lastBuildDate><image><url>https://cgi-iugs.github.io/images/logo_hu5f245ccb47af51e4024f06ef3a708f7f_150866_300x300_fit_lanczos_2.png</url><title>IUGS Commission for the Management and Application of Geoscience Information</title><link>https://cgi-iugs.github.io/</link></image><item><title>Geoscience Standards Training for DDE</title><link>https://cgi-iugs.github.io/post/ddetraining/</link><pubDate>Mon, 25 Oct 2021 23:01:29 +0100</pubDate><guid>https://cgi-iugs.github.io/post/ddetraining/</guid><description>&lt;h1 id="information">Information&lt;/h1>
+&lt;p>Registration: &lt;a href="https://www.wjx.top/vm/wFHGCwg.aspx">https://www.wjx.top/vm/wFHGCwg.aspx&lt;/a>&lt;/p>
+&lt;p>Zoom meeting link: &lt;a href="https://zoom.us/j/83452380461?pwd=U0plLytDRUZoWno2MEIyZWhBeEc1Zz09">https://zoom.us/j/83452380461?pwd=U0plLytDRUZoWno2MEIyZWhBeEc1Zz09&lt;/a>
+Meeting ID : 834 5238 0461
+Meeting Code: ddestg
+Date: 8:00am 26th- 13:00pm 28th Oct. UTC time&lt;/p>
+&lt;p>Session Chair: prof Zhang Minghua. &lt;a href="mailto:zminghua@mail.cgs.gov.cn">zminghua@mail.cgs.gov.cn&lt;/a>&lt;/p>
+&lt;h1 id="agenda">Agenda&lt;/h1>
+&lt;h2 id="25th-oct">25th Oct.&lt;/h2>
+&lt;p>Registration Online and Zoom meeting system dry-run test.&lt;/p>
+&lt;h2 id="day-1-26th-oct">Day 1, 26th Oct.&lt;/h2>
+&lt;p>08:00-08:40: Opening Ceremony: Addresses from DDE GC by prof Jennifer McKinley. Addresses from DDE-STG and CGI by prof Harvey Thorleifson. Addresses from CODATA by Dr Alena Rybkina.&lt;/p>
+&lt;p>08:30-08:40: Group photo and break&lt;/p>
+&lt;p>08:40-9:00: Introduction to CGI and its main partners on geoscience standards by Harvey Thorleifson&lt;/p>
+&lt;p>9:00-10:00: Introduction to CGI and OGC standards by Francois ROBIDA and Mickael Beaufils&lt;/p>
+&lt;p>10:00-10:15: Break&lt;/p>
+&lt;p>10:15-11:00: Geoscience terminology by Mark Rattenbury&lt;/p>
+&lt;p>11:00-11:15: Break&lt;/p>
+&lt;p>11:15-11:50: Geoscience terminology (continued) by Mark Rattenbury&lt;/p>
+&lt;p>11:50-12:00: Break&lt;/p>
+&lt;p>12:00-12:45: Geoscience ontology by Boyan Brodaric and Steve Richard&lt;/p>
+&lt;h2 id="day-2-27th-oct">Day 2, 27th Oct.&lt;/h2>
+&lt;p>8:00-8:45: GeoSciML: Geology data model and exchange standard by Oliver Raymond&lt;/p>
+&lt;p>8:45-9:00: Break&lt;/p>
+&lt;p>9:00-9:45: GeoSciML(continued)&lt;/p>
+&lt;p>9:45-10:00: Break&lt;/p>
+&lt;p>10:00-10:45: EarthResourceML: Mineral resource and mining data model and exchange standard by Michael Sexton&lt;/p>
+&lt;p>10:45-11:00: Break&lt;/p>
+&lt;p>11:00-11:45: EarthResourceML (continued)&lt;/p>
+&lt;p>11:45-12:00: Break&lt;/p>
+&lt;p>12:00-12:45: DDE metadata standard draft by Zhang Minghua, Liu Rongmei and Wang Yongzhi&lt;/p>
+&lt;h2 id="day-3-28th-oct">Day 3, 28th Oct.&lt;/h2>
+&lt;p>08:00-08:45: Metadata standard and practice by James Passmore and Tim Duffy&lt;/p>
+&lt;p>08:45-09:00: Break&lt;/p>
+&lt;p>09:00-09:45: OneGeology data and standard technology by Edward Lewis and James Passmore&lt;/p>
+&lt;p>09:45-10:00: Break&lt;/p>
+&lt;p>10:00-10:45: OneGeology(continue)&lt;/p>
+&lt;p>10:45-11:00: Break&lt;/p>
+&lt;p>11:00-11:40: CODATA FAIR data principles and GOFAIR practice by Alena Rybkina&lt;/p>
+&lt;p>11:40-12:20: A vision on DDE data science with FAIR data by Ma Xiaogang&lt;/p>
+&lt;p>12:20-12:30: Break&lt;/p>
+&lt;p>12:30-13:00: Closing ceremony: Certifications to participants registered and lecturers of the training. Closing speech/remarks form DDE-STG by prof Harvey Thorleifson and DDE-EC by prof Natarajan Ishwaran.&lt;/p></description></item><item><title>Newsletter Issue 7</title><link>https://cgi-iugs.github.io/post/newsletter-issue-7/</link><pubDate>Fri, 13 Aug 2021 14:19:00 +0000</pubDate><guid>https://cgi-iugs.github.io/post/newsletter-issue-7/</guid><description>&lt;h2>Table of Contents&lt;/h2>
 &lt;nav id="TableOfContents">&lt;/nav>
 &lt;p>»
 &lt;a href="https://cgi-iugs.github.io/docs/CGI_newsletter_August_2021.pdf">View this newsletter as a PDF&lt;/a>&lt;/p>
@@ -162,48 +203,7 @@
 &lt;li>Ollie Raymond (Observer) – Australia&lt;/li>
 &lt;li>David Percy (Observer) – USA&lt;/li>
 &lt;li>François Robida (former Chair) – France&lt;/li>
-&lt;/ul></description></item><item><title>Geoscience Standards Training for DDE</title><link>https://cgi-iugs.github.io/post/ddetraining/</link><pubDate>Sun, 25 Oct 2020 23:01:29 +0100</pubDate><guid>https://cgi-iugs.github.io/post/ddetraining/</guid><description>&lt;h1 id="information">Information&lt;/h1>
-&lt;p>Registration: &lt;a href="https://www.wjx.top/vm/wFHGCwg.aspx">https://www.wjx.top/vm/wFHGCwg.aspx&lt;/a>&lt;/p>
-&lt;p>Zoom meeting link: &lt;a href="https://zoom.us/j/83452380461?pwd=U0plLytDRUZoWno2MEIyZWhBeEc1Zz09">https://zoom.us/j/83452380461?pwd=U0plLytDRUZoWno2MEIyZWhBeEc1Zz09&lt;/a>
-Meeting ID : 834 5238 0461
-Meeting Code: ddestg
-Date: 8:00am 26th- 13:00pm 28th Oct. UTC time&lt;/p>
-&lt;p>Session Chair: prof Zhang Minghua. &lt;a href="mailto:zminghua@mail.cgs.gov.cn">zminghua@mail.cgs.gov.cn&lt;/a>&lt;/p>
-&lt;h1 id="agenda">Agenda&lt;/h1>
-&lt;h2 id="25th-oct">25th Oct.&lt;/h2>
-&lt;p>Registration Online and Zoom meeting system dry-run test.&lt;/p>
-&lt;h2 id="day-1-26th-oct">Day 1, 26th Oct.&lt;/h2>
-&lt;p>08:00-08:40: Opening Ceremony: Addresses from DDE GC by prof Jennifer McKinley. Addresses from DDE-STG and CGI by prof Harvey Thorleifson. Addresses from CODATA by Dr Alena Rybkina.&lt;/p>
-&lt;p>08:30-08:40: Group photo and break&lt;/p>
-&lt;p>08:40-9:00: Introduction to CGI and its main partners on geoscience standards by Harvey Thorleifson&lt;/p>
-&lt;p>9:00-10:00: Introduction to CGI and OGC standards by Francois ROBIDA and Mickael Beaufils&lt;/p>
-&lt;p>10:00-10:15: Break&lt;/p>
-&lt;p>10:15-11:00: Geoscience terminology by Mark Rattenbury&lt;/p>
-&lt;p>11:00-11:15: Break&lt;/p>
-&lt;p>11:15-11:50: Geoscience terminology (continued) by Mark Rattenbury&lt;/p>
-&lt;p>11:50-12:00: Break&lt;/p>
-&lt;p>12:00-12:45: Geoscience ontology by Boyan Brodaric and Steve Richard&lt;/p>
-&lt;h2 id="day-2-27th-oct">Day 2, 27th Oct.&lt;/h2>
-&lt;p>8:00-8:45: GeoSciML: Geology data model and exchange standard by Oliver Raymond&lt;/p>
-&lt;p>8:45-9:00: Break&lt;/p>
-&lt;p>9:00-9:45: GeoSciML(continued)&lt;/p>
-&lt;p>9:45-10:00: Break&lt;/p>
-&lt;p>10:00-10:45: EarthResourceML: Mineral resource and mining data model and exchange standard by Michael Sexton&lt;/p>
-&lt;p>10:45-11:00: Break&lt;/p>
-&lt;p>11:00-11:45: EarthResourceML (continued)&lt;/p>
-&lt;p>11:45-12:00: Break&lt;/p>
-&lt;p>12:00-12:45: DDE metadata standard draft by Zhang Minghua, Liu Rongmei and Wang Yongzhi&lt;/p>
-&lt;h2 id="day-3-28th-oct">Day 3, 28th Oct.&lt;/h2>
-&lt;p>08:00-08:45: Metadata standard and practice by James Passmore and Tim Duffy&lt;/p>
-&lt;p>08:45-09:00: Break&lt;/p>
-&lt;p>09:00-09:45: OneGeology data and standard technology by Edward Lewis and James Passmore&lt;/p>
-&lt;p>09:45-10:00: Break&lt;/p>
-&lt;p>10:00-10:45: OneGeology(continue)&lt;/p>
-&lt;p>10:45-11:00: Break&lt;/p>
-&lt;p>11:00-11:40: CODATA FAIR data principles and GOFAIR practice by Alena Rybkina&lt;/p>
-&lt;p>11:40-12:20: A vision on DDE data science with FAIR data by Ma Xiaogang&lt;/p>
-&lt;p>12:20-12:30: Break&lt;/p>
-&lt;p>12:30-13:00: Closing ceremony: Certifications to participants registered and lecturers of the training. Closing speech/remarks form DDE-STG by prof Harvey Thorleifson and DDE-EC by prof Natarajan Ishwaran.&lt;/p></description></item><item><title>EarthResourceML</title><link>https://cgi-iugs.github.io/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>https://cgi-iugs.github.io/project/earthresourceml/</guid><description>&lt;p>
+&lt;/ul></description></item><item><title>EarthResourceML</title><link>https://cgi-iugs.github.io/project/earthresourceml/</link><pubDate>Fri, 12 Jun 2020 11:49:44 +0100</pubDate><guid>https://cgi-iugs.github.io/project/earthresourceml/</guid><description>&lt;p>
 &lt;a href="mailto:michael.sexton@ga.gov.au?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group">Join the EarthResourceML team&lt;/a>&lt;/p>
 &lt;h2 id="what-is-earthresourceml">What is EarthResourceML?&lt;/h2>
 &lt;p>EarthResourceML (ERML) is an XML-based data transfer standard for the exchange of digital information for mineral occurrences, mines and mining activity. EarthResourceML describes the geological characteristics and setting of mineral occurrences, their contained commodities and their mineral resource and reserve endowment. It is also able to describe mines and mining activities, and production of concentrates, refined product and waste materials.&lt;/p>
