@@ -1,12 +1,16 @@
 name: github pages
 
 # Builds the Hugo source in this repository and publishes it with GitHub Pages.
+# Pushes to main are built and deployed. Pull requests are built only, as a check.
 # Requires: Settings -> Pages -> Build and deployment -> Source = "GitHub Actions".
 
 on:
   push:
     branches:
-      - master
+      - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -14,36 +18,34 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one deployment at a time; don't cancel a run that's already deploying.
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-        with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.70.0'
-          extended: true
+          hugo-version: '0.169.0'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --panicOnWarning
 
       - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
+    # Allow only one deployment at a time; don't cancel a run that's already deploying.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

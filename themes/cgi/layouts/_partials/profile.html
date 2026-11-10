@@ -1,0 +1,26 @@
+{{- /*
+  Photo, name, role, organisations and links for a person.
+  Pass the profile page, or (dict "page" $page "showName" false) to leave out the name.
+*/ -}}
+{{- $showName := true }}
+{{- $page := . }}
+{{- if reflect.IsMap . }}{{ $page = .page }}{{ $showName = .showName }}{{ end }}
+{{- with $page }}
+<div class="profile">
+  {{ partial "avatar.html" . }}
+  {{- if $showName }}
+  <p class="person-name"><strong>{{ .Title }}</strong></p>
+  {{- end }}
+  {{- with .Params.role }}
+  <p class="person-role">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- with .Params.organizations }}
+  <ul class="organizations">
+    {{- range . }}
+    <li>{{ with .url }}<a href="{{ . }}">{{ end }}{{ .name }}{{ if .url }}</a>{{ end }}</li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- partial "social.html" . }}
+</div>
+{{- end }}

@@ -41,7 +41,7 @@ There are two meetings, described in more detailed below:
 - 10 November CGI Council Meeting
 
 For more information on these meetings contact [<u>Dr Zhang
-Minghua</u>](https://cgi-iugs.org/author/dr-zhang-minghua/)
+Minghua</u>](/author/dr-zhang-minghua/)
 
  ## Geoscience information standards for DDE Workshop - 7 - 8 November 2023
 

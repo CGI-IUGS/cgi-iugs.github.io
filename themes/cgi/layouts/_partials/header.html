@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-logo" href="{{ "/" | relURL }}">
+      {{- with resources.Get (site.Params.logo | default "images/logo.png") }}
+        {{- $logo := .Resize "x112" }}
+        <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}" alt="{{ site.Title }}">
+      {{- else }}
+        <span class="site-logo-text">{{ site.Title }}</span>
+      {{- end -}}
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <ul>
+        {{- $current := . }}
+        {{- range site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}"{{ if and .Page ($current.IsMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+        {{- end }}
+      </ul>
+    </nav>
+  </div>
+</header>

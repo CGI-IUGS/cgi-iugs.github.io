@@ -1,0 +1,47 @@
+# Hugo configuration. Reference: https://gohugo.io/configuration/
+# Site-specific settings used by the theme are in params.toml; the menu is in menus.toml.
+
+title = "IUGS Commission for the Management and Application of Geoscience Information"
+baseURL = "https://cgi-iugs.org/"
+locale = "en"
+theme = "cgi"   # themes/cgi in this repository
+
+# Shown in the footer. {year} is replaced with the current year.
+copyright = "&copy; {year} IUGS Commission for the Management and Application of Geoscience Information (CGI)"
+
+enableEmoji = true
+removePathAccents = true   # e.g. a folder named mickaël-beaufils would give the URL mickael-beaufils
+summaryLength = 30         # words used for automatic summaries
+
+[pagination]
+  pagerSize = 10
+
+# Keep the URLs used by the previous site.
+[permalinks.term]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+[outputs]
+  home = ["html", "rss"]
+  section = ["html", "rss"]
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow HTML in Markdown content
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+[imaging]
+  resampleFilter = "lanczos"
+  anchor = "smart"
+  [imaging.jpeg]
+    quality = 85

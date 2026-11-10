@@ -2,10 +2,6 @@
 # Display name
 title: "Harvey Thorleifson"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "harvey-thorleifson"
-
 # Is this the primary user of the site?
 superuser: false
 

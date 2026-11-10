@@ -54,12 +54,12 @@ The specific objectives of the working group were:
 
 The Interoperability Working Group comprised several task groups to address specific aspects of the work:
 
-*   **GeoSciML Design** task group designed the GeoSciML data model and XML schemas for transfer of geological data. The work of the GeoSciML task group is being carried forward by the CGI/OGC [GeoSciML Standards Working Group](/tech_collaboration/geosciml.html).
+*   **GeoSciML Design** task group designed the GeoSciML data model and XML schemas for transfer of geological data. The work of the GeoSciML task group is being carried forward by the CGI/OGC [GeoSciML Standards Working Group](/project/geosciml/).
 *   **Use Cases and Requirements** task group developed technical goals for GeoSciML by describing new use-cases and requirements;
 *   **Service Architecture** task group developed and documented the formal architecture required to deliver GeoSciML services
 *   **Implementation Testbed** task group coordinated interoperability testbeds using GeoSciML;
-*   **Geoscience Concept Definitions** task group was responsible for designing vocabulary services that satisfy the requirements of GeoSciML. The work of this task group has been merged with the Multilingual Thesaurus Working Group into the [Geoscience Terminology Working Group](/tech_collaboration/geoscience_terminology_working_group.html).
+*   **Geoscience Concept Definitions** task group was responsible for designing vocabulary services that satisfy the requirements of GeoSciML. The work of this task group has been merged with the Multilingual Thesaurus Working Group into the [Geoscience Terminology Working Group](/project/geoscienceterminology/).
 *   **Outreach and Technical Assistance** task group provided advice and assistance to direct collaborators, assisting them to deploy conformant GeoSciML Services.
 *   **EarthResourceML** task group developed the CGI data model for mineral occurrences and mines data, based on the Australia/NZ mineral deposits model. This task group has now been elevated to a CGI working group.
 
-Material developed by the Interoperability Working Group, including the GeoSciML and EarthResourceML UML models, XML/GML schemas, instance documents, documentation, and vocabularies are available through the [GeoSciML](/tech_collaboration/geosciml.html), [EarthResourceML](/tech_collaboration/earthResourceML.html), and [Geoscience Terminology Working Group](/tech_collaboration/geoscience_terminology_working_group.html) web pages.
+Material developed by the Interoperability Working Group, including the GeoSciML and EarthResourceML UML models, XML/GML schemas, instance documents, documentation, and vocabularies are available through the [GeoSciML](/project/geosciml/), [EarthResourceML](/project/earthresourceml/), and [Geoscience Terminology Working Group](/project/geoscienceterminology/) web pages.

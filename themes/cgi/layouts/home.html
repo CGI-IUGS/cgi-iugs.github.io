@@ -1,0 +1,20 @@
+{{- /*
+  The homepage is built from the section files in content/home/.
+  Each file sets `widget` (which partial in _partials/home/ draws it),
+  `weight` (order) and optionally `active = false` (hide it).
+  The file name becomes the section's anchor, e.g. content/home/posts.md -> /#posts.
+*/ -}}
+{{ define "main" }}
+  {{- with site.GetPage "/home" }}
+    {{- $bundle := . }}
+    {{- $sections := where (.Resources.ByType "page") "Params.active" "ne" false }}
+    {{- range sort $sections "Params.weight" }}
+      {{- $partial := printf "home/%s.html" .Params.widget }}
+      {{- if templates.Exists (printf "_partials/%s" $partial) }}
+        {{- partial $partial (dict "section" . "bundle" $bundle "id" .File.ContentBaseName) }}
+      {{- else }}
+        {{- warnf "content/home/%s: no homepage section type %q" .File.LogicalName .Params.widget }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{ end }}

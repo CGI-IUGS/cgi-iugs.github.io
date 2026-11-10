@@ -1,0 +1,26 @@
+{{- /* Default list of the pages in a section (news, working groups, misc). */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{- with .Content }}<div class="content">{{ . }}</div>{{ end }}
+  {{- with .Params.filter_button }}
+  <ul class="chips" aria-label="Show">
+    {{- range . }}
+      {{- $name := .name }}
+      {{- with site.GetPage (printf "/tags/%s" .tag) }}
+    <li><a href="{{ .RelPermalink }}">{{ $name }}</a></li>
+      {{- end }}
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{- $pager := .Paginate .Pages.ByDate.Reverse }}
+  <ul class="cards">
+    {{- range $pager.Pages }}
+    {{ partial "card.html" . }}
+    {{- end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,15 @@
+{{- /* Cards for pages marked `featured: true` in one section (content.page_type). */ -}}
+{{- $s := .section }}
+{{- $type := $s.Params.content.page_type | default "project" }}
+{{- $pages := where (where site.RegularPages "Section" $type) "Params.featured" true }}
+<section class="home-section" id="{{ .id }}">
+  <div class="wrap">
+    {{ partial "home/section-heading.html" . }}
+    {{- with $s.Content }}<div class="section-text">{{ . }}</div>{{ end }}
+    <ul class="cards">
+      {{- range $pages.ByDate.Reverse }}
+      {{ partial "card.html" . }}
+      {{- end }}
+    </ul>
+  </div>
+</section>

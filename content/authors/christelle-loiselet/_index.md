@@ -2,10 +2,6 @@
 # Display name
 title: Christelle Loiselet
 
-# Username (this should match the folder name)
-authors:
-- christelle-loiselet
-
 
 # Is this the primary user of the site?
 superuser: false

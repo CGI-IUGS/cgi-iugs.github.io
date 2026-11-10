@@ -1,0 +1,24 @@
+{{- /* Banner with background image, heading, text and a button. */ -}}
+{{- $s := .section }}
+{{- $style := "" }}
+{{- with $s.Params.image }}
+  {{- with $.bundle.Resources.Get . }}
+    {{- $bg := .Resize "1600x q60" }}  {{- /* sits under a dark overlay, so heavy compression is invisible */}}
+    {{- $darken := $s.Params.image_darken | default 0.6 }}
+    {{- $style = printf "background-image: linear-gradient(rgba(0,0,0,%v), rgba(0,0,0,%v)), url(%s)" $darken $darken $bg.RelPermalink }}
+  {{- else }}
+    {{- warnf "content/home/%s: image %q not found in content/home/" $s.File.LogicalName . }}
+  {{- end }}
+{{- end }}
+<section class="hero" id="{{ .id }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  <div class="wrap">
+    <h1>{{ $s.Title }}</h1>
+    <div class="hero-text">{{ $s.Content }}</div>
+    {{- with $s.Params.cta }}
+    <a class="button" href="{{ .url }}">{{ .label }}</a>
+    {{- end }}
+  </div>
+  {{- with $s.Params.image_caption }}
+  <p class="hero-caption">{{ . }}</p>
+  {{- end }}
+</section>

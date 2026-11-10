@@ -1,0 +1,24 @@
+{{- /* A person's profile page (content/authors/<name>/_index.md) and what they have written. */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <div class="author-profile">
+    {{ partial "profile.html" (dict "page" . "showName" false) }}
+    <div class="content">
+      <h1 class="page-title">{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+  </div>
+  {{- $pages := where .Pages "Kind" "page" }}
+  {{- with $pages }}
+  <section class="page-footer">
+    <h2>Latest</h2>
+    <ul class="item-list">
+      {{- range first 20 .ByDate.Reverse }}
+      <li><a class="item-title" href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="meta muted">{{ .Date | time.Format "January 2006" }}</span></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+  <div class="page-footer">{{ partial "edit-link.html" . }}</div>
+</div>
+{{ end }}

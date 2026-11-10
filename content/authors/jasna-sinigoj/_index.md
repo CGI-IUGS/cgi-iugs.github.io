@@ -2,10 +2,6 @@
 # Display name
 title: "Jasna Šinigoj"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "jasna-sinigoj"
-
 # Is this the primary user of the site?
 superuser: false
 

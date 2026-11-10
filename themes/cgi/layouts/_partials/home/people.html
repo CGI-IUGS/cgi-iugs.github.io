@@ -1,0 +1,24 @@
+{{- /*
+  People grouped by role. content.user_groups lists the groups in order;
+  each person's profile in content/authors/ names their groups in `user_groups`.
+*/ -}}
+{{- $s := .section }}
+{{- $people := (site.GetPage "/authors").Pages }}
+<section class="home-section" id="{{ .id }}">
+  <div class="wrap">
+    {{ partial "home/section-heading.html" . }}
+    {{- range $s.Params.content.user_groups }}
+      {{- $group := . }}
+      {{- $members := where $people "Params.user_groups" "intersect" (slice $group) }}
+      {{- with $members }}
+    <h3>{{ $group }}</h3>
+    <ul class="people">
+        {{- range sort . "Title" }}
+      {{ partial "person.html" . }}
+        {{- end }}
+    </ul>
+      {{- end }}
+    {{- end }}
+    {{- with $s.Content }}<div class="section-text">{{ . }}</div>{{ end }}
+  </div>
+</section>

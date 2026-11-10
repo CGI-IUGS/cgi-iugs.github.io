@@ -1,0 +1,7 @@
+{{- /* Free text from the section file. */ -}}
+<section class="home-section" id="{{ .id }}">
+  <div class="wrap">
+    {{ partial "home/section-heading.html" . }}
+    <div class="section-text content">{{ .section.Content }}</div>
+  </div>
+</section>

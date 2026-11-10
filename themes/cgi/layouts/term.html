@@ -1,0 +1,27 @@
+{{- /* Pages with one tag, category or publication type. */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-header">
+    {{- $name := .Title }}
+    {{- if eq .Data.Plural "publication_types" }}{{ $name = partial "publication-type-name.html" .Data.Term }}{{ end }}
+    <h1>{{ $name }}</h1>
+  </header>
+  {{- $pager := .Paginate .Pages.ByDate.Reverse }}
+  <ul class="item-list">
+    {{- range $pager.Pages }}
+    {{- if eq .Section "publication" }}
+    {{ partial "pub-item.html" . }}
+    {{- else }}
+    <li>
+      <a class="item-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{- if eq .Section "post" }} <span class="meta muted">{{ partial "date.html" . }}</span>{{ end }}
+      {{- with .RawSummary | default .Summary }}
+      <div class="meta">{{ . | plainify | htmlUnescape | truncate 200 }}</div>
+      {{- end }}
+    </li>
+    {{- end }}
+    {{- end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}

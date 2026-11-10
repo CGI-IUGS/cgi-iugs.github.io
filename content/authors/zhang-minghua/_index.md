@@ -2,10 +2,6 @@
 # Display name
 title: "Dr Zhang Minghua"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "zhang-minghua"
-
 # Is this the primary user of the site?
 superuser: false
 

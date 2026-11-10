@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-CGI sponsors an award to assist early career scientists to present at conferences such as the IGC on the use of CGI standards in data delivery and analysis. The award covers up to US$2000 towards the cost of travel and accommodation at the IGC in Delhi. Registration cost is covered by the Young Earth Scientists (YES) Network. [Full details](/docs/CGI_YES_award_2019-20.pdf).
+CGI sponsors an award to assist early career scientists to present at conferences such as the IGC on the use of CGI standards in data delivery and analysis. The award covers up to US$2000 towards the cost of travel and accommodation at the IGC in Delhi. Registration cost is covered by the Young Earth Scientists (YES) Network.
 
 Applications for the 36th IGC award close on 15 October 2019.
 

@@ -1,0 +1,48 @@
+{{- /*
+  Latest pages from one section (content.page_type), newest first.
+  content.count limits how many are shown (0 or unset = all).
+  content.filter_button entries become links to tag pages; tag "*" links to the full list.
+*/ -}}
+{{- $s := .section }}
+{{- $type := $s.Params.content.page_type | default "post" }}
+{{- $list := site.GetPage (printf "/%s" $type) }}
+{{- $pages := (where site.RegularPages "Section" $type).ByDate.Reverse }}
+{{- $total := len $pages }}
+{{- with $s.Params.content.count }}{{ $pages = first . $pages }}{{ end }}
+<section class="home-section" id="{{ .id }}">
+  <div class="wrap">
+    {{ partial "home/section-heading.html" . }}
+    {{- with $s.Params.content.filter_button }}
+    <ul class="chips" aria-label="Show">
+      {{- range . }}
+        {{- $url := "" }}
+        {{- if eq .tag "*" }}
+          {{- with $list }}{{ $url = .RelPermalink }}{{ end }}
+        {{- else }}
+          {{- with site.GetPage (printf "/tags/%s" .tag) }}{{ $url = .RelPermalink }}{{ end }}
+        {{- end }}
+        {{- if $url }}
+      <li><a href="{{ $url }}">{{ .name }}</a></li>
+        {{- end }}
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- with $s.Content }}<div class="section-text">{{ . }}</div>{{ end }}
+    {{- if eq $type "publication" }}
+    <ul class="item-list">
+      {{- range $pages }}
+      {{ partial "pub-item.html" . }}
+      {{- end }}
+    </ul>
+    {{- else }}
+    <ul class="cards">
+      {{- range $pages }}
+      {{ partial "card.html" . }}
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- with and (lt (len $pages) $total) $list }}
+    <p class="more-link"><a href="{{ .RelPermalink }}">See all {{ lower $s.Title }} →</a></p>
+    {{- end }}
+  </div>
+</section>

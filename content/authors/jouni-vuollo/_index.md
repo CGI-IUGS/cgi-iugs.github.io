@@ -2,10 +2,6 @@
 # Display name
 title: "Jouni Vuollo"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "jouni-vuollo"
-
 # Is this the primary user of the site?
 superuser: false
 

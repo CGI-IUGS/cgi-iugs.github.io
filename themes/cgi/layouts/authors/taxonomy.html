@@ -1,0 +1,13 @@
+{{- /* Everyone with a profile in content/authors/. */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-header">
+    <h1>People</h1>
+  </header>
+  <ul class="people">
+    {{- range .Pages.ByTitle }}
+    {{ partial "person.html" . }}
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

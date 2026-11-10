@@ -1,0 +1,6 @@
+{{- /* "Edit this page" link to the Markdown file on GitHub. */ -}}
+{{- with site.Params.edit_page.repo_url }}
+  {{- if and $.File (ne $.Params.editable false) }}
+<p class="edit-link"><a href="{{ . }}/edit/{{ site.Params.edit_page.branch | default "main" }}/content/{{ $.File.Path }}">Edit this page on GitHub</a></p>
+  {{- end }}
+{{- end }}

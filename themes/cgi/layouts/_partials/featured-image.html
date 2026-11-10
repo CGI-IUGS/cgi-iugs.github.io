@@ -1,0 +1,13 @@
+{{- /* Featured image at the top of a page, unless image.preview_only is set. */ -}}
+{{- if not .Params.image.preview_only }}
+  {{- with partial "featured-image-resource.html" . }}
+    {{- $img := . }}
+    {{- if gt .Width 1200 }}{{ $img = .Resize "1200x" }}{{ end }}
+<figure class="featured-image">
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Params.image.alt_text | default "" }}">
+  {{- with $.Params.image.caption }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
+  {{- end }}
+{{- end }}
