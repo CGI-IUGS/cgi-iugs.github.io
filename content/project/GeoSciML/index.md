@@ -79,7 +79,7 @@ The international GeoSciML development team meets at least annually to ensure th
 ## Downloads and Other Resources
 
 
-*   [www.geosciml.org](http://www.geosciml.org) — Documentation, cookbooks, UML models, examples, and XML schemas for GeoSciML and GeoSciML-Portrayal.
+*   [GeoSciML specifications and downloads](/geosciml/) — Documentation, cookbooks, UML models, examples, and XML schemas for GeoSciML and GeoSciML-Portrayal.
 *   [schemas.geosciml.org](http://schemas.geosciml.org) — XML schemas for GeoSciML and GeoSciML-Portrayal.
 *   [resource.geosciml.org](http://resource.geosciml.org) — Geoscience vocabularies to support the GeoSciML data model, developed by the CGI Geoscience Terminology Working group and its predecessors.
 *   [Publications and presentations](https://www.seegrid.csiro.au/wiki/CGIModel/GeoSciMLPresentations) — Articles and conference abstracts, posters and presentations describing GeoSciML and related projects from 2006 to 2016. (Please respect the copyright of the authors of these publications.)

@@ -74,7 +74,7 @@ The international ERML development team meets at least annually to ensure that E
 Downloads and other resources
 -----------------------------
 
-*   [www.earthresourceml.org](http://www.earthresourceml.org): documentation, UML models, examples, and XML schemas for ERML and ERML Lite
+*   [EarthResourceML specifications and downloads](/earthresourceml/): documentation, UML models, examples, and XML schemas for ERML and ERML Lite
 *   XSD schemas for [version 2.0](http://schemas.earthresourceml.org/2.0/)
 *   XSD schemas for [version 1.1](http://www.earthresourceml.org/earthresourceml/1.1/xsd/)
 *   [Wiki](https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceML) for the development of the ERML data standard

@@ -17,8 +17,8 @@ header:
 
 ## CGI-developed data standards
 
-*   [GeoSciML](http://geosciml.org/)
-*   [EarthResourceML](http://earthresourceml.org/)
+*   [GeoSciML](/geosciml/)
+*   [EarthResourceML](/earthresourceml/)
 
 ## OGC data standards
 

@@ -51,7 +51,7 @@ The Geoscience Terminology Working Group develops, reviews, adopts, publishes an
 Our vocabularies
 ----------------
 
-More than 100 geoscience vocabularies have been identified to support the [GeoSciML](http://www.geosciml.org/) and [EarthResourceML](http://www.earthresourceml.org/) data models and over 50 of these have now been compiled and adopted. These are available through the [CGI vocabularies register](http://resource.geosciml.org/def/voc/). These vocabularies include key lists such as:
+More than 100 geoscience vocabularies have been identified to support the [GeoSciML](/geosciml/) and [EarthResourceML](/earthresourceml/) data models and over 50 of these have now been compiled and adopted. These are available through the [CGI vocabularies register](http://resource.geosciml.org/def/voc/). These vocabularies include key lists such as:
 
 [lithology](http://resource.geosciml.org/classifier/cgi/lithology)
 
