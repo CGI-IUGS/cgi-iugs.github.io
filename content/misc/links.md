@@ -17,8 +17,8 @@ header:
 
 ## CGI-developed data standards
 
-*   [GeoSciML](http://geosciml.org/)
-*   [EarthResourceML](http://earthresourceml.org/)
+*   [GeoSciML](/geosciml/)
+*   [EarthResourceML](/earthresourceml/)
 
 ## OGC data standards
 
@@ -43,7 +43,8 @@ header:
 
 ## Ontologies, vocabularies, semantic web principles and technologies
 
-*   [CGI geoscience vocabularies](http://resource.geosciml.org/)
+*   [CGI geoscience vocabularies](https://github.com/GeoscienceAustralia/cgi-vocabs) (source files on GitHub)
+*   [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/)
 
 *   [The Semantic Web](http://www.w3.org/standards/semanticweb/)
 *   [RDF - Resource Description Framework](http://en.wikipedia.org/wiki/Resource_Description_Framework)
