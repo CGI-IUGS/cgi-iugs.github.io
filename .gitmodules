@@ -1,0 +1,3 @@
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/CGI-IUGS/CGI-hugo-theme.git
