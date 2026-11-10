@@ -10,11 +10,13 @@ See Contacts below.
 
 This is a [Hugo](https://gohugo.io/) *static site generator* website which means the source files are pretty much simplified HTML pages - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-formatted text files - which you can see stored in this repo. These are combined with a very simple template, the [wowchemy theme](https://wowchemy.com/) to add headers & footers to all pages and produce the final HTML web pages which are then delivered online with a web server.
 
-GitHub actions builds the site from this repo to https://github.com/CGI-IUGS/cgi-iugs.github.io which uses the built in [GitHub Pages](https://pages.github.com/).
+This repository holds both the Hugo source and the theme (vendored in `themes/academic`, previously the separate [CGI-hugo-theme](https://github.com/CGI-IUGS/CGI-hugo-theme) submodule). On every push to `master`, GitHub Actions (`.github/workflows/gh-pages.yml`) builds the site and publishes it with the built-in [GitHub Pages](https://pages.github.com/). The built HTML is not committed to the repo.
+
+Pages must be set to deploy from GitHub Actions: *Settings → Pages → Build and deployment → Source = GitHub Actions*.
 
 ### Running the site locally:
 
-To run locally, install hugo v0.70 extended edition.
+To run locally, install Hugo v0.70.0 extended edition (the version used in CI).
 
 `hugo serve`
 
