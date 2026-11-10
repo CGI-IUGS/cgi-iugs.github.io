@@ -3,7 +3,7 @@
 {{- $style := "" }}
 {{- with $s.Params.image }}
   {{- with $.bundle.Resources.Get . }}
-    {{- $bg := .Resize "1800x q75" }}
+    {{- $bg := .Resize "1600x q60" }}  {{- /* sits under a dark overlay, so heavy compression is invisible */}}
     {{- $darken := $s.Params.image_darken | default 0.6 }}
     {{- $style = printf "background-image: linear-gradient(rgba(0,0,0,%v), rgba(0,0,0,%v)), url(%s)" $darken $darken $bg.RelPermalink }}
   {{- else }}
