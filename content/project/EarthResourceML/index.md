@@ -78,7 +78,7 @@ Downloads and other resources
 *   XSD schemas for [version 2.0](http://schemas.earthresourceml.org/2.0/)
 *   XSD schemas for [version 1.1](http://www.earthresourceml.org/earthresourceml/1.1/xsd/)
 *   [Wiki](https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceML) for the development of the ERML data standard
-*   [resource.geosciml.org](http://resource.geosciml.org/): the GeoSciML vocabulary repository contains useful vocabularies to support delivery of interoperable geological data for mineral occurrences and mines
+*   [CGI vocabularies](https://github.com/GeoscienceAustralia/cgi-vocabs): the vocabulary repository contains useful vocabularies to support delivery of interoperable geological data for mineral occurrences and mines
 *   [publications and presentations](https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations): conference abstracts, posters and presentations describing ERML and related projects from 2007 to 2016. (Please respect the copyright of the authors of these publications.)
 
 Global use of ERML

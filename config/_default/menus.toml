@@ -27,6 +27,11 @@
   weight = 32
 
 [[main]]
+  name = "Vocabularies"
+  url = "https://cgi.vocabs.ga.gov.au/"
+  weight = 33
+
+[[main]]
   name = "Publications"
   url = "/#publications"
   weight = 35

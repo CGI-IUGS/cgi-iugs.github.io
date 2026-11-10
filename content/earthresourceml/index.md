@@ -35,6 +35,6 @@ Version 2.0.1 was [released in October 2018](https://earthresourceml.org/earthre
 ## Schemas and vocabularies
 
 * [XML schemas for all versions](https://earthresourceml.org/schemas/), also at schemas.earthresourceml.org
-* [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/vocab/): all CGI vocabularies, with SPARQL endpoints and APIs
-* [Vocabulary files for EarthResourceML](https://github.com/CGI-IUGS/cgi-vocabs/tree/master/vocabularies/earthresourceml) (TTL)
+* [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/): browse and query all CGI vocabularies
+* [Vocabulary files for EarthResourceML](https://github.com/GeoscienceAustralia/cgi-vocabs/tree/master/vocabularies/earthresourceml) (TTL), in the [GeoscienceAustralia/cgi-vocabs](https://github.com/GeoscienceAustralia/cgi-vocabs) repository
 * The vocabularies are maintained by the [Geoscience Terminology Working Group](/project/geoscienceterminology/)

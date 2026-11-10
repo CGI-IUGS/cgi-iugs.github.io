@@ -51,7 +51,7 @@ The Geoscience Terminology Working Group develops, reviews, adopts, publishes an
 Our vocabularies
 ----------------
 
-More than 100 geoscience vocabularies have been identified to support the [GeoSciML](/geosciml/) and [EarthResourceML](/earthresourceml/) data models and over 50 of these have now been compiled and adopted. These are available through the [CGI vocabularies register](http://resource.geosciml.org/def/voc/). These vocabularies include key lists such as:
+More than 100 geoscience vocabularies have been identified to support the [GeoSciML](/geosciml/) and [EarthResourceML](/earthresourceml/) data models and over 50 of these have now been compiled and adopted. These are available from the [GeoscienceAustralia/cgi-vocabs](https://github.com/GeoscienceAustralia/cgi-vocabs) repository and can be browsed at [cgi.vocabs.ga.gov.au](https://cgi.vocabs.ga.gov.au/). These vocabularies include key lists such as:
 
 [lithology](http://resource.geosciml.org/classifier/cgi/lithology)
 
@@ -71,7 +71,7 @@ More than 100 geoscience vocabularies have been identified to support the [GeoSc
 
 The important [CGI geological time vocabulary service](http://resource.geosciml.org/) will be merged into the main CGI vocabularies register in the near future. The geological time vocabulary draws on age definitions established by the [International Commission on Stratigraphy](http://www.stratigraphy.org/) and was the first CGI vocabulary to provide multi-lingual terms, currently in 19 languages.
 
-The CGI vocabulary service is hosted by the [Australian National Data Service](http://www.ands.org.au/) and is administered through [Geoscience Australia](http://www.ga.gov.au/). Additional resources are available from the [Research Vocabularies Australia website](https://vocabs.ands.org.au/search#!/?q=&p=1&publisher=CGI%20Geoscience%20Terminology%20Working%20Group), including downloadable code-lists in Resource Description Framework (RDF) formats (e.g. RDF/XML, JSON, Turtle) and Linked Data APIs.
+The [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/) is run by [Geoscience Australia](http://www.ga.gov.au/), and the vocabulary source files are in the [GeoscienceAustralia/cgi-vocabs](https://github.com/GeoscienceAustralia/cgi-vocabs) repository. Additional resources are available from the [Research Vocabularies Australia website](https://vocabs.ands.org.au/search#!/?q=&p=1&publisher=CGI%20Geoscience%20Terminology%20Working%20Group), including downloadable code-lists in Resource Description Framework (RDF) formats (e.g. RDF/XML, JSON, Turtle) and Linked Data APIs.
 
 Background
 ----------

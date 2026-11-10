@@ -70,11 +70,9 @@ GeoSciML-Portrayal is now the GeoSciML-Lite package of GeoSciML 4.
 ## Schemas and vocabularies
 
 * [XML schemas for all versions](https://geosciml.org/schemas/), also at schemas.geosciml.org
-* [Geoscience vocabularies for linked data](https://geosciml.org/resource/), for describing geological features, geological time, mineral occurrences and mining-related features
-  * [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/vocab/): all CGI vocabularies, with SPARQL endpoints and APIs
-  * [Register of CGI vocabularies](https://geosciml.org/resource/vocabularies-full-list.html) and their URIs
-  * [Vocabulary files for GeoSciML](https://github.com/CGI-IUGS/cgi-vocabs/tree/master/vocabularies/geosciml) (TTL)
-  * The vocabularies are maintained by the [Geoscience Terminology Working Group](/project/geoscienceterminology/)
+* [CGI vocabulary service](https://cgi.vocabs.ga.gov.au/): browse and query all CGI vocabularies
+* [Vocabulary files for GeoSciML](https://github.com/GeoscienceAustralia/cgi-vocabs/tree/master/vocabularies/geosciml) (TTL), in the [GeoscienceAustralia/cgi-vocabs](https://github.com/GeoscienceAustralia/cgi-vocabs) repository
+* The vocabularies are maintained by the [Geoscience Terminology Working Group](/project/geoscienceterminology/)
 
 ## News archive
 
