@@ -2,10 +2,6 @@
 # Display name
 title: Edward Lewis
 
-# Username (this should match the folder name)
-authors:
-- edward-lewis
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -15,7 +11,7 @@ role: Geologist (Standards Lead)
 # Organizations/Affiliations
 organizations:
 - name: British Geological Survey   
-  url: "www.bgs.ac.uk"
+  url: "https://www.bgs.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: British-Australian Geologist, Standards Lead and FOSS advocate @BritGeoSurvey & a fan of @UKScouting

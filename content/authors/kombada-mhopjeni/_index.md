@@ -2,10 +2,6 @@
 # Display name
 title: "Kombada Mhopjeni"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "kombada-mhopjeni"
-
 # Is this the primary user of the site?
 superuser: false
 

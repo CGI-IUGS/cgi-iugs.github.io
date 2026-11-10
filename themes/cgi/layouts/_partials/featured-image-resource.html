@@ -1,0 +1,6 @@
+{{- /* Returns the page's featured image (a bundle file named featured.*), or nothing. */ -}}
+{{- $img := "" -}}
+{{- with .Resources -}}
+  {{- with (.ByType "image").GetMatch "*featured*" -}}{{- $img = . -}}{{- end -}}
+{{- end -}}
+{{- return $img -}}

@@ -1,0 +1,6 @@
+{{- /* "Active" or "Concluded" label for a working group, taken from its tags. */ -}}
+{{- range .Params.tags }}
+  {{- if in (slice "active" "concluded") . }}
+    <p><span class="badge badge-{{ . }}">{{ . }}</span></p>
+  {{- end }}
+{{- end }}

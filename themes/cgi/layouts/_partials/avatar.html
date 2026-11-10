@@ -1,0 +1,5 @@
+{{- /* Round profile photo from a person's avatar.* file. Pass the profile page. */ -}}
+{{- with (.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{- $img := .Fill "320x320 Center" }}
+<img class="avatar" src="{{ $img.RelPermalink }}" width="160" height="160" alt="" loading="lazy">
+{{- end }}

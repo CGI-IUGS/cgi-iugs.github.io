@@ -2,10 +2,6 @@
 # Display name
 title: "Kazuhiro Miyazaki"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "kazuhiro-miyazaki"
-
 # Is this the primary user of the site?
 superuser: false
 

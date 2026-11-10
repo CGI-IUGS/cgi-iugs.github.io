@@ -1,0 +1,13 @@
+{{- /* Authors and date shown under a page title. */ -}}
+{{- $authors := slice }}
+{{- range .GetTerms "authors" }}
+  {{- $authors = $authors | append (printf "<a href=\"%s\">%s</a>" .RelPermalink .LinkTitle) }}
+{{- end }}
+{{- $showDate := eq .Section "post" }}
+{{- if or $authors $showDate }}
+<p class="meta">
+  {{- with $authors }}{{ delimit . ", " | safeHTML }}{{ end }}
+  {{- if and $authors $showDate }} · {{ end }}
+  {{- if $showDate }}{{ partial "date.html" . }}{{ end }}
+</p>
+{{- end }}

@@ -1,0 +1,17 @@
+{{- /* All publications, newest first, grouped by year. */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{- with .Content }}<div class="content">{{ . }}</div>{{ end }}
+  {{- range .Pages.GroupByDate "2006" }}
+  <h2>{{ .Key }}</h2>
+  <ul class="item-list">
+    {{- range .Pages }}
+    {{ partial "pub-item.html" . }}
+    {{- end }}
+  </ul>
+  {{- end }}
+</div>
+{{ end }}

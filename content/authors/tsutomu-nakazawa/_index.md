@@ -2,10 +2,6 @@
 # Display name
 title: Tsutomu Nakazawa
 
-# Username (this should match the folder name)
-authors:
-- tsutomu-nakazawa
-
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,0 +1,9 @@
+{{- /* A council member in the people grid. Pass the profile page. */ -}}
+<li>
+  <a href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">{{ partial "avatar.html" . }}</a>
+  <p class="person-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+  {{- with .Params.role }}
+  <p class="person-role">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- partial "social.html" . }}
+</li>

@@ -1,0 +1,18 @@
+{{- /* Download and related links for a publication (url_pdf, doi, ...). */ -}}
+{{- $links := slice }}
+{{- with .Params.url_pdf }}{{ $links = $links | append (dict "name" "PDF" "url" .) }}{{ end }}
+{{- with .Params.doi }}{{ $links = $links | append (dict "name" "DOI" "url" (printf "https://doi.org/%s" .)) }}{{ end }}
+{{- range slice (slice "url_dataset" "Dataset") (slice "url_code" "Code") (slice "url_slides" "Slides") (slice "url_poster" "Poster") (slice "url_video" "Video") (slice "url_source" "Source") (slice "url_project" "Project") }}
+  {{- $name := index . 1 }}
+  {{- with index $.Params (index . 0) }}{{ $links = $links | append (dict "name" $name "url" .) }}{{ end }}
+{{- end }}
+{{- range .Params.links }}{{ $links = $links | append (dict "name" .name "url" .url) }}{{ end }}
+{{- with $links }}
+<ul class="links">
+  {{- range . }}
+  {{- $url := .url }}
+  {{- if not (strings.HasPrefix $url "http") }}{{ $url = relURL $url }}{{ end }}
+  <li><a href="{{ $url }}">{{ .name }}</a></li>
+  {{- end }}
+</ul>
+{{- end }}

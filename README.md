@@ -8,17 +8,39 @@ See Contacts below.
 
 ## Technical website operations
 
-This is a [Hugo](https://gohugo.io/) *static site generator* website which means the source files are pretty much simplified HTML pages - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)-formatted text files - which you can see stored in this repo. These are combined with a very simple template, the [wowchemy theme](https://wowchemy.com/) to add headers & footers to all pages and produce the final HTML web pages which are then delivered online with a web server.
+This is a [Hugo](https://gohugo.io/) *static site generator* website. The pages are [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) text files in `content/`. Hugo combines them with the site's own small theme in `themes/cgi/` (HTML templates and one plain CSS file, no Node or other build tools) to produce the HTML pages.
 
-This repository holds both the Hugo source and the theme (vendored in `themes/academic`, previously the separate [CGI-hugo-theme](https://github.com/CGI-IUGS/CGI-hugo-theme) submodule). On every push to `master`, GitHub Actions (`.github/workflows/gh-pages.yml`) builds the site and publishes it with the built-in [GitHub Pages](https://pages.github.com/). The built HTML is not committed to the repo.
+On every push to `main`, GitHub Actions (`.github/workflows/gh-pages.yml`) builds the site and publishes it with [GitHub Pages](https://pages.github.com/). Pull requests are built too, as a check, but not published. The built HTML is not committed to the repo.
 
 Pages must be set to deploy from GitHub Actions: *Settings → Pages → Build and deployment → Source = GitHub Actions*.
 
-### Running the site locally:
+### Where things are
 
-To run locally, install Hugo v0.70.0 extended edition (the version used in CI).
+| What | Where |
+| --- | --- |
+| Homepage sections (banner, About, Council, News, ...) | `content/home/` – one file per section; `weight` sets the order, `active = false` hides one |
+| News posts | `content/post/<name>/index.md` (add `featured.jpg` for the picture) |
+| Working groups | `content/project/<name>/index.md` (tag `active` or `concluded`; `featured: true` puts it in Key Projects) |
+| Publications | `content/publication/<name>/index.md` (`url_pdf` links the PDF in `static/docs/`) |
+| People and council members | `content/authors/<name>/_index.md` and `avatar.jpg`; `user_groups` places them in the Council section |
+| Images and PDFs linked from pages | `static/img/` and `static/docs/` |
+| Menu | `config/_default/menus.toml` |
+| Site settings | `config/_default/hugo.toml` and `params.toml` |
+| Templates and styles | `themes/cgi/layouts/` and `themes/cgi/assets/css/main.css` |
 
-`hugo serve`
+### Running the site locally
+
+Install Hugo v0.169.0 (the version used in CI; the standard edition is enough, extended is not needed), then run:
+
+```bash
+hugo server
+```
+
+and open <http://localhost:1313/>.
+
+### Updating Hugo
+
+Change `hugo-version` in `.github/workflows/gh-pages.yml`. The CI build fails on any Hugo warning, so a pull request shows straight away if a new version needs a template change. Dependabot keeps the GitHub Actions themselves up to date.
 
 ## License & Rights
 

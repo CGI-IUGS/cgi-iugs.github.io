@@ -1,0 +1,40 @@
+{{- /* A working group page, followed by publications and news linked to it via `projects`. */ -}}
+{{ define "main" }}
+<article class="wrap">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- with .RawSummary }}
+    <p class="subtitle">{{ . | markdownify }}</p>
+    {{- end }}
+    {{- with .Params.external_link }}
+    <p class="meta"><a href="{{ . }}">Visit the {{ $.Title }} website</a></p>
+    {{- end }}
+  </header>
+  {{ partial "featured-image.html" . }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+  {{- $name := path.Base .File.Dir }}
+  {{- $linked := where site.RegularPages "Params.projects" "intersect" (slice $name) }}
+  <footer class="page-footer">
+    {{- with where $linked "Section" "publication" }}
+    <h2>Publications</h2>
+    <ul class="item-list">
+      {{- range .ByDate.Reverse }}
+      {{ partial "pub-item.html" . }}
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- with where $linked "Section" "post" }}
+    <h2>News</h2>
+    <ul class="item-list">
+      {{- range .ByDate.Reverse }}
+      <li><a class="item-title" href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="meta muted">{{ partial "date.html" . }}</span></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{ partial "tags.html" . }}
+    {{ partial "edit-link.html" . }}
+  </footer>
+</article>
+{{ end }}

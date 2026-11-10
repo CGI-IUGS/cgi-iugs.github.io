@@ -1,0 +1,39 @@
+{{- /* A publication: details, download links, abstract. */ -}}
+{{ define "main" }}
+<article class="wrap">
+  {{ partial "page-header.html" . }}
+  <dl class="content meta">
+    {{- with .Params.publication }}
+    <dt class="muted">Publication</dt><dd>{{ . | markdownify }}</dd>
+    {{- end }}
+    <dt class="muted">Date</dt><dd>{{ .Date | time.Format (site.Params.publication_date_format | default "January 2006") }}</dd>
+    {{- with .Params.publication_types }}
+    {{- $type := index . 0 }}
+    <dt class="muted">Type</dt><dd><a href="{{ with site.GetPage (printf "/publication_types/%v" $type) }}{{ .RelPermalink }}{{ end }}">{{ partial "publication-type-name.html" $type }}</a></dd>
+    {{- end }}
+    {{- with .Params.projects }}
+    <dt class="muted">Working group</dt>
+    <dd>
+      {{- range $i, $p := . }}
+        {{- with site.GetPage (printf "/project/%s" $p) }}{{ if $i }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+      {{- end }}
+    </dd>
+    {{- end }}
+  </dl>
+  {{ partial "pub-links.html" . }}
+  {{ partial "featured-image.html" . }}
+  <div class="content">
+    {{- with .Params.abstract }}
+    <h2>Abstract</h2>
+    {{ . | markdownify }}
+    {{- else }}
+    {{- with .RawSummary }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{- end }}
+    {{ .Content }}
+  </div>
+  <footer class="page-footer">
+    {{ partial "tags.html" . }}
+    {{ partial "edit-link.html" . }}
+  </footer>
+</article>
+{{ end }}

@@ -2,10 +2,6 @@
 # Display name
 title: "Lesego P. Ramaabya (Former Peter)"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "lesego-peter "
-
 # Is this the primary user of the site?
 superuser: false
 

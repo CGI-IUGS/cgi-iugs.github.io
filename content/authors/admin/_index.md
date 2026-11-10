@@ -2,10 +2,6 @@
 # Display name
 title: CGI-IUGS
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -64,13 +60,13 @@ To foster the interoperability and exchange of geoscience information, by active
 
 ## OneGeology
 
-<img src="img/onegeology.jpg" width="150">
+<img src="/img/onegeology.jpg" width="150">
 
 [OneGeology's](http://www.onegeology.org/) aim is to create dynamic digital geological map data for the world. It is an international initiative of the geological surveys of the world who are working together to achieve an ambitious and exciting venture. The OneGeology organisation endorses and uses the GeoSciML data transfer standard and has worked closely with CGI in providing a platform for the use and promotion of CGI data standards.
 
 ## Open Geospatial Consortium (OGC)
 
-<img src="img/ogc_logo.jpg" width="150">
+<img src="/img/ogc_logo.jpg" width="150">
 
 CGI is a strong supporter of the open standards framework established by [OGC](http://www.opengeospatial.org/). CGI and OGC cooperate under a Memorandum of Understanding signed in 2013 under which the future development of GeoSciML will be undertaken in an OGC Standards Working Group (SWG).
 

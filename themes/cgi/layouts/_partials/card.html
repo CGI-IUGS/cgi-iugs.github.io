@@ -1,0 +1,20 @@
+{{- /* A card for a news post or working group in a grid. */ -}}
+{{- $link := .Params.external_link | default .RelPermalink }}
+<li class="card">
+  {{- with partial "featured-image-resource.html" . }}
+    {{- /* Working group images are logos: show them whole. News photos are cropped to fit. */}}
+    {{- $isLogo := eq $.Section "project" }}
+    {{- $thumb := cond $isLogo (.Fit "640x360") (.Fill "640x360 Smart") }}
+  <a href="{{ $link }}" tabindex="-1" aria-hidden="true"><img{{ if $isLogo }} class="logo"{{ end }} src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="" loading="lazy"></a>
+  {{- end }}
+  <div class="card-body">
+    <h3><a href="{{ $link }}">{{ .Title }}</a></h3>
+    {{- if eq .Section "post" }}
+    <p class="meta muted">{{ partial "date.html" . }}</p>
+    {{- end }}
+    {{- with .RawSummary | default .Summary }}
+    <p>{{ . | plainify | htmlUnescape | truncate 220 }}</p>
+    {{- end }}
+    {{- if eq .Section "project" }}{{ partial "status-badge.html" . }}{{ end }}
+  </div>
+</li>

@@ -2,10 +2,6 @@
 # Display name
 title: Mauricio Pavan Silva
 
-# Username (this should match the folder name)
-authors:
-- mauricio-pavan
-
 # Is this the primary user of the site?
 superuser: false
 

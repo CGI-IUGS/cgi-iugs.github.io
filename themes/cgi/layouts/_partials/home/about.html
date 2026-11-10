@@ -1,0 +1,15 @@
+{{- /* Text and profile box from an author profile (`author`, default "admin"). */ -}}
+{{- $s := .section }}
+{{- with site.GetPage (printf "/authors/%s" ($s.Params.author | default "admin")) }}
+<section class="home-section" id="{{ $.id }}">
+  <div class="wrap about">
+    {{ partial "profile.html" . }}
+    <div class="content">
+      <h2 class="section-title">{{ $s.Title | markdownify }}</h2>
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{- else }}
+  {{- warnf "content/home/%s: author profile %q not found" $s.File.LogicalName $s.Params.author }}
+{{- end }}

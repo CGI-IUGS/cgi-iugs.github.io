@@ -1,0 +1,13 @@
+{{- /* Academic-style numeric publication types, kept for existing content. */ -}}
+{{- $names := dict
+  "0" "Uncategorized"
+  "1" "Conference paper"
+  "2" "Journal article"
+  "3" "Preprint"
+  "4" "Report"
+  "5" "Book"
+  "6" "Book section"
+  "7" "Thesis"
+  "8" "Patent"
+-}}
+{{- return (index $names (string .) | default .) -}}

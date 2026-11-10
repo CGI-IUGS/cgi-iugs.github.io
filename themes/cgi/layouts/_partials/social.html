@@ -1,0 +1,22 @@
+{{- /* A person's contact and profile links, from `social` in their profile. */ -}}
+{{- $labels := dict
+  "envelope" "Email"
+  "twitter" "Twitter"
+  "x-twitter" "X"
+  "linkedin" "LinkedIn"
+  "github" "GitHub"
+  "orcid" "ORCID"
+  "researchgate" "ResearchGate"
+  "google-scholar" "Google Scholar"
+  "wikipedia-w" "Wikipedia"
+  "globe" "Website"
+  "link" "Website"
+-}}
+{{- with .Params.social }}
+<ul class="social">
+  {{- range . }}
+  {{- $label := index $labels .icon | default (humanize .icon) }}
+  <li><a href="{{ .link }}" aria-label="{{ $label }}: {{ $.Title }}">{{ $label }}</a></li>
+  {{- end }}
+</ul>
+{{- end }}

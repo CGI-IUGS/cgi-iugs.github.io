@@ -2,10 +2,6 @@
 # Display name
 title: "Mickaël Beaufils"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "mickael-beaufils"
-
 # Is this the primary user of the site?
 superuser: false
 

@@ -34,8 +34,6 @@ projects: []
 
 »[View this newsletter as a PDF](/docs/CGI_newsletter_August_2022.pdf)
 
-{{% toc %}}
-
 ## Feb 24th GeoInfo Summit – Harvey Thorleifson
 
 ![GeoInfo Summit participants, May 19th](/img/newsletter8/01Zoom.jpg)

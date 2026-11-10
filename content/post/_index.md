@@ -1,14 +1,9 @@
 ---
-title: Posts
+title: News
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# Links to tag pages shown above the list.
+filter_button:
+  - {name: News, tag: news}
+  - {name: Newsletter, tag: newsletter}
+  - {name: Awards, tag: awards}
 ---

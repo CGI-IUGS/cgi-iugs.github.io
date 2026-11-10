@@ -1,0 +1,14 @@
+{{- /* Default layout for a single page (news posts, misc pages). */ -}}
+{{ define "main" }}
+<article class="wrap">
+  {{ partial "page-header.html" . }}
+  {{ partial "featured-image.html" . }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+  <footer class="page-footer">
+    {{ partial "tags.html" . }}
+    {{ partial "edit-link.html" . }}
+  </footer>
+</article>
+{{ end }}

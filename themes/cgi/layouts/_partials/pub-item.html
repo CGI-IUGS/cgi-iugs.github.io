@@ -1,0 +1,9 @@
+{{- /* One publication in a list: title, date and download links. */ -}}
+<li>
+  <a class="item-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <div class="meta muted">
+    {{ .Date | time.Format (site.Params.publication_date_format | default "January 2006") }}
+    {{- with .Params.publication_types }} · {{ partial "publication-type-name.html" (index . 0) }}{{ end }}
+  </div>
+  {{- partial "pub-links.html" . }}
+</li>

@@ -1,0 +1,5 @@
+{{- /* Heading and optional subtitle of a homepage section. */ -}}
+<h2 class="section-title">{{ .section.Title | markdownify }}</h2>
+{{- with .section.Params.subtitle }}
+<p class="subtitle">{{ . | markdownify }}</p>
+{{- end }}

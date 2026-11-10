@@ -1,0 +1,15 @@
+{{- /* List of all terms in a taxonomy, e.g. /tags/. */ -}}
+{{ define "main" }}
+<div class="wrap">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <ul class="item-list">
+    {{- range .Pages.ByTitle }}
+    {{- $name := .LinkTitle }}
+    {{- if eq $.Data.Plural "publication_types" }}{{ $name = partial "publication-type-name.html" .Data.Term }}{{ end }}
+    <li><a class="item-title" href="{{ .RelPermalink }}">{{ $name }}</a> <span class="muted">({{ len .Pages }})</span></li>
+    {{- end }}
+  </ul>
+</div>
+{{ end }}
