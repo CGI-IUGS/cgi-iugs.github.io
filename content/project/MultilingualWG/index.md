@@ -42,7 +42,7 @@ slides: ""
 Multi Lingual Thesaurus
 =======================
 
-The Multilingual Thesaurus Working Group (MLTWG) was merged with the Concept Definitions Task Group in 2012 to form the [Geoscience Terminology Working Group](/tech_collaboration/geoscience_terminology_working_group.html).
+The Multilingual Thesaurus Working Group (MLTWG) was merged with the Concept Definitions Task Group in 2012 to form the [Geoscience Terminology Working Group](/project/geoscienceterminology/).
 
 Mission
 -------

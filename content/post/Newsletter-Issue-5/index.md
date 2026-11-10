@@ -136,7 +136,7 @@ The [Geoscience Information Consortium](http://www.g-i-c.org/) (GIC) is an annua
 
 The conference heard a wide range of presentations on current best practice in data management and data delivery from many individual Geological Surveys, as well as collaborative data sharing initiatives from around the world. Panel discussion sessions also shared the experiences and requirements of the Geological Surveys in managing and delivering 3D geological models, future data management strategies, and emerging technologies.
 
-![32nd Annual GIC Conference](/images/newsletters/32_GIC_2.jpg)
+![32nd Annual GIC Conference](/img/32_GIC_2.jpg)
 
 Government Geological Survey information managers are encouraged to join the 33rd annual GIC conference which will be hosted by Geoscience Australia in Canberra, Australia in mid 2018.
 

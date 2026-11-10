@@ -37,11 +37,11 @@ Welcome to Edition #2 of the CGI Newsletter. In this edition we welcome three ne
 
 ## New Members of CGI Council
 
-Three new members have been elected to CGI Council to replace the recently retired Richard Hughes and to fill two other vacancies. We welcome [Kombada Mhopjeni](https://cgi-iugs.github.io/author/kombada-mhopjeni/) (Geological Survey of Namibia), [Zhang Minghua](https://cgi-iugs.github.io/author/dr-zhang-minghua/) (China Geological Survey), and Santiago Munoz (Geological Survey of the Dominican Republic).
+Three new members have been elected to CGI Council to replace the recently retired Richard Hughes and to fill two other vacancies. We welcome [Kombada Mhopjeni](/author/kombada-mhopjeni/) (Geological Survey of Namibia), [Zhang Minghua](/author/dr-zhang-minghua/) (China Geological Survey), and Santiago Munoz (Geological Survey of the Dominican Republic).
 
 ## CGI Working Group News
 
-[![Word map](/img/wordmap.jpg)](/images/newsletters/wordmap.jpg "Wordmap")
+[![Word map](/img/wordmap.jpg)](/img/wordmap.jpg "Wordmap")
 
 The [Geoscience Terminology Working Group]({{< ref "/project/GeoscienceTerminology/index.md" >}}), in collaboration with the [EarthResourceML Working Group]({{< ref "/project/EarthResourceML/index.md" >}}) recently approved the adoption of 18 new vocabularies to support delivery of mineral occurrence and mine data using the EarthResourceML data transfer standard. The vocabularies have been developed in collaboration with the European Union’s Minerals Intelligence Network for Europe (Minerals4EU), so that Minerals4EU vocabularies use either exactly the same terms or have mappings to CGI terminology. The vocabularies are to be published soon through the [CGI's vocabulary service](http://resource.geosciml.org "http://resource.geosciml.org").
 

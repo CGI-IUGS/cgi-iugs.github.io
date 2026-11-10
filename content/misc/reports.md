@@ -18,7 +18,7 @@ header:
 
 ## CGI annual reports to the IUGS
 
-*   [2018](/docs/CGI-annual-report-2018.pdf)
+*   [2018](/docs/CGI_annual_report_2018.pdf)
 *   [2017](/docs/CGI_annual_report_2017.pdf)
 *   [Four year report 2012-16](/docs/CGI_four_year_report_2012-2016.pdf)
 *   [2016](/docs/CGI_annual_report_2016.pdf)
@@ -40,7 +40,3 @@ header:
 ## Other CGI documents
 
 *   [CGI statutes](/docs/CGI_Statutes_v2_Jan_2005.pdf)
-
-## CGI Council Meeting Minutes
-
-*   [Please login](/members/home.cfm) to view council minutes
